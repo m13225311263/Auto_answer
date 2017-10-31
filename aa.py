@@ -1,6 +1,2 @@
-#encoding=utf-8
-import word2vec
-import
-
-model=
-
+import scipy
+point=scipy.rand(20.4)
