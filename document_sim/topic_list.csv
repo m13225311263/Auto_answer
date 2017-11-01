@@ -1,0 +1,31 @@
+0,新股申购额度规则,newstk_quote_cal
+1,新股申购操作方法,newstk_quote_query
+2,忘记资金账户,fundid_forget
+3,账户信息咨询,account_info_query
+4,资金划转操作,cash_transfer_operator
+5,佣金调整,commission_adjust
+6,新股申购额度计算,newstk_subscribe_cal
+7,手机端炒股,mobile_trade_open
+8,业务办理操作,bussiness_process
+9,账户被锁，密码修改,passwd_change
+10,登录失败,login_failed
+11,现金宝业务咨询,xjb_consult
+12,个股咨询,stock_analysis
+13,佣金计算,commission_cal
+14,新股申购查询,newstk_subscribe
+15,账户不存在,acctid_nonexist
+16,创业板转签或开通,gem_transfer
+17,如何交易,"stkcode_trade_operator	"
+18,中签查询,hit_newstk_query
+19,创业板开通（网上）,gem_open
+20,公司网址,company_website
+21,转账不成功,transfer_failed
+22,现金宝签约,xjb_open
+23,现金宝收益,xjb_return
+24,融资融券业务咨询,rzrq_consult
+25,银行卡更换,bankcard_change
+26,账户信息咨询,account_open
+27,锦泉汇金咨询,jqhj_consult
+28,st股票咨询,st_code_consult
+29,锦泉汇金开通,"jqhj_open	"
+30,隔日委托,alternate_day_order
