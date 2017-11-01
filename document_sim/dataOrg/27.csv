@@ -1,0 +1,745 @@
+BOS 有人给我打电话让我签锦泉汇金，有这个业务么？ EOS\	O O O O O B-action I-action I-action O B-subject B-action B-object I-object I-object I-object O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 请问锦泉汇金是什么产品 EOS\	O O O O O O O O O O O O jqhj_consult
+BOS 汇泉理财是什么业务呢？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)汇金的持有金额为0，昨天开通的，为什么？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 我没有定锦泉汇金，怎么会自动交易，这个扣费用吗？ EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O B-channel I-channel I-channel I-channel O O O B-action I-action I-action O O jqhj_consult
+BOS 我建设银行 EOS\	O O B-channel I-channel I-channel I-channel jqhj_consult
+BOS 怎么开通买st的股票 EOS\	O O O B-action I-action B-action B-stkname I-stkname I-stkname I-stkname I-stkname jqhj_consult
+BOS 帮我看看怡亚通的走势 EOS\	O O O O O B-subject I-subject I-subject O B-action I-action jqhj_consult
+BOS 请问在股票账户里的资金是怎么记息的，谢谢 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O B-action I-action O O O O jqhj_consult
+BOS 业务员说有个什么基金的 EOS\	O O O O O O O O O B-object I-object O jqhj_consult
+BOS 支付收益有没有通知 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action B-object I-object jqhj_consult
+BOS 是按照季度结算的 EOS\	O O O O B-trading_time I-trading_time B-action I-action O jqhj_consult
+BOS 请问锦泉汇金是什么意思？ EOS\	O O O B-subject I-subject I-subject I-subject B-action B-object I-object I-object I-object O jqhj_consult
+BOS 刚才忘问了，要是参加了锦泉汇金，怎么取款？ EOS\	O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O B-action I-action O jqhj_consult
+BOS 刚才忘问了，要是参加了锦泉汇金，怎么取款？ EOS\	O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O B-action I-action O jqhj_consult
+BOS 请问汇泉有风险吗？ EOS\	O O O B-subject I-subject B-action B-object I-object O O jqhj_consult
+BOS 能随时变现吗？ EOS\	O O B-trading_time I-trading_time B-action I-action O O jqhj_consult
+BOS 有没担保啊 EOS\	O O O B-action I-action O jqhj_consult
+BOS 夜间理财的叫什么来？ EOS\	O B-trading_time I-trading_time B-action I-action O O O O O O jqhj_consult
+BOS 我想看看理财  怎么参与理财？ EOS\	O O O O O O O O O O O B-channel I-channel B-action I-action O jqhj_consult
+BOS 锦泉汇金集合，手续费是多少？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O B-subject I-subject I-subject B-action B-object I-object O jqhj_consult
+BOS 当天加入锦泉汇金，能否当天存上钱？也就是说今天签协议，股票账户的余额能否当天存入？谢谢！ EOS\	O B-trading_time I-trading_time B-action I-action B-object I-object I-object I-object O O O O O B-action I-action I-action O O O O O B-trading_time I-trading_time B-action I-action I-action O B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O B-action I-action O O O O jqhj_consult
+BOS 网上能签协议吗？时间是不是股市开市的时间？ EOS\	O B-channel I-channel O B-action I-action I-action O O O O O O O B-trading_time I-trading_time I-trading_time I-trading_time I-trading_time I-trading_time I-trading_time O jqhj_consult
+BOS 您好请问锦泉汇金是什么意思？有什么政策 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O B-action B-object I-object I-object I-object jqhj_consult
+BOS 在请问我的特权里已经开通融资融券账户、要怎么用？有什么规则 EOS\	O O O O B-subject I-subject I-subject I-subject O O O B-action I-action B-object I-object I-object I-object I-object I-object O B-action I-action I-action I-action O O O O B-object I-object jqhj_consult
+BOS 测试 EOS\	O B-action I-action jqhj_consult
+BOS 明天销售21天吗 EOS\	O B-trading_time I-trading_time B-action I-action B-trading_time I-trading_time I-trading_time O jqhj_consult
+BOS 你们这个锦泉汇金 怎么买？怎么才能有收益？ EOS\	O O O O O O O O O O B-action I-action I-action O O O O O B-object I-object I-object O jqhj_consult
+BOS 你们这个锦泉汇金 怎么买？怎么才能有收益？ EOS\	O O O O O B-subject I-subject I-subject I-subject O B-action I-action I-action O O O O O B-object I-object I-object O jqhj_consult
+BOS 请问啥是锦泉汇金 EOS\	O O O B-subject B-action B-object I-object I-object I-object jqhj_consult
+BOS 您好，我证券账户的钱没买股票，怎么取不出来？ EOS\	O O O O O B-subject I-subject I-subject I-subject I-subject I-subject B-action I-action B-object I-object O O O B-action I-action I-action I-action O jqhj_consult
+BOS 可用余额不足 EOS\	O B-subject I-subject I-subject I-subject B-action I-action jqhj_consult
+BOS 那我要取款怎么办？ EOS\	O O O O B-action I-action O O O O jqhj_consult
+BOS 锦全汇进是什么 EOS\	O B-subject I-subject I-subject I-subject B-action B-object I-object jqhj_consult
+BOS 青岛 EOS\	O B-place I-place jqhj_consult
+BOS 手续费是多少？ EOS\	O B-subject I-subject I-subject B-action B-object I-object O jqhj_consult
+BOS 青岛 EOS\	O B-place I-place jqhj_consult
+BOS 金泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 签约了呀 EOS\	O B-action I-action O O jqhj_consult
+BOS 金泉匯金是什麼啊 EOS\	O B-subject I-subject I-subject I-subject B-action B-object I-object O jqhj_consult
+BOS 金泉匯金是什麼啊 EOS\	O B-subject I-subject I-subject I-subject B-action B-object I-object O jqhj_consult
+BOS 金泉匯金是什麼啊 EOS\	O B-subject I-subject I-subject I-subject B-action B-object I-object O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么参与理财 EOS\	O O O B-action I-action B-object I-object jqhj_consult
+BOS 我看有個金泉匯金嗎 EOS\	O O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject B-action B-object I-object jqhj_consult
+BOS 有理财吗？ EOS\	O O B-action I-action O O jqhj_consult
+BOS 怎么看收益呢？ EOS\	O O O B-action B-object I-object O O jqhj_consult
+BOS 我今天可以赎回21天么？ EOS\	O O B-trading_time I-trading_time O O B-action I-action B-object I-object I-object O O jqhj_consult
+BOS 最近有理财推荐吗？ EOS\	O O O O B-action I-action I-action I-action O O jqhj_consult
+BOS 锦泉汇金呢 EOS\	O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 会影响我取钱吗 EOS\	O O B-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金怎么回事呀！ EOS\	O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 为什么我的锦泉汇金T十0操作不了 EOS\	O O O O O O B-subject I-subject I-subject I-subject B-subject I-subject I-subject O O O O jqhj_consult
+BOS 怎么开通锦泉汇金的理财账户 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O B-object I-object I-object I-object jqhj_consult
+BOS 你好，申购新股在帐户中怎么查不到呢， EOS\	O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 你好，申购新股在帐户中怎么查不到呢， EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O jqhj_consult
+BOS 余额增值是什么意思，能讲解的清楚一点吗%3F EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 我看了一下，资金确实到了你说的锦泉汇金，我直接转出就可以了吗？是谁给我转进去的呢？ EOS\	O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O O O O O O O O O O O O jqhj_consult
+BOS 现金宝和锦泉汇金有差别吗 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 现金宝周末有收益吗 EOS\	O B-subject I-subject I-subject B-trading_time I-trading_time B-action I-action I-action O jqhj_consult
+BOS 周六周日有收益吗 EOS\	O B-trading_time I-trading_time I-trading_time I-trading_time O O O O jqhj_consult
+BOS 周五周六周日有三天收益吗 EOS\	O B-trading_time I-trading_time I-trading_time I-trading_time I-trading_time I-trading_time O O O O O O jqhj_consult
+BOS 锦泉汇金是每天都有收益的吗？包括双休节假日？ EOS\	O B-subject I-subject I-subject I-subject O O O O B-action I-action I-action O O O O O B-trading_time I-trading_time I-trading_time I-trading_time I-trading_time O jqhj_consult
+BOS 现金宝业务有金额起点要求吗？ EOS\	O B-subject I-subject I-subject I-subject I-subject O B-object I-object I-object I-object I-object I-object O O jqhj_consult
+BOS 网上开户就可以了 EOS\	O B-action I-action I-action I-action O O O O jqhj_consult
+BOS 现金宝与汇泉金有什么区别 EOS\	O B-subject I-subject I-subject O B-subject I-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金开立帐户时是否必须有5万元以上 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action I-action O O O O O B-object I-object I-object I-object I-object I-object jqhj_consult
+BOS 上一个问题，我的资金余额没有达到5万元，开锦泉汇金帐户没成功 EOS\	O O O O O O O O O O O O O O O O O O O O B-action I-action I-action I-action I-action I-action I-action I-action B-object I-object I-object jqhj_consult
+BOS 上一个问题，我的资金余额没有达到5万元，开锦泉汇金帐户没成功 EOS\	O O O O O O O O O O O O O O O O O O O O O B-action I-action I-action I-action I-action I-action I-action B-object I-object I-object jqhj_consult
+BOS 汇金 EOS\	O B-subject I-subject jqhj_consult
+BOS 现金宝 EOS\	O B-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金与现金宝有啥区别？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject B-action I-action I-action I-action O jqhj_consult
+BOS 请问现金宝和锦泉汇金有什么不同？ EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject B-action I-action I-action I-action I-action O jqhj_consult
+BOS 如果参与锦泉汇金 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 近期有什么理财？ EOS\	O O O O O O B-action I-action O jqhj_consult
+BOS 给我讲讲什么是锦泉汇金 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 那个什么汇金是什么东西 EOS\	O O O O O B-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 我怎么看到有理财产品 EOS\	O O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 个人中心网页中理财资产什么意思？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject B-object I-object I-object I-object O O O O O jqhj_consult
+BOS 我怎么查看我的锦泉汇金收益？ EOS\	O O O O B-action I-action O O B-subject I-subject I-subject I-subject I-subject I-subject O jqhj_consult
+BOS 手机怎么查 EOS\	O B-channel I-channel O O O jqhj_consult
+BOS 一秀度后收益自动打帐号上？ EOS\	O B-trading_time I-trading_time I-trading_time O B-action I-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 你好，锦泉汇金可以放心用吗 EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action I-action I-action O jqhj_consult
+BOS 是你们证券公司搞得吗 EOS\	O O O O B-channel I-channel I-channel I-channel O O O jqhj_consult
+BOS 就是闭市后的理財 EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 我想问下怎么参与金泉汇金 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 签约现金宝还可以签约金泉汇金吗 EOS\	O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 还想问问金泉汇金 EOS\	O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金账户是9点出15点进不影响买股票吗 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O B-trading_time I-trading_time I-trading_time I-trading_time I-trading_time I-trading_time O B-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 买卖都安t+0 EOS\	O B-action I-action O O B-trading_time I-trading_time I-trading_time jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 金泉汇金怎样签约 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action jqhj_consult
+BOS 金泉汇金怎么样 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 21天理财为什么赎回不了？ EOS\	O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action I-action I-action O jqhj_consult
+BOS 现在利息是多少啊？ EOS\	O B-trading_time I-trading_time B-subject I-subject O O O O O jqhj_consult
+BOS 你好，咨询一下有关锦泉汇金的相关事情。 EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 怎样开通权限？ EOS\	O O O B-action I-action I-action I-action O jqhj_consult
+BOS 你好，请问咱们这儿有没有那种类似于余额宝那样的理财什么的？ EOS\	O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 齐鲁稳固21天，如何赎回？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O B-action I-action O jqhj_consult
+BOS 什么是金泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎麼參與 EOS\	O O O B-action I-action jqhj_consult
+BOS 金泉汇金是什么啊 EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 想问问怎么參與锦泉汇金 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 还有其他的，理财吗？ EOS\	O O O O O O O B-subject I-subject O O jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 什么是锦泉汇金？ EOS\	O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O O O B-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么签约锦泉汇金 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 你好.我还有一个问题。我之前签约了锦泉汇金，但是取款很麻烦，要设置什么的，怎样才可以解约 EOS\	O O O O O O O O O O O O O O O B-action I-action O B-subject I-subject I-subject I-subject O O O B-action I-action O O O O O O O O O O O O O O O O B-action I-action jqhj_consult
+BOS 现金宝是什么 EOS\	O B-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 要是我不想用了，怎么解除呢？ EOS\	O O O O O O O O O O O B-action I-action O O jqhj_consult
+BOS 怎么开通锦泉汇金 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么啊 EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 怎么签约锦泉汇金 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 你们手机软件里的锦泉汇金是什么？ EOS\	O O O B-channel I-channel I-channel I-channel I-channel O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 这个影响买股票吗？ EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 怎么弄锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 怎么弄锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 汇金？ EOS\	O B-subject I-subject O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 你们有没有余额宝之类的 EOS\	O O O O O O B-subject I-subject I-subject O O O jqhj_consult
+BOS 理财需要怎么办理的 EOS\	O B-action I-action O O O O B-action I-action O jqhj_consult
+BOS 我可以买那个理财吗？ EOS\	O O O O B-action O O B-subject I-subject O O jqhj_consult
+BOS 等我光大理财到期 EOS\	O O O O O B-action I-action B-trading_time I-trading_time jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么时候可以查看锦泉汇金的我的余额啊。 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O B-subject I-subject O O jqhj_consult
+BOS 那你给我讲讲锦泉汇金 EOS\	O O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 我有一个21天的理财产品，SF2886，18日到期，我想今天转换SF2883，可以吗？ EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O B-action I-action O O O O O O O O O O O jqhj_consult
+BOS 你好 我30到期的一笔回购 莫名的好像变成了 基金 EOS\	O O O O O O O O O O O O B-action I-action O O O O O O O O O O B-subject I-subject jqhj_consult
+BOS 我看软件首页有个锦泉汇金 EOS\	O O O B-subject I-subject I-subject I-subject O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么弄金泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是啥 EOS\	O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金%3F EOS\	O O O O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-object I-object I-object I-object O O O jqhj_consult
+BOS 你们的锦泉汇金是什么 EOS\	O O O O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么样的理财产品 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金是啥 EOS\	O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 你好，今天理财产品？ EOS\	O O O O B-trading_time I-trading_time B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 那锦泉汇金。会不会买了赔钱？ EOS\	O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action O jqhj_consult
+BOS 锦泉汇金 EOS\	O O O B-subject I-subject jqhj_consult
+BOS 您好，我己开通锦泉汇金，请问首项提示七曰年化收益是指7天收益吗%3F那七曰以上或七日以下怎算，收益在那可查看呢 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金每天都要自己设置吗 EOS\	O B-subject I-subject I-subject I-subject O O O O O O B-action I-action O jqhj_consult
+BOS 不对。锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金怎么申请 EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金怎么弄 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金怎么做？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 汇金是什么？ EOS\	O B-subject I-subject O O O O jqhj_consult
+BOS 怎么弄锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 如何参与汇金 EOS\	O O O O O B-subject I-subject jqhj_consult
+BOS 锦泉汇金怎样设置 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action jqhj_consult
+BOS 请问锦泉汇金是什么 EOS\	O O O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O O O B-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 你刚给我发的锦泉汇金是什么？ EOS\	O O O O O B-action O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 那怎么买锦泉汇金 EOS\	O O O O B-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 汇金和国债逆回购比较怎么样啊？ EOS\	O B-subject I-subject O B-subject I-subject B-action I-action I-action O O O O O O O jqhj_consult
+BOS 锦泉汇金怎么买 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金呢？ EOS\	O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 能讲讲锦泉汇金吗 EOS\	O O B-action I-action B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 什么是金泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 那锦泉汇金呢 EOS\	O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 想问一下锦泉汇金 EOS\	O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O O O B-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么买jin'quan'hui'jin EOS\	O O O B-action B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject jqhj_consult
+BOS 能解释一下锦泉汇金吗 EOS\	O O B-action I-action I-action I-action B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 看到了，好像在锦泉汇金里 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 看到了，好像在锦泉汇金里 EOS\	O B-action I-action O O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 在吗？我想问一下锦泉汇金 EOS\	O O O O O O B-action O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 我想问一下那个汇金业务怎么办？ EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金怎么签？ EOS\	O B-subject I-subject I-subject I-subject O O B-action O jqhj_consult
+BOS 锦泉汇金是什么理财？ EOS\	O B-subject I-subject I-subject I-subject O O O B-subject I-subject O jqhj_consult
+BOS 我想问一下锦泉汇金怎么买 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O B-action jqhj_consult
+BOS 钱在账户里，有理财利息？ EOS\	O B-subject O B-subject I-subject O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 存在股票账户里的钱给不给利息，什么情况才能给利息？谢谢你。 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O B-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金是啥理财 EOS\	O B-subject I-subject I-subject I-subject O O B-subject I-subject jqhj_consult
+BOS 怎么参与锦泉汇金 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 问一下，现金宝和锦泉汇金有没有风险啊 EOS\	O O O O O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 理财是保本保息的吗 EOS\	O B-action I-action O B-action I-action B-action I-action O O jqhj_consult
+BOS 现金宝和锦泉汇金有什么区别 EOS\	O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 现金宝和锦泉汇金有什么区别 EOS\	O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 姜书经理您好，请问我资金自动理财的功能开通了吗？ EOS\	O O O O O O O O O O O B-subject I-subject B-action I-action I-action I-action O O O B-action I-action O O O jqhj_consult
+BOS 齐鲁锦泉 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 有没有现金自动隔夜管理功能？ EOS\	O O O O B-subject I-subject O O B-action I-action I-action I-action O O O jqhj_consult
+BOS 请问锦泉汇金集合是什么理财 EOS\	O O O B-subject I-subject I-subject I-subject B-subject I-subject O O O O O jqhj_consult
+BOS B00006的资料在哪里可以查询？ EOS\	O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-subject I-subject O O O O O B-action I-action O jqhj_consult
+BOS 闲余资金能自动理财么 EOS\	O B-subject I-subject I-subject I-subject O B-action I-action I-action I-action O jqhj_consult
+BOS 是锦泉汇金 EOS\	O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金现金理财，如果周五15点自动确认份额，周六周日算利息吗？ EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action O O O B-trading_time I-trading_time I-trading_time I-trading_time I-trading_time O O O O O O O O O O O O O O O O jqhj_consult
+BOS 在哪点开汇金？想关闭现金宝 EOS\	O O O B-action I-action B-subject I-subject O O B-action I-action B-subject I-subject I-subject jqhj_consult
+BOS 请教24小时理财 EOS\	O O O B-trading_time I-trading_time I-trading_time I-trading_time B-action I-action jqhj_consult
+BOS 您好，我的账户有个基金申请拨出金额78000元，但是我没有操作过 EOS\	O O O O O O O O O O B-subject I-subject B-action I-action I-action I-action O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 你好问问，账户里闲置资金在非交易时间可以理财么？ EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action O O jqhj_consult
+BOS 能详细介绍下吗，不想承担风险的理财推荐下 EOS\	O O O O O O O O O O O B-action I-action B-subject I-subject O B-subject I-subject O O O jqhj_consult
+BOS 我要开通现金理财业务，介绍下 EOS\	O O O B-action I-action B-action I-action I-action I-action B-subject I-subject O O O O jqhj_consult
+BOS 交易里没有锦泉汇金啊？在哪？ EOS\	O B-action I-action O O O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金资料在哪里查询 EOS\	O B-subject I-subject I-subject I-subject B-subject I-subject O O O B-action I-action jqhj_consult
+BOS B00006齐鲁锦泉汇金集合的说明为什么没有数据 EOS\	O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金与稳固21有哪些不一样的地方 EOS\	O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O O O O O jqhj_consult
+BOS 啥是汇金，现金宝 EOS\	O O O B-subject I-subject O B-subject I-subject I-subject jqhj_consult
+BOS 还有一个问题 汇金和现金宝都是什么性质的理财产品 收益率大概各是多少 EOS\	O O O O O O O O B-subject I-subject O B-subject I-subject I-subject O O O O O O O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 有白天做股票 闲余资金理财的功能吗 EOS\	O O B-trading_time I-trading_time O B-subject I-subject O B-subject I-subject I-subject I-subject B-action I-action O O O O jqhj_consult
+BOS 锦泉汇金风险大吗？安全不 EOS\	O B-subject I-subject I-subject I-subject B-subject I-subject O O O O O O jqhj_consult
+BOS 锦权汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 资金晚上怎么管理 EOS\	O B-subject I-subject B-trading_time I-trading_time O O B-action I-action jqhj_consult
+BOS 齐富打开写着闲钱一不闲置，周末也挣钱，怎么挣？ EOS\	O B-subject I-subject O O O O B-subject I-subject O O B-action I-action O B-trading_time I-trading_time O B-action I-action O O O O O jqhj_consult
+BOS 除了现金宝，还有别的吗 EOS\	O O O B-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 金泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 持续产生利息收入 EOS\	O O O B-action I-action B-subject I-subject B-action I-action jqhj_consult
+BOS 齐鲁金泉汇金集合给我扣了4000 . EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O O O O B-action O O O O O O O jqhj_consult
+BOS 那这个锦泉汇金，还是不如稳固21天的收益快，对吗？ EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject I-subject O B-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金怎么签约 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action jqhj_consult
+BOS 我想了解一下锦泉汇金 EOS\	O O O B-action I-action O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 你好，请问公司理财有哪些？有没有闲置资金超短期的理财 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O O O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 锦泉汇金理财合适吧 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O jqhj_consult
+BOS 如何在证券帐号上能投资周六日赚利息？ EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action I-action B-trading_time I-trading_time I-trading_time B-action B-subject I-subject O jqhj_consult
+BOS 锦泉汇金是基金吗？代码是多少 EOS\	O B-subject I-subject I-subject I-subject O B-subject I-subject O O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金梦见介绍下吗 EOS\	O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 买锦泉汇金合不合适 EOS\	O B-action B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 你好，请介绍一下锦泉汇金业务 EOS\	O O O O O B-action I-action O O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 利率是多少 EOS\	O B-object I-object O O O jqhj_consult
+BOS otc产品给我介绍一下 EOS\	O B-subject I-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金怎么买 EOS\	O B-subject I-subject I-subject I-subject O O B-action jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O O O B-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金呢 EOS\	O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 我想问一下锦泉汇金 EOS\	O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金怎么签？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金是什么？？ EOS\	O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 如何参与 EOS\	O B-action I-action I-action I-action jqhj_consult
+BOS 如何取款呢 EOS\	O B-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O O O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 请问B0102是什么产品？ EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O O B-subject I-subject O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是啥 EOS\	O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 还有锦泉汇金 EOS\	O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 请问：现金宝与锦泉汇金的区别？二者所购的现金都是可以“开市炒股，闭市理财”吗？ EOS\	O O O O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O B-action I-action I-action I-action O B-action I-action I-action I-action O O O jqhj_consult
+BOS 您好，齐鲁锦泉怎样赎回？ EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action I-action O jqhj_consult
+BOS 锦泉汇金利率多少 EOS\	O B-subject I-subject I-subject I-subject B-subject I-subject O O jqhj_consult
+BOS 闭式理财是哪些？ EOS\	O B-action I-action I-action I-action O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 闲置资金挣钱我想了解下 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金是啥呀 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 麻烦您一下，万家现金宝与金泉汇金的区别？ EOS\	O O O O O O O B-subject I-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 怎么参与 EOS\	O O O O O jqhj_consult
+BOS 怎么参与 EOS\	O B-action I-action I-action I-action jqhj_consult
+BOS 怎么取款 EOS\	O B-action I-action I-action I-action jqhj_consult
+BOS 锦泉汇金是怎么回事？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 齐鲁锦泉汇金集合 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金的风险是什么？ EOS\	O B-subject I-subject I-subject I-subject O B-object I-object O O O O jqhj_consult
+BOS 关于你们的理财产品 EOS\	O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是啥意思 EOS\	O B-subject I-subject I-subject I-subject O O B-subject I-subject jqhj_consult
+BOS 锦泉基金现在还有吗 EOS\	O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 不会产生亏损？ EOS\	O O O B-action I-action I-action I-action O jqhj_consult
+BOS 不会耽误股票买卖？ EOS\	O O O B-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 我在齐富通APP上看到理财产品 现金宝 和 锦泉汇金 EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 如何开通 EOS\	O B-action I-action I-action I-action jqhj_consult
+BOS 锦泉汇金的投资方向有哪些 EOS\	O B-subject I-subject I-subject I-subject O B-object I-object I-object I-object O O O jqhj_consult
+BOS 请问 锦泉汇金是基金吗 EOS\	O O O O B-subject I-subject I-subject I-subject O B-subject I-subject O jqhj_consult
+BOS 锦泉汇金是你公司产品吗 EOS\	O B-subject I-subject I-subject I-subject O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 余额宝是货币基金 EOS\	O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 我的电子合同处于待核对状态是什么意思 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject B-object I-object I-object I-object I-object I-object I-object O O O O O jqhj_consult
+BOS 股票余额帐户不是可以自动理财？ EOS\	O B-subject I-subject I-subject I-subject B-subject I-subject O O O O B-action I-action I-action I-action O jqhj_consult
+BOS 哦，默认金额是账户内全额资金，是吧 EOS\	O O O B-subject I-subject I-subject I-subject O B-object I-object I-object I-object I-object I-object I-object O O O jqhj_consult
+BOS 什么  齐鲁锦泉汇金集合 EOS\	O O O O O O O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 平时我的余额是怎么运作的？ EOS\	O O O O O B-subject I-subject O O O B-action I-action O O jqhj_consult
+BOS 我点立即转账，就到了锦泉汇金页面了，怎么办 EOS\	O O O B-action I-action I-action I-action O O O O B-subject I-subject I-subject I-subject O O O O O O O jqhj_consult
+BOS 现金宝好还是锦泉汇金好 EOS\	O B-subject I-subject I-subject O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉汇金是怎么回事？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 请问，不用的资金在账户里，可以有利息？怎么操作？ EOS\	O O O O O O O B-subject I-subject O B-subject I-subject O O O O O B-subject I-subject O O O O O O jqhj_consult
+BOS 上周我开通了锦泉汇金，这个怎么操作 EOS\	O B-trading_time I-trading_time O B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O jqhj_consult
+BOS 现金宝和锦泉汇金能同时开吗 EOS\	O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O B-action O jqhj_consult
+BOS 股市当天完了，想用余额投资，但不影响第二天购买股票，应开通什么业务 EOS\	O O O O O O O O O O B-subject I-subject B-action I-action O O O O O O O O B-action I-action B-subject I-subject O O O O O O O O jqhj_consult
+BOS 与锦泉汇金有何区别 EOS\	O O B-subject I-subject I-subject I-subject O O B-object I-object jqhj_consult
+BOS 有没有现金理财产品 EOS\	O O O O B-subject I-subject B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦全汇金和余额宝一样嘛 EOS\	O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O jqhj_consult
+BOS 你好，我想请问我们证券有一种叫闲钱理财的功能，交易自动转回，那个怎么开通 EOS\	O O O O O O O O O O O O O O O O B-action I-action I-action I-action O O O O O O B-action I-action I-action I-action O O O O O B-action I-action jqhj_consult
+BOS 锦泉节假日有收益吗？ EOS\	O B-subject I-subject B-trading_time I-trading_time I-trading_time O B-subject I-subject O O jqhj_consult
+BOS 周五刚卖出股票有充足资金，为什么没有汇泉份额 EOS\	O B-trading_time I-trading_time O B-action I-action B-subject I-subject O O O B-subject I-subject O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦全汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 金泉汇金是什么啊 EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金是什么产品 EOS\	O B-subject I-subject I-subject I-subject O O O B-subject I-subject jqhj_consult
+BOS 汇金呢 EOS\	O B-subject I-subject O jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 你好，我想问下股市余额可以做什么投资 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action jqhj_consult
+BOS 锦泉汇金(B00006)锦泉汇金收益稳定吗aaaaa EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O B-object I-object O O O O O O O O jqhj_consult
+BOS 金泉是 EOS\	O B-subject I-subject O jqhj_consult
+BOS 汇金是什么业务 EOS\	O B-subject I-subject O O O B-subject I-subject jqhj_consult
+BOS 上面显示齐鲁锦泉汇金集合 EOS\	O O O B-action I-action O O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 锦泉汇金怎么玩 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 闭市理财是什么概念 EOS\	O B-action I-action I-action I-action O O O B-subject I-subject jqhj_consult
+BOS 闭市理财，开市炒股怎样开通 EOS\	O B-action I-action I-action I-action O B-action I-action I-action I-action O O B-action I-action jqhj_consult
+BOS 有个汇金？是什么 EOS\	O O O B-subject I-subject O O O O jqhj_consult
+BOS 有什么好理财推荐一下 EOS\	O O O O O B-subject I-subject B-action I-action O O jqhj_consult
+BOS 中泰里的不影响炒股的 EOS\	O B-subject I-subject O O B-action I-action I-action B-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O B-action I-action O O O O B-subject I-subject O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O B-subject I-subject O jqhj_consult
+BOS 金泉汇金介绍一下吧 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O B-action I-action O B-action I-action B-subject I-subject O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action B-subject I-subject O O B-action I-action O jqhj_consult
+BOS 请问从哪里查询股市休市时，我放入锦泉汇金里钱挣了多少%3F如何看%3F EOS\	O O O O O O O O B-subject I-subject B-action I-action O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O jqhj_consult
+BOS 现金理财都包括啥 EOS\	O B-subject I-subject B-action I-action O O O O jqhj_consult
+BOS 汇金的详细介绍有吗 EOS\	O B-subject I-subject O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action B-subject I-subject O O B-action I-action O jqhj_consult
+BOS 还有汇金？ EOS\	O O O B-subject I-subject O jqhj_consult
+BOS 闭市理财那个好 EOS\	O B-action I-action B-action I-action O O O jqhj_consult
+BOS 我在理财专栏上没有找到这个产品 EOS\	O O O B-action I-action O O O O O O O O O B-subject I-subject jqhj_consult
+BOS 近2万的现金一直闲置着，有什么好的理财产品推荐吗 EOS\	O O O O O B-subject I-subject O O B-action I-action O O O O O O O B-subject I-subject I-subject I-subject B-action I-action O jqhj_consult
+BOS 锦泉2号X份额170号(SV1880)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O B-action I-action O B-action I-action O O O jqhj_consult
+BOS 锦泉汇金(B00006)这个产品业绩比较基准是多少？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O B-subject I-subject I-subject I-subject O O B-object I-object O O O O jqhj_consult
+BOS 锦泉汇金的呢 EOS\	O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 锦泉汇金(B00006)是不是第二天直接可以买股票？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O B-trading_time I-trading_time I-trading_time O O O O B-action B-subject I-subject O jqhj_consult
+BOS 锦泉汇金(B00006)你好 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)B0006收益要扣多少费用？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O B-subject I-subject O O O O B-subject I-subject O jqhj_consult
+BOS 锦泉汇金(B00006)收益怎么查 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)B股交易中有什么费用？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-subject I-subject B-action I-action O O O O B-subject I-subject O jqhj_consult
+BOS 锦泉汇金(B00006)我以前开通了锦泉汇金、六月二十一日取走了、帐上资金留下不多、隔几天我又从银行转了五万到证券帐上、怎么几天都不见进入锦泉汇金里面去、还是留在可取走上、请问我是否还要又从先加入锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O B-trading_time I-trading_time I-trading_time I-trading_time I-trading_time O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)会自动结算吗？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action I-action I-action O O jqhj_consult
+BOS 中泰齐富通 股市余额理财里面有现金宝和锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金，保本吗 EOS\	O B-subject I-subject I-subject I-subject O B-action I-action O jqhj_consult
+BOS 您好 可以介绍一下汇金这款理财产品吗 EOS\	O O O O O O B-action I-action O O B-subject I-subject O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 介绍一下锦泉汇金吧 EOS\	O B-action I-action O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 你好，我没开通理财产品，为什么自动买基金了？ EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O B-action I-action I-action B-subject I-subject O O jqhj_consult
+BOS 就是收盘后，资金再利用，晚上证券公司用钱理财的产品，叫什么?有风险吗？ EOS\	O O O B-action I-action O O B-subject I-subject B-action I-action I-action O O O O O O O O O B-action I-action O B-subject I-subject O O O O O O O O O O jqhj_consult
+BOS 股票市值能不能和锦泉市值分开，让人能看清楚 EOS\	O B-subject I-subject I-subject I-subject O O O O B-subject I-subject I-subject I-subject O O O O O O O O O jqhj_consult
+BOS 锦泉汇是什么 EOS\	O B-subject I-subject I-subject O O O jqhj_consult
+BOS 请介绍一下锦泉汇金 EOS\	O O B-action I-action O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 还有如果当天帐户有余下的现金,有没有和中信证券的信金保一样的业务,能把当天余的现金存在信金保里,第二天还不耽误买股票 EOS\	O O O O O O O O O O O O O B-subject I-subject O O O O O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action I-action B-action I-action I-action jqhj_consult
+BOS 锦泉汇金又是啥 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦权汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 收市后理财，今天放上明天早上能用吗？ EOS\	O B-action I-action O B-action I-action O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)我签约锦泉汇金时资金已经够五万，那么签约以后几天可以参与理财？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 我的资金在锦泉汇金里，这样影响到晚上结算吗？经理 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 介绍一下金泉汇金吧 EOS\	O O O O O O O O O O jqhj_consult
+BOS 看到了  开通了锦泉汇金集合 EOS\	O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)？ EOS\	O O O O O O O O O O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)这个产品有风险吗？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 你好，锦泉汇金是什么 EOS\	O O O O O O O O O O O jqhj_consult
+BOS 汇金介绍一下吧谢谢了 EOS\	O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)资金安全吗 EOS\	O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 有个瑾泉汇金是什么 EOS\	O O O O O O O O O O jqhj_consult
+BOS 万家宝和锦泉汇金有什么区别？ EOS\	O O O O O O O O O O O O O O O jqhj_consult
+BOS 有没有随时可以参与的理财产品？ EOS\	O O O O O O O O B-action I-action O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉2号X份额193号(SV4985)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 万家现金宝(000773)000773和B00006有什么区别？ EOS\	O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 哦，怎么样算持有金泉汇金呀？ EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 锦泉汇金(B00006)现在的资金余额与可用资金是一样的？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金怎么样 EOS\	O O O O O O O O jqhj_consult
+BOS 金泉汇金是什么 EOS\	O O O O O O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)我己开通成功接下来如何做？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O B-action I-action O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)闭市，几点自动转入资金 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O B-action I-action B-subject I-subject jqhj_consult
+BOS 锦泉汇金(B00006)这个是怎样一个产品 EOS\	O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金是不是也是余额理财 EOS\	O O O O O O O O O O O O O O jqhj_consult
+BOS 闲钱理财怎么操作 EOS\	O B-subject I-subject B-action I-action O O O O jqhj_consult
+BOS 介绍下锦泉汇金吧 EOS\	O O O O O O O O O jqhj_consult
+BOS 有个锦泉汇金的理财么？ EOS\	O O O O O O O O O O O O O jqhj_consult
+BOS 汇金怎么回事，最近老收到电话 EOS\	O O O O O O O O O O O O O O O jqhj_consult
+BOS 能给推荐一只，货币基金吗 EOS\	O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金是定期买吗 EOS\	O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金是什么啊 EOS\	O O O O O O O O O jqhj_consult
+BOS 汇金是什么哦先看看 EOS\	O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)我已经开通锦泉汇金 EOS\	O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 保本保息的理财 EOS\	O O O O O O O O jqhj_consult
+BOS 问问，锦泉汇金是啥 EOS\	O O O O O O O O O O jqhj_consult
+BOS 汇金是？ EOS\	O O O O O jqhj_consult
+BOS 汇金 EOS\	O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O B-action I-action O O O O O O O jqhj_consult
+BOS 请问锦泉汇金是什么 EOS\	O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)炒股又买理财，炒股时亏了之后低于五万元之后，没有五万怎么理财 EOS\	O O O O O O O O O O O O O B-action I-action O O B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 汇金是什么，最近老受到短信 EOS\	O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉2号X份额201号(SV6034)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 如何购买锦泉汇金理财产品 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 怎么没看到锦泉汇金的收益 EOS\	O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)现在能买吗 EOS\	O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)这个产品业绩比较基准是多少？ EOS\	O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O jqhj_consult
+BOS 买了汇金还可以买股票吗 EOS\	O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金如何签约 EOS\	O O O O O O O O O jqhj_consult
+BOS 锦泉汇金和现金宝哪个好 EOS\	O O O O O O O O O O O O jqhj_consult
+BOS 我想问下，锦泉汇金产品有无申赎费用 EOS\	O O O O O O O O O O O O O O B-action I-action B-subject I-subject jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)不是 EOS\	O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)这个产品几天 EOS\	O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 我开通了錦泉汇金。是不是只要账户上有钱 系统自动理财 EOS\	O O B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O B-action I-action I-action I-action jqhj_consult
+BOS 齐鲁锦泉2号X份额230号(SV9263)如何参与/退出产品？ EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 手里有闲钱想买基金，有推荐的吗 EOS\	O O O O B-subject I-subject O O B-subject I-subject O O B-action I-action O O jqhj_consult
+BOS 怎么签约金泉汇金 EOS\	O O O O O O O O O jqhj_consult
+BOS 余额理财大概是怎么样的 EOS\	O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action O O O O O O O jqhj_consult
+BOS 请问锦泉汇金是什么 EOS\	O O O O O O O O O O jqhj_consult
+BOS 汇金 EOS\	O O O jqhj_consult
+BOS 这样啊 汇金是啥理财 EOS\	O O O O O O O O O O O jqhj_consult
+BOS 我是说开通了锦泉汇金后怎么才能把证券里的钱存到里面呢？没找到能存入的地方啊 EOS\	O O O O B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)现金宝与锦泉，哪个产品稳定，风险小 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦权汇金是什么？ EOS\	O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)实际收入需扣多少业债报酬 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O B-action O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金(B00006)账户里钱是不是自动转入 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O B-action I-action I-action I-action jqhj_consult
+BOS 锦泉汇金(B00006)有何风险？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O B-subject I-subject O jqhj_consult
+BOS 您好，我想了解一下锦泉汇金这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 我想问一下现金宝和金泉汇金的区别 EOS\	O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 我想问下B00006是什么基金 EOS\	O O O O O O O O O O O O O O B-subject I-subject jqhj_consult
+BOS 汇金的购入和赎回手续，以及到账时间和方式 EOS\	O O O O B-action I-action O B-action I-action O O O O O O O O O O B-subject I-subject jqhj_consult
+BOS 21天和齐鲁锦泉 EOS\	O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)锦泉汇金 EOS\	O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 买了锦泉X理财产品，是自动赎回还是自己赎回？谢谢 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O O O O O jqhj_consult
+BOS 介绍一下锦泉汇金 EOS\	O B-action I-action O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 我想解约锦全汇金 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 有没有随时可以参与的理财产品？ EOS\	O O O O O O O O B-action I-action O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦全汇金安全吗 EOS\	O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)账户里的余额什么时间转入锦泉汇金？ EOS\	O O O O O O O O O O O O O B-subject I-subject O O B-subject I-subject O O O O B-action I-action O O O O O jqhj_consult
+BOS 您好，我想了解一下咱们的锦泉汇金产品。 EOS\	O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金是什么基金 EOS\	O O O O O O O O B-subject I-subject jqhj_consult
+BOS 问下，锦泉汇金那个活期怎么购买？ EOS\	O O O O B-subject I-subject I-subject I-subject O O B-subject I-subject O O B-action I-action O jqhj_consult
+BOS 介绍一下金泉汇金是什么 EOS\	O O O O O O O O O O O O jqhj_consult
+BOS 介绍下汇金吧 EOS\	O O O O O O O jqhj_consult
+BOS 汇金介绍介绍吧 EOS\	O O O O O O O O jqhj_consult
+BOS 什么是锦泉汇金？ EOS\	O O O O O O O O O jqhj_consult
+BOS 锦泉汇金和现金宝一样吗 EOS\	O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)参与 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action jqhj_consult
+BOS 锦泉汇金(B00006)收益在那里查询 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-subject I-subject O O O B-action I-action jqhj_consult
+BOS 锦泉汇金(B00006)在吗 EOS\	O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)这个产品业绩比较基准是多少？ EOS\	O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦全汇金是什么啊 EOS\	O O O O O O O O O jqhj_consult
+BOS 锦泉2号X份额221号(SV8580)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)开通锦泉汇金会影响新股认筹金吗？ EOS\	O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject O O jqhj_consult
+BOS 锦泉汇金理财是什么产品？ EOS\	O O O O O B-subject I-subject O O O B-subject I-subject O jqhj_consult
+BOS 汇金介绍介绍 EOS\	O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)我的资金怎么没进去啊 EOS\	O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 持有锦泉汇金就是绑定的银行卡里有钱吗？ EOS\	O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉2号X份额221号(SV8580)你好 EOS\	O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 你好，锦泉2号我怎么无法购买%3F EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action O O O jqhj_consult
+BOS 汇金是？ EOS\	O O O O O jqhj_consult
+BOS 还有，锦泉汇金和现金宝哪个好 EOS\	O O O O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O jqhj_consult
+BOS 汇金怎么来的收益 EOS\	O B-subject I-subject O O O O B-subject I-subject jqhj_consult
+BOS 锦泉汇金(B00006)你好，我的这个基金是股票余额自动理财，若我明天需要资金买股票，是否需要赎回？如果我明天买了股票，也就是说没有持有7天，会有利息产生吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject O O B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 你们这个现金宝和锦汇有什么区别 EOS\	O O O O O B-subject I-subject I-subject O B-subject I-subject O O O O O jqhj_consult
+BOS 有针对新客户的理财产品吗？ EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O jqhj_consult
+BOS 我的账户里有一些闲置资金暂时不打算买股票，有什么好的理财产品么 EOS\	O O O B-subject I-subject O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 我的余额6万 办理锦泉汇金和现金宝哪个合适？ EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O O O jqhj_consult
+BOS 咨询一下锦泉汇金 EOS\	O B-action I-action O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 藏金宝(000216)请简单介绍一下这个产品。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O O O O O O O O O O O O O B-action I-action B-subject I-subject O O O O O jqhj_consult
+BOS 汇金参与的是什么东西 EOS\	O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金/现金宝如何签约 EOS\	O O O O O O O O O O O B-action I-action jqhj_consult
+BOS 介绍下汇金吧 EOS\	O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)找李素云 EOS\	O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 介绍下现金宝和汇金吧 EOS\	O B-action I-action O O O O O B-subject I-subject O jqhj_consult
+BOS 锦泉汇金我第一次参与需要5万吗，后面全取了，还可以再1万参加吗 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)好 EOS\	O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)不要我要取消理财 EOS\	O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject jqhj_consult
+BOS 股市余额应该怎样理财 EOS\	O O O B-subject I-subject O O O O B-action I-action jqhj_consult
+BOS 现金宝和锦泉汇金有什么区别？ EOS\	O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O O jqhj_consult
+BOS 锦泉2号怎么买不上今天 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O jqhj_consult
+BOS 过夜高利息业务 EOS\	O O O O O O O O jqhj_consult
+BOS 闲置资金有什么理财产品吗？ EOS\	O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金怎么样 EOS\	O O O O O O O O jqhj_consult
+BOS 请问锦泉汇金是什么 EOS\	O O O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O O O O O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O B-action I-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O B-action I-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O B-action I-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么买锦泉汇金 EOS\	O B-action I-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 我想问一下锦泉汇金 EOS\	O O O B-action I-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 我想问一下锦泉汇金 EOS\	O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 我想问一下锦泉汇金 EOS\	O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 我想问一下锦泉汇金 EOS\	O O O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 怎么买金泉汇金 EOS\	O B-action I-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金？ EOS\	O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 汇金和现金宝有什么区别 EOS\	O B-subject I-subject O B-subject I-subject I-subject B-action I-action I-action I-action I-action jqhj_consult
+BOS 锦泉汇金能介绍下吗 EOS\	O B-subject I-subject I-subject I-subject O B-action I-action O O jqhj_consult
+BOS 锦泉汇金能介绍下吗 EOS\	O B-subject I-subject I-subject I-subject O B-action I-action O O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 什么是锦泉汇金？ EOS\	O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 是哪个锦什么的 EOS\	O O B-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 汇金是啥 EOS\	O B-subject I-subject O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 金泉汇金是什么啊 EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O B-action I-action I-action I-action O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action O O O O O O O jqhj_consult
+BOS 万家现金宝好还是锦泉汇金好 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject I-subject I-subject O O B-action I-action I-action I-action O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金是否影响打新资金的缴纳 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action B-object I-object I-object I-object I-object I-object I-object jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 什么是锦泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 金泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 齐鲁锦泉集合资产这款产品还有吗 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 想了解一下锦泉汇金 EOS\	O O B-action I-action I-action I-action B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 什么叫金泉汇金 EOS\	O O O O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 请问齐鲁锦泉汇金与现金宝的区别 EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O jqhj_consult
+BOS 现金宝与锦泉汇金相比，除了要设置股票帐户保留金额外，参予理财的资金开市后在使用和调度上，二者也是相同的，对吗？ EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦金汇泉是干嘛的 EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 请问锦泉汇金是什么 EOS\	O O O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么？ EOS\	O B-subject I-subject I-subject I-subject O O O O jqhj_consult
+BOS 是“齐鲁锦金汇金集合“ EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O jqhj_consult
+BOS 是“齐鲁锦全汇金集合“的钱，怎么转出来 EOS\	O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O B-action I-action I-action I-action I-action jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 请问什么是锦泉汇金？ EOS\	O O O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 请问锦泉汇金是什么 EOS\	O O O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-action I-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金是什么 EOS\	O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金 EOS\	O B-subject I-subject I-subject I-subject jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-object I-object I-object I-object B-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-action I-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)你好 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject B-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金是货币型基金产品吧 EOS\	O B-subject I-subject I-subject I-subject O B-object I-object I-object I-object I-object I-object I-object O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金是个什么性质的理财产品 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-object I-object I-object I-object jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-action I-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-action I-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)有电话吗，收费吗电话 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-object I-object I-object I-object O O O O O O jqhj_consult
+BOS 介绍下金泉汇金吧 EOS\	O B-action I-action O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)我是五月份参加的，为何至今利息沒有到账。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-trading_time I-trading_time I-trading_time B-action I-action O O O O B-trading_time I-trading_time B-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)可用：101298.8 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action I-action I-action I-action I-action O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 现金宝与锦泉汇金有何区别？ EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 现金宝和锦泉汇金有什么不同 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 介绍下金泉汇金吧 EOS\	O O O O B-subject I-subject I-subject I-subject O jqhj_consult
+BOS 有个涨利息的汇金介绍下吧 EOS\	O O O O O O O B-subject I-subject O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 我想问一下锦泉汇金是什么 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)保留金额是什么意思 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-object I-object I-object I-object O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)你好 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O jqhj_consult
+BOS 锦泉汇金(B00006)退出资金何时到账？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-object I-object I-object I-object B-trading_time I-trading_time B-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)你好 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)介绍一下 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 汇金 EOS\	O B-subject I-subject jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O B-action I-action I-action I-action I-action I-action I-action O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 你确定吗？之前我买的你们锦泉的一个也转让过 EOS\	O O O O O O O O O O O O O B-subject I-subject O O O O O O O jqhj_consult
+BOS 我问的是你们otc买的那些理财，跟进汇金没什么关系，谢谢 EOS\	O O O O O O O O O O O O O O O O O O O B-subject I-subject O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)如何参与/退出产品？ EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 汇金是什么 EOS\	O B-subject I-subject O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 锦泉汇金(B00006)请简单介绍一下这个产品。 EOS\	O B-subject I-subject I-subject I-subject O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O O O O O O O O O O O jqhj_consult
+BOS 活期的锦泉同现金宝    收益谁高 EOS\	O O O O B-subject I-subject O O O O O O O O O O O O jqhj_consult

@@ -1,0 +1,985 @@
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我能买多少新股啊？ EOS\	O O O B-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 中购额度怎样申请？ EOS\	O O O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 那新股申购需要什么条件呢 EOS\	O O B-subject I-subject B-action I-action O O O O O O O newstk_subscribe_cal
+BOS 那新股申购需要什么条件呢 EOS\	O O B-subject I-subject B-action I-action O O O O O O O newstk_subscribe_cal
+BOS 新股申购没有额度，怎么回事 EOS\	O B-subject I-subject B-action I-action O O B-object I-object O O O O O newstk_subscribe_cal
+BOS 新股申购没有额度，怎么回事 EOS\	O B-subject I-subject B-action I-action O O B-object I-object O O O O O newstk_subscribe_cal
+BOS 怎么看能不能新股申购啊 EOS\	O O O O O O O B-subject I-subject B-action I-action O newstk_subscribe_cal
+BOS 我为什么不能够申购新股 EOS\	O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我为什么不能够申购新股 EOS\	O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股可以随便买吗，张经理 EOS\	O B-subject I-subject O O O O B-action O O O O O newstk_subscribe_cal
+BOS 新股可以随便买吗，张经理 EOS\	O B-subject I-subject O O O O B-action O O O O O newstk_subscribe_cal
+BOS 我想咨询一下，我每次申购新股时，查看配号时，有一个开始尾号，然后有一个数量是3，我能每次申购深市新股1500股，这个是什么意思 EOS\	O O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我想咨询一下，我每次申购新股时，查看配号时，有一个开始尾号，然后有一个数量是3，我能每次申购深市新股1500股，这个是什么意思 EOS\	O O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 还有一个问题，新股申购额度，是怎样规定的？ EOS\	O O O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O O O O newstk_subscribe_cal
+BOS 还有一个问题，新股申购额度，是怎样规定的？ EOS\	O O O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O O O O newstk_subscribe_cal
+BOS 还有一个问题，新股申购额度，是怎样规定的？ EOS\	O O O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O O O O newstk_subscribe_cal
+BOS 还有一个问题，新股申购额度，是怎样规定的？ EOS\	O O O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O O O O newstk_subscribe_cal
+BOS 如何新购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 如何新购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 你好，请问怎么申购新股？ EOS\	O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好，请问怎么申购新股？ EOS\	O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 国泰申购最低多少股 EOS\	O O O B-action I-action O O B-object I-object O newstk_subscribe_cal
+BOS 国泰申购最低多少股 EOS\	O O O B-action I-action O O B-object I-object O newstk_subscribe_cal
+BOS 国泰申购最低多少股 EOS\	O O O B-action I-action O O B-object I-object O newstk_subscribe_cal
+BOS 国泰申购最低多少股 EOS\	O O O B-action I-action O O B-object I-object O newstk_subscribe_cal
+BOS 国泰申购最低多少股 EOS\	O O O B-action I-action O O B-object I-object O newstk_subscribe_cal
+BOS 新股申購有什麼要求嗎 EOS\	O B-subject I-subject B-action I-action O O O B-object I-object O newstk_subscribe_cal
+BOS 新股申購有什麼要求嗎 EOS\	O B-subject I-subject B-action I-action O O O B-object I-object O newstk_subscribe_cal
+BOS 新股申購有什麼要求嗎 EOS\	O B-subject I-subject B-action I-action O O O B-object I-object O newstk_subscribe_cal
+BOS 为什么我新股申购的额度书0 EOS\	O O O O O B-subject I-subject B-action I-action O B-object I-object O O newstk_subscribe_cal
+BOS 为什么我新股申购的额度书0 EOS\	O O O O O B-subject I-subject B-action I-action O B-object I-object O O newstk_subscribe_cal
+BOS 我的新股申购额度怎么是0呢 EOS\	O O O B-subject I-subject B-action I-action B-object I-object O O O O O newstk_subscribe_cal
+BOS 手机版交易软件申购新股的话允许申购的数量是随机自动生成的吗 EOS\	O O O O O O O O B-action I-action B-subject I-subject O O O O O O O B-object I-object O O O O O O O O O newstk_subscribe_cal
+BOS 新股无法申购 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 申购新股有什么条件 EOS\	O B-action I-action B-subject I-subject O O O B-object I-object newstk_subscribe_cal
+BOS 申购新股有什么条件 EOS\	O B-action I-action B-subject I-subject O O O B-object I-object newstk_subscribe_cal
+BOS 深圳申购额度怎么开通？ EOS\	O O O B-action I-action B-object I-object O O O O O newstk_subscribe_cal
+BOS 深圳申购额度怎么开通？ EOS\	O O O B-action I-action B-object I-object O O O O O newstk_subscribe_cal
+BOS 怎么具备新股申购资格 EOS\	O O O O O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 怎么具备新股申购资格 EOS\	O O O O O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 現在新股申購有什麼要求 EOS\	O O O B-subject I-subject B-action I-action O O O B-object I-object newstk_subscribe_cal
+BOS 現在新股申購有什麼要求 EOS\	O O O B-subject I-subject B-action I-action O O O B-object I-object newstk_subscribe_cal
+BOS 你好，新股申购的条件。 EOS\	O O O O B-subject I-subject B-action I-action O B-object I-object O newstk_subscribe_cal
+BOS 你好，新股申购的条件。 EOS\	O O O O B-subject I-subject B-action I-action O B-object I-object O newstk_subscribe_cal
+BOS 我能申购吗 EOS\	O O O B-action I-action O newstk_subscribe_cal
+BOS 我能申购吗 EOS\	O O O B-action I-action O newstk_subscribe_cal
+BOS 新股申购最少要买1000股吗 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购最少要买1000股吗 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O newstk_subscribe_cal
+BOS 手机炒股为什么不能申购新股了 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好请问新股申购为什深市可以而上海不可以呢？ EOS\	O O O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 你好请问新股申购为什深市可以而上海不可以呢？ EOS\	O O O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 没有市值就不能审购吗？？？ EOS\	O O O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 没有市值就不能审购吗？？？ EOS\	O O O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 我想问一下新股申购的条件 EOS\	O O O O O O B-subject I-subject B-action I-action O B-object I-object newstk_subscribe_cal
+BOS 我想问一下新股申购的条件 EOS\	O O O O O O B-subject I-subject B-action I-action O B-object I-object newstk_subscribe_cal
+BOS 我想问一下新股申购的条件 EOS\	O O O O O O B-subject I-subject B-action I-action O B-object I-object newstk_subscribe_cal
+BOS 我可以申请前面是7的新股吗 EOS\	O O O O B-action I-action O O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 我可以申请前面是7的新股吗 EOS\	O O O O B-action I-action O O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 你帮我查下为什么我的不能申购新股呢 EOS\	O O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你帮我查下为什么我的不能申购新股呢 EOS\	O O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎样申构新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎样申构新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 请问为何持有主板股票并有足够市值却不能申购主板新股？ EOS\	O O O O O O O O O O O O O O O O O O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 请问为何持有主板股票并有足够市值却不能申购主板新股？ EOS\	O O O O O O O O O O O O O O O O O O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 申购新股是看深证总市值吗 EOS\	O B-action I-action B-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 申购新股是看深证总市值吗 EOS\	O B-action I-action B-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 我怎么申购不了新股 EOS\	O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我怎么申购不了新股 EOS\	O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 新股申购的条件是什么？ EOS\	O B-subject I-subject B-action I-action O O O O O O O newstk_subscribe_cal
+BOS 有市值，为什么不能申购新股？ EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 有市值，为什么不能申购新股？ EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好，新股申购需要什么条件？ EOS\	O O O O B-subject I-subject B-action I-action O O B-object I-object I-object I-object O newstk_subscribe_cal
+BOS 你好，新股申购需要什么条件？ EOS\	O O O O B-subject I-subject B-action I-action O O B-object I-object I-object I-object O newstk_subscribe_cal
+BOS 请问您，我有股票好几天了怎么还没有申购股数呢？ EOS\	O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 请问您，我有股票好几天了怎么还没有申购股数呢？ EOS\	O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 请问您，我有股票好几天了怎么还没有申购股数呢？ EOS\	O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 我的申购额度为0怎么回事 EOS\	O O O B-action I-action B-object I-object O O O O O O newstk_subscribe_cal
+BOS 我的申购额度为0怎么回事 EOS\	O O O B-action I-action B-object I-object O O O O O O newstk_subscribe_cal
+BOS 我目前没有新股申购额度。已买股票。什么时候可以分配给我额度 EOS\	O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 您好，打新股后给我一个配号是怎么用的？今天是T+2日，我刚看到配好，没用到，也没中签 EOS\	O O O O B-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 您好，打新股后给我一个配号是怎么用的？今天是T+2日，我刚看到配好，没用到，也没中签 EOS\	O O O O B-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 您好，打新股后给我一个配号是怎么用的？今天是T+2日，我刚看到配好，没用到，也没中签 EOS\	O O O O B-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 每天申购新股时总有不成功的 EOS\	O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 每天申购新股时总有不成功的 EOS\	O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 想问一下打新步骤 EOS\	O O O O O B-action B-subject O O newstk_subscribe_cal
+BOS 想问一下打新步骤 EOS\	O O O O O B-action B-subject O O newstk_subscribe_cal
+BOS 想问一下打新步骤 EOS\	O O O O O B-action B-subject O O newstk_subscribe_cal
+BOS 想问一下打新步骤 EOS\	O O O O O B-action B-subject O O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 你好，如何申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 谢谢。我想问下打新股怎么打？ EOS\	O O O O O O O O B-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 怎样自动申购新股 EOS\	O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我要申购新股，给开通好吗？ EOS\	O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 我要申购新股，给开通好吗？ EOS\	O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 我的新股申购额度是11000为什么只申购了7000股呢？ EOS\	O O O B-subject I-subject B-action I-action B-object I-object O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么不能上网申购？ EOS\	O O O O O O O B-action I-action O newstk_subscribe_cal
+BOS 新股申购资金不够有影响吗？ EOS\	O B-subject I-subject B-action I-action O O O O O O O O O newstk_subscribe_cal
+BOS 为啥我不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为啥我不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购怎么申购 EOS\	O B-subject I-subject B-action I-action O O O O newstk_subscribe_cal
+BOS 新股申购，还要开通 哪几项功能 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O O newstk_subscribe_cal
+BOS 账户有钱，怎么不能购买新股呢 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 账户有钱，怎么不能购买新股呢 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 账户有钱，怎么不能购买新股呢 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 杨经理买新股怎么买法 EOS\	O O O O B-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 陶经理，我想申购新股怎么申购 EOS\	O O O O O O O B-action I-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 你好我为什么申请不了新股 EOS\	O O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 你好我为什么申请不了新股 EOS\	O O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 请问一下，我有在两个不同的证券公司开了两个账号，在a账户申请打新，会在b账户中么 EOS\	O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject O O O O O O O B-action I-action O O O O O O O O newstk_subscribe_cal
+BOS 新股申购，实际成交0啥意思 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购，实际成交0啥意思 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O newstk_subscribe_cal
+BOS 刚刚申请了新股，还没中签下来 EOS\	O O O O O O B-subject I-subject O O O B-action I-action O O newstk_subscribe_cal
+BOS 刚刚申请了新股，还没中签下来 EOS\	O O O O O O B-subject I-subject O O O B-action I-action O O newstk_subscribe_cal
+BOS 为什么我新股可申购额度为0？ EOS\	O O O O O B-subject I-subject O B-action I-action B-object I-object O O O newstk_subscribe_cal
+BOS 我怎么无法申购7开头的 EOS\	O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 我怎么申购不了新股 EOS\	O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 打新需要什么条件？ EOS\	O B-action B-subject O O O O B-object I-object O newstk_subscribe_cal
+BOS 为什么我无法申购深圳新股 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 能买到一万股是说他中了十个号吗 EOS\	O O O O B-subject I-subject I-subject O O O B-action I-action B-subject I-subject I-subject O newstk_subscribe_cal
+BOS 哦，哎！这么一说，跟中大乐透似的，还有，我怎么申购不了深圳的呢 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 请问我股票市值1万多，为什么打新股时   显示我的市值是0呢？ EOS\	O O O O O O O O O O O O O O O B-action B-subject I-subject O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我可以申購新股吗 EOS\	O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我可以申購新股吗 EOS\	O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我怎么申请不了新股这两天 EOS\	O O O O B-action I-action O O B-subject I-subject O O O newstk_subscribe_cal
+BOS 你好，申购新股有什么要求 EOS\	O O O O B-action I-action B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 您好，我得市值超过一万为什么不能申购新股 EOS\	O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购怎么弄 EOS\	O O O O O O O O newstk_subscribe_cal
+BOS 请问新股申购怎么操作 EOS\	O O O B-subject I-subject B-action I-action O O O O newstk_subscribe_cal
+BOS 请问我深股最近申购新股电不上了，前两天还能申购，我也开通了创业板，也有深股市值。 EOS\	O O O O O O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么打新？ EOS\	O O O B-action B-subject O newstk_subscribe_cal
+BOS 我想咨询打新的问题 EOS\	O O O O O B-action B-subject O O O newstk_subscribe_cal
+BOS 为何我的新股申购额度为0 EOS\	O O O O O B-subject I-subject B-action I-action B-object I-object O O newstk_subscribe_cal
+BOS 你好，请问新股申购需要什么条件？ EOS\	O O O O O O B-subject I-subject B-action I-action O O O O O O O newstk_subscribe_cal
+BOS 我深市有6000长期股，为什么不能有新股配额 EOS\	O O O O O O O O O O O O O O O O O O O B-subject I-subject B-object I-object newstk_subscribe_cal
+BOS 打新股之规定。 EOS\	O B-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 打新股之规定。 EOS\	O B-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 为什么我只能申购一种新股啊 EOS\	O O O O O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 为什么我只能申购一种新股啊 EOS\	O O O O O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 你好我想咨询一下新股申购对市值资金的要求，有限购市值可以吗？ EOS\	O O O O O O O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 请问一下我没开通创业板，为什么一直显示新股创业板申购，普通的又没法申购？ EOS\	O O O O O O O O O O O O O O O O O O O O B-subject I-subject O O O B-action I-action O O O O O O O O O O newstk_subscribe_cal
+BOS 请问一下我没开通创业板，为什么一直显示新股创业板申购，普通的又没法申购？ EOS\	O O O O O O O O O O O O O O O O O O O O B-subject I-subject O O O B-action I-action O O O O O O O O O O newstk_subscribe_cal
+BOS 我添加啦还是说无申购代码怎么回事 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O O newstk_subscribe_cal
+BOS 我在新股申购中，为什么部分新股不能申购 EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我的帐户无法申购新股？ EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 您好，请问我的账户为什么不能申购深市股票呢 EOS\	O O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 怎样打新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 今天开户明天能申购新股嘛 EOS\	O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我有上海股票，为什么不能申购上海新股？ EOS\	O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 买新股的条件是啥 EOS\	O B-action B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 我想申购新股没有申购代码，我点不上怎么回事 EOS\	O O O B-action I-action B-subject I-subject O O B-object I-object I-object I-object O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购不了，怎么回事？ EOS\	O B-subject I-subject B-action I-action O O O O O O O O newstk_subscribe_cal
+BOS 我帐户为什么还申购不了沪市新股%3F EOS\	O O O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject O O O newstk_subscribe_cal
+BOS 我帐户为什么还申购不了沪市新股%3F EOS\	O O O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject O O O newstk_subscribe_cal
+BOS 为什么申购新股申购不了 EOS\	O O O O B-action I-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 我是新手，怎样购买新股 EOS\	O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购前面的方框点不出来咋回事？ EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 那我什么时候可以买啊 EOS\	O O O B-trading_time I-trading_time I-trading_time I-trading_time O O B-action O newstk_subscribe_cal
+BOS 还有我的账号怎么不能申购新股？ EOS\	O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 为什么新股申购额度是0 EOS\	O O O O B-subject I-subject B-action I-action B-object I-object O O newstk_subscribe_cal
+BOS 你好为什么新股不能申购 EOS\	O O O O O O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 提示我没有申购代码 是怎么回事 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 如何申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 买东方才富   能打新吗 EOS\	O O O O O O O O O O B-action B-subject O newstk_subscribe_cal
+BOS 我的账户从9号开始为什么不能申请新股 EOS\	O O O O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 很久没做股票了‘怎么申购新股 EOS\	O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 打新股需要什么条件 EOS\	O B-action B-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 不能申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 不能申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 不能申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 不能申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 不能申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 请问股票打新有条件吗 EOS\	O O O O O B-action B-subject O O O O newstk_subscribe_cal
+BOS 请问股票打新有条件吗 EOS\	O O O O O B-action B-subject O O O O newstk_subscribe_cal
+BOS 我开通创业板立马就能申购新股吗 EOS\	O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 新股申购怎样够资格 EOS\	O B-subject I-subject B-action I-action O O O O O newstk_subscribe_cal
+BOS 您好，我在营业厅已开通创业板一个礼拜了，为什么还不能申购创业板 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject newstk_subscribe_cal
+BOS 怎样能够申购新股 EOS\	O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么得到新股申购额度 EOS\	O O O O O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 怎么还不能审购新股呢？？？ EOS\	O O O O O O B-action I-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 还有就是新股申购我没做过，能说一下吧 EOS\	O O O O O B-subject I-subject B-action I-action O O O O O O O O O O newstk_subscribe_cal
+BOS 新股最多申购多少 EOS\	O B-subject I-subject O O B-action I-action O O newstk_subscribe_cal
+BOS 新股可以买多少 EOS\	O B-subject I-subject O O B-action O O newstk_subscribe_cal
+BOS 如何购买新股？如何设置优先？ EOS\	O O O B-action I-action B-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 资金少是没有希望打新了 EOS\	O O O O O O O O O B-action B-subject O newstk_subscribe_cal
+BOS 我的新股申购为什么是零，如何提高 EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我新股申购申购不了 EOS\	O O O O O B-subject I-subject B-action I-action O O O O newstk_subscribe_cal
+BOS 新股怎么申请 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 新股怎么申购？？？？？？ EOS\	O B-subject I-subject O O B-action I-action O O O O O O newstk_subscribe_cal
+BOS 我的申购额怎么提升 EOS\	O O O B-action I-action B-subject O O O O newstk_subscribe_cal
+BOS 不能申购新股啊 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 为什么我不能申购深市股票 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 怎么申购新股？ EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好，新股最多买多少 EOS\	O O O O B-subject I-subject O O B-action B-object I-object newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action B-object I-object newstk_subscribe_cal
+BOS 新股怎么申购 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 我的新股申购额度 EOS\	O O O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 新股怎么申请呢 EOS\	O B-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 你好，我现在打不了新股了呢。 EOS\	O O O O O O O B-action O O B-subject I-subject O O O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么才能有申购额度 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 你好 我想请问下 新股申购的条件是什么？ 是持有1万市值的股票 还是持有1000股股票才可以？ EOS\	O O O O O O O O O O B-subject I-subject B-action I-action O B-object I-object O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么申请新股票 EOS\	O O O B-action I-action B-subject I-subject I-subject newstk_subscribe_cal
+BOS 为什么不能申购新股？ EOS\	O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action O O newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action O O newstk_subscribe_cal
+BOS 肖经理请问，我的市值有一万一千多新股发行价21块多能申购吗？谢谢 EOS\	O O O O O O O O O O O O O O O O O B-subject I-subject O O O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 肖经理请问，我的市值有一万一千多新股发行价21块多能申购吗？谢谢 EOS\	O O O O O O O O O O O O O O O O O B-subject I-subject O O O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 怎么打新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 深证的新股怎么无法申购 EOS\	O O O O B-subject I-subject O O O O B-action I-action newstk_subscribe_cal
+BOS 我可以申购深证和上海每天发行的新股吗 EOS\	O O O O B-action I-action O O O O O O O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 怎么打新 EOS\	O O O B-action B-subject newstk_subscribe_cal
+BOS 我的帐户什么时候能申请新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股认购怎么没法申购 EOS\	O B-subject I-subject B-action I-action O O O O O O newstk_subscribe_cal
+BOS 请问新股申购需要具备什么条件？ EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 新股申购怎么也不能申购？ EOS\	O B-subject I-subject B-action I-action O O O O O O O O newstk_subscribe_cal
+BOS 申购新股是1只股总额一万以上，还是多个股票总额一万以上 EOS\	O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action B-object I-object newstk_subscribe_cal
+BOS 帐户上还有一万七，怎么申购新股额度是0 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject B-object I-object O O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么看有没有中签 EOS\	O O O O O O O B-action I-action newstk_subscribe_cal
+BOS 我为什么申请不了沪市的新股啊？ EOS\	O O O O O B-action I-action O O O O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我为什么申请不了沪市的新股啊？ EOS\	O O O O O B-action I-action O O O O O B-subject I-subject O O newstk_subscribe_cal
+BOS 新股怎么购买 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 怎麼不能申购新股 EOS\	O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我为什么不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 73开头是什么股 要具备什么条件才可以申购 EOS\	O O O O O O O O O O O O O O O B-object I-object O O O B-action I-action newstk_subscribe_cal
+BOS 为什么我不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为何我不能打新 EOS\	O O O O O O B-action B-subject newstk_subscribe_cal
+BOS 在普通账户申购的情况下，信用账户为何申购新股无配号？ EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 深市新股不能申购 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 为什么我不能买新股 EOS\	O O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么我不能买新股 EOS\	O O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么不能新股申购 EOS\	O O O O O O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 持仓够10000了怎么还不能大新 EOS\	O B-object I-object O O O O O O O O O O O O B-action B-subject newstk_subscribe_cal
+BOS 如何买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么我无法申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 申购新股的时候为什么上海的额度是0 EOS\	O B-action I-action B-subject I-subject O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 申购新股的时候为什么上海的额度是0 EOS\	O B-action I-action B-subject I-subject O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 请问新股申购为什么有的可以申购 有的显示额度为零呢 EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我有深市沪市的股票能打新股票吗 EOS\	O O O O O O O O O O O B-action B-subject I-subject I-subject O newstk_subscribe_cal
+BOS 新股申购的额度是怎么来的，我的怎么没有 EOS\	O B-subject I-subject B-action I-action O B-object I-object O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么买上海的新股买不了 EOS\	O O O O B-action O O O B-subject I-subject O O O newstk_subscribe_cal
+BOS 昨天可以申购怎么今天就申购不了郁闷 EOS\	O O O O O B-action I-action O O O O O O O O O O O newstk_subscribe_cal
+BOS 新客户 EOS\	O B-subject I-subject I-subject newstk_subscribe_cal
+BOS 晚上打扰了，新股再和我说说 EOS\	O O O O O O O B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 晚上打扰了，新股再和我说说 EOS\	O O O O O O O B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 说说新股 EOS\	O O O B-subject I-subject newstk_subscribe_cal
+BOS 开户一个礼拜了，新股额度是0怎么回事 EOS\	O O O O O O O O O B-subject I-subject B-object I-object O O O O O O newstk_subscribe_cal
+BOS 新股申购，前题条件是什么 EOS\	O B-subject I-subject B-action I-action O O O B-object I-object O O O newstk_subscribe_cal
+BOS 股票持有22天以上且市值也够就是不能申购上海新股 EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 我怎么才能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股怎么申购 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 怎麼查中签 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购规则是什么 EOS\	O B-subject I-subject B-action I-action B-object I-object O O O newstk_subscribe_cal
+BOS 你好你能帮我查询下我什么时候可以申购新股票 EOS\	O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的总资产是1万零几怎么申购额度为零 EOS\	O O O O O O O O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 我无申购代码是什么意思呀 EOS\	O O B-subject I-subject I-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 新股申购额度 EOS\	O O O O O O O newstk_subscribe_cal
+BOS 我怎么算我可以申购多少新股？ EOS\	O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我怎么不能打新 EOS\	O O O O O O B-action B-subject newstk_subscribe_cal
+BOS 为什么我没有。 新股申购额度了 EOS\	O O O O O O O O O B-subject I-subject B-action I-action B-object I-object O newstk_subscribe_cal
+BOS 我怎么没法打新股 EOS\	O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎样申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎样申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 请问我开户已经24个工作日了，怎么还不能打新股？ EOS\	O O O O O O O O O O O O O O O O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎样申购新股票 EOS\	O O O B-action I-action B-subject I-subject I-subject newstk_subscribe_cal
+BOS 可以申购多个股票吗 EOS\	O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 创业板如果申购新股申购上是个啥情况多少股是一签 EOS\	O O O O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 问一下我为什么不能申购新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购额度如何提高 EOS\	O B-subject I-subject B-action I-action B-object I-object O O O O newstk_subscribe_cal
+BOS 我的账户怎么不能申购新股啊 EOS\	O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎么获得新股申购的权力 EOS\	O O O O O O B-subject I-subject B-action I-action O O O newstk_subscribe_cal
+BOS 怎样申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎样申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎麼申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎什不能买新股 EOS\	O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我为什么不能申购新股啊 EOS\	O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我为什么不能申购新股啊 EOS\	O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好，为何我不能申购深圳新股，， EOS\	O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 你好，为何我不能申购深圳新股，， EOS\	O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 我申够的新股多次出现废单怎么回事 EOS\	O O B-action I-action O B-subject I-subject O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么今天我申购的上海发行的新股不能通过謝: EOS\	O O O O O O O B-action I-action O O O O O O B-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 打新股的规则 EOS\	O B-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 我的新股为什么申购额度为0 EOS\	O O O B-subject I-subject O O O B-action I-action B-object I-object O O newstk_subscribe_cal
+BOS 无法申购新股》、 EOS\	O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 怎么我的帐户无法打新股 EOS\	O O O O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 申购无代码什么意思？提示 EOS\	O B-action I-action B-subject I-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 请问我怎么不能申购新股 EOS\	O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 那有多少资金才可以打新股？ EOS\	O O O O O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 那有多少资金才可以打新股？ EOS\	O O O O O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 申购新股的条件是什么 EOS\	O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我的申购配号和笔数显示都是0 EOS\	O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我现在突然不能认购新股了，认购新股需要什么条件%3F EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 申请新股 无申请代码是什么意思 EOS\	O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 申购新股要有股票才行？ EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我不能买新股 EOS\	O O O O O O O O O O newstk_subscribe_cal
+BOS 我这个怎么不能新股申购 EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么申请新股，条件是什么 EOS\	O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么有好多新股我不能申购啊 EOS\	O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 请问新股申购有什么条件 EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 你好！什么条件下可以申购新股？ EOS\	O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 请问，我想申购新股，怎么买不了啊 EOS\	O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我的新股申购额度为零 是为什么 EOS\	O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我的申购额度怎么是零 EOS\	O O O O O O O O O O O newstk_subscribe_cal
+BOS 请问为什么不能申购新股 EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 申购新股的条件 EOS\	O O O O O O O O newstk_subscribe_cal
+BOS 新股申购的条件是 EOS\	O O O O O O O O O newstk_subscribe_cal
+BOS 你好，请问我现在为什么不能新股申购的？ EOS\	O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我的帐号申购不了新股？ EOS\	O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我不能申购新股？ EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 你好，新股申购需要什么条件，每天打开都提示新股申购，但是额度为0申购申请发送不出去 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我是新用户，我想申购新股，怎么申购不了呢亲？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么查配号 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我能不能申购新股啊 EOS\	O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能不能申购新股啊 EOS\	O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 新股为什么只能申购深市的？ EOS\	O B-subject I-subject O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 申购新股的股数 EOS\	O B-action I-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 申购新股的股数 EOS\	O B-action I-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 你好，我怎么申购新股不成功呢。提示我无权申购创业板。 EOS\	O O O O O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 你好，我的为什么申购不了呢 EOS\	O O O O O O O O O B-action I-action O O O newstk_subscribe_cal
+BOS 怎么新股申购不了 EOS\	O O O B-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 怎么样才有额度？ EOS\	O O O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的账户内股票炒股一万元，问什么没有新股声申购额度 EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action O B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 你好，持有5000元市值的股票可以申购深市新股吗？ EOS\	O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 请问新股申购有什么要求么 EOS\	O O O B-subject I-subject B-action I-action O O O O O O newstk_subscribe_cal
+BOS 申购新股如何操作？ EOS\	O B-action I-action B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 申购新股如何操作？ EOS\	O B-action I-action B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 我能申购多少新股？ EOS\	O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 是不是深指的市值只要有5000就能申购新股？包括创业板？ EOS\	O O O O O O O B-subject I-subject O O O O O O O O O B-action I-action B-object I-object O O O O O O O newstk_subscribe_cal
+BOS 那申购额度有什么规定 EOS\	O O B-action I-action B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 想要申购新股怎么弄 EOS\	O O O B-action I-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action B-object I-object B-subject I-subject newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么我不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的深市咋申购新股不了？？？ EOS\	O O O O O O B-action I-action B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 新户能申购新股票吗？ EOS\	O O O O B-action I-action B-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 打新股。无申购代码什么意思 EOS\	O B-action B-subject I-subject O O B-object I-object I-object I-object O O O O newstk_subscribe_cal
+BOS 打新股。无申购代码什么意思 EOS\	O B-action B-subject I-subject O O B-object I-object I-object I-object O O O O newstk_subscribe_cal
+BOS 无申购代码是什么意思 EOS\	O O B-object I-object I-object I-object O O O O O newstk_subscribe_cal
+BOS 新股怎么申够啊， EOS\	O B-subject I-subject O O B-action I-action O O newstk_subscribe_cal
+BOS 为什么我的帐号不能申购新股，市值显示为0 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 为什么我的帐号不能申购新股，市值显示为0 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 为什么我的帐号不能申购新股，市值显示为0 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 为什么我的帐号不能申购新股，市值显示为0 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 为什么打新股只能打小盘股 EOS\	O O O O B-action B-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 打新的基本条件 EOS\	O B-action B-subject O B-object I-object I-object I-object newstk_subscribe_cal
+BOS 追加股票市值是加大投资额度吗 EOS\	O B-action I-action B-subject I-subject I-subject I-subject O O O B-object I-object I-object I-object O newstk_subscribe_cal
+BOS 我什么时候可以申购新股 EOS\	O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我现在还不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我现在还不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我现在还不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我现在还不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我现在还不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我现在还不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么我申购300开头的新股申不上呢    只能申7开头的新股还行   是不是有没开通的呀   谢谢 EOS\	O O O O O B-action I-action B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 想咨询为什么申购不了新股 EOS\	O O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 为什么我不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 你好，我想申购新股有什么权限吗？ EOS\	O O O O O O B-action I-action B-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 申购额度 EOS\	O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么不能打新 EOS\	O O O O O O B-action B-subject newstk_subscribe_cal
+BOS 我怎么不能申购新股呢 EOS\	O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 申购额度在哪看 EOS\	O O O O O O O O newstk_subscribe_cal
+BOS 我的帐户在沪市不能打新是怎么回事 EOS\	O O O O O O O O O O B-action B-subject O O O O O newstk_subscribe_cal
+BOS 老师问一下要有什么条件才能打新股呀 EOS\	O O O O O O O O O O B-object I-object O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么查配号呢 EOS\	O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么查配号呢 EOS\	O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我账户为什么不可以申购新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我账户为什么不可以申购新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 目前新开户的不能申购新股吗 EOS\	O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 新股怎么申购 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 我这个账户可以达信吗 EOS\	O O O O O O O O B-action B-subject O newstk_subscribe_cal
+BOS 今天为什么上海的新股申购不了 EOS\	O O O O O O O O O B-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 你好，请问才开的户，什么时候能审购新股，谢谢 EOS\	O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我的账户怎么不能新购新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的账户怎么不能新购新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的账户怎么不能新购新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的账户怎么不能新购新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 您好！请问新股申购时，怎样才能顶格申购？ EOS\	O O O O O O B-subject I-subject B-action I-action O O O O O O B-object I-object I-object I-object O newstk_subscribe_cal
+BOS 如何中新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 新开户可以买新股吗？ EOS\	O B-subject I-subject I-subject O O B-action B-object I-object O O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 你好我什么时候可以申购新股？？ EOS\	O O O O O O O O O O B-action I-action B-action I-action O O newstk_subscribe_cal
+BOS 你好我什么时候可以申购新股？？ EOS\	O O O O O O O O O O B-action I-action B-action I-action O O newstk_subscribe_cal
+BOS 你好我什么时候可以申购新股？？ EOS\	O O O O O O O O O O B-action I-action B-action I-action O O newstk_subscribe_cal
+BOS 你好我什么时候可以申购新股？？ EOS\	O O O O O O O O O O B-action I-action B-action I-action O O newstk_subscribe_cal
+BOS 怎么打新 EOS\	O O O B-action B-subject newstk_subscribe_cal
+BOS 为什么我买不新股呢？ EOS\	O O O O O B-action O B-subject I-subject O O newstk_subscribe_cal
+BOS 我的新股申购额度怎么是0 EOS\	O O O B-subject I-subject B-action I-action O O O O O O newstk_subscribe_cal
+BOS 你好，不是账户有一万元的市值就可以身申购吗 EOS\	O O O O O O O O O O O O O B-subject I-subject O O O O B-action I-action O newstk_subscribe_cal
+BOS 我怎么不能打新股 EOS\	O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我什么时候可以申购新股？ EOS\	O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我怎么才能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 您好，我可以进行新股申购吗？ EOS\	O O O O O O O O O B-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 上海申购市值是1w吧？要持有多长时间？ EOS\	O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 深圳新股打新如何计算额度 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O O B-object I-object newstk_subscribe_cal
+BOS 也就是说，如果股东要给我配售股票，我需要满足什么条件？ EOS\	O O O O O O O O B-subject I-subject O O O B-action I-action I-action I-action O O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 怎么查看有没有打新资格 EOS\	O O O O O O O O B-action B-subject B-object I-object newstk_subscribe_cal
+BOS 怎么查看有没有打新资格 EOS\	O O O O O O O O B-action B-subject B-object I-object newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我已经转签过，怎么还是无法申购新股？ EOS\	O O O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 审购新股怎么申不了 EOS\	O B-action I-action B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 申请不了新股 EOS\	O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 不能申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 不能申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎么只可以申购沪市的新股 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 为什么不能申购7开头的新股%252F EOS\	O O O O O O B-action I-action B-stkcode I-stkcode I-stkcode O B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 我怎么才能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么打新股？有限制条件吗？ EOS\	O O O B-action B-subject I-subject O O O O B-object I-object O O newstk_subscribe_cal
+BOS 我现在股资产 有一万五块，怎么不能排新股？ EOS\	O O O O O O O O O O O O O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购多少新股？ EOS\	O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 002842为何申购时是废单 EOS\	O B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我想打新股怎么打 EOS\	O O O B-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 沪，深都有股票如何申购 EOS\	O O O O O O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 我想申购新股，为什么7开头的申不上呢 EOS\	O O O B-action I-action B-subject I-subject O O O O B-stkcode I-stkcode I-stkcode O O O O O newstk_subscribe_cal
+BOS 我昨天申购的新股，今天看了看没看懂，第一次申购，不知是否成功，您能说一说打新的流程吗？ EOS\	O O O O O O O B-subject I-subject O O O O O O O O O O O O O B-action I-action O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action O O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的账户怎么无法申购新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 咋申购新股？ EOS\	O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我想申购新股，有什么条件呢？ EOS\	O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 有的新股在普通账户不能打新，在融资账户能打 EOS\	O O O B-subject I-subject O O O O O O O B-action I-action O O O O O O O O newstk_subscribe_cal
+BOS 新股咋申请？ EOS\	O B-subject I-subject O B-action I-action O newstk_subscribe_cal
+BOS 我的市值已经33000，为什么申购只能2000 EOS\	O O O B-subject I-subject O O O O O O O O O O O B-action I-action O O O O O O newstk_subscribe_cal
+BOS 你好，我想咨询一下，怎么样的条件可以申请新股？？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我的市值已经33000，为什么申购只能2000 EOS\	O O O B-subject I-subject O O O O O O O O O O O B-action I-action O O O O O O newstk_subscribe_cal
+BOS 申购怎么 EOS\	O B-action I-action O O newstk_subscribe_cal
+BOS 时间到以后，是不是我以后有新股就可以申购了！还是只能申购一次！ EOS\	O O O O O O O O O O O O O O B-subject I-subject O O O B-action I-action O O O O O O O O O O O newstk_subscribe_cal
+BOS 我怎么才能购买新上市的股票 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 你好、为什么我现在不能申购新股咯 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject newstk_subscribe_cal
+BOS 新股申购怎么弄 EOS\	O B-subject I-subject B-action I-action O O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 开户多长时间可以打新股 EOS\	O O O O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我的新三板市值2o多万为什么没有申购额度 EOS\	O O O O O O O O O O O O O O O O O B-action I-action B-object I-object newstk_subscribe_cal
+BOS 新股申购条件 EOS\	O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 我有沪深账户为什么不能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-action I-action newstk_subscribe_cal
+BOS 我有沪深账户为什么不能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我有沪深账户为什么不能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我有沪深账户为什么不能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我有沪深账户为什么不能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 请问我可以申请多少新股？ EOS\	O O O O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action O O newstk_subscribe_cal
+BOS 我怎么不能申购新股啊 EOS\	O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我开户超过十个交易日了，日均市值超过5000元，怎么不能申购新股 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 今天普通账户不能申购深圳交易所股票，是这么回事？ EOS\	O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 明天有新股吗？ EOS\	O O O O B-subject I-subject O O newstk_subscribe_cal
+BOS 新股申购在哪里 EOS\	O B-subject I-subject B-action I-action O O O newstk_subscribe_cal
+BOS 新股申购在哪里 EOS\	O B-subject I-subject B-action I-action O O O newstk_subscribe_cal
+BOS 你好，购买股票多久才有申请新股的额度 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject O B-object I-object newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我怎么买不了新股 EOS\	O O O O B-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我怎么不能新股申购 EOS\	O O O O O O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 新股申购额度怎么算 EOS\	O B-subject I-subject B-action I-action B-object I-object O O O newstk_subscribe_cal
+BOS 新股申购额度怎么算 EOS\	O B-subject I-subject B-action I-action B-object I-object O O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 还有个问题，我新股能申购的数量跟市值有关是吗 EOS\	O O O O O O O O B-subject I-subject O B-action I-action O O O O B-object I-object O O O O newstk_subscribe_cal
+BOS 什么时候可以申购新股 EOS\	O B-trading_time I-trading_time I-trading_time I-trading_time O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action B-object I-object B-subject I-subject newstk_subscribe_cal
+BOS 新股如何申购 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 怎么打新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 手机上如何申购新股 EOS\	O O O O B-object I-object B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的市值已达到了可申购新股了%3F帮查下多时能申购%3F EOS\	O O O B-object I-object O O O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我的系统怎么没法申购新股？ EOS\	O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 能告诉我 为什么我申购新股时总告诉我没有代码？ EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 请问我能申购多少新股？ EOS\	O O O O O B-action I-action B-object I-object B-subject I-subject O newstk_subscribe_cal
+BOS 如何新股申购 EOS\	O O O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 如何查询我的新股申购？ EOS\	O O O B-action I-action O O B-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 你好，如何申购新股呢 EOS\	O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 没有可用余额可以打新股吗 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O O B-action I-action I-action O newstk_subscribe_cal
+BOS 我的帐户为什么不能打新不是现在没有资金限制了吗 EOS\	O O O O O O O O O O B-subject I-subject O O O O O O B-object I-object I-object I-object O O newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 新股申购说的市值1万？ EOS\	O B-subject I-subject B-action I-action O O B-object I-object O O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我可以用两个账号都申购新股吗 EOS\	O O O O O B-subject I-subject I-subject I-subject O B-action I-action B-object I-object O newstk_subscribe_cal
+BOS 请问我的帐户可以打新了吗？谢谢 EOS\	O O O O O O O O O B-action B-subject O O O O O newstk_subscribe_cal
+BOS 怎么买新股啊 EOS\	O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 新股申请？ EOS\	O B-subject I-subject B-action I-action O newstk_subscribe_cal
+BOS 新股如何申购 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 请问新股申购需要多少市值？ EOS\	O O O B-subject I-subject B-action I-action O O O O B-object I-object O newstk_subscribe_cal
+BOS 有的新股不能申请是不是没开通深市的原因%3F EOS\	O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 新股配股条件 EOS\	O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 怎样才能具备申购新股条件 EOS\	O O O O O O O B-action I-action B-subject I-subject B-object I-object newstk_subscribe_cal
+BOS 你好，请问我在新股申购的时候，为什么只能申购沪市的，而无法申购深市的呢？ EOS\	O O O O O O O O B-subject I-subject B-action I-action O O O O O O O B-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object O O O newstk_subscribe_cal
+BOS 新股申购权限？ EOS\	O B-subject I-subject B-action I-action B-object I-object O newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么还不可以申购 EOS\	O O O O O O O O B-action I-action newstk_subscribe_cal
+BOS 我想申购新股怎么不行呀？ EOS\	O O O B-action I-action B-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 如何申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么才能打新股 EOS\	O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么才能打新股 EOS\	O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 新股？ EOS\	O B-subject I-subject O newstk_subscribe_cal
+BOS 新股申购，咋整 EOS\	O B-subject I-subject B-action I-action O O O newstk_subscribe_cal
+BOS 为什么哟申购不了新股 EOS\	O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 您好我想问一下申购新股有什么条件 EOS\	O O O O O O O O B-action I-action B-subject I-subject O O O B-object I-object newstk_subscribe_cal
+BOS 为什么我不能打深圳新股 EOS\	O O O O O O O B-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 新股咋弄 EOS\	O B-subject I-subject O O newstk_subscribe_cal
+BOS 新股和我说说 EOS\	O B-subject I-subject O O O O newstk_subscribe_cal
+BOS 怎么看我能申购多少新股 EOS\	O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 怎么看我能申购多少新股 EOS\	O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 怎么看我能申购多少新股 EOS\	O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 怎么看我能申购多少新股 EOS\	O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 怎么看我能申购多少新股 EOS\	O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购新股吗 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么打新 EOS\	O O O B-action B-subject newstk_subscribe_cal
+BOS 怎么打新 EOS\	O O O B-action B-subject newstk_subscribe_cal
+BOS 我昨天买的股票，今天为什么不能申购新股 EOS\	O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我昨天收到开户成功今天买票了，什么时候能够打新股呢 EOS\	O O O O O O O O O O O O O O O O B-trading_time I-trading_time I-trading_time I-trading_time O O B-action I-action I-action O newstk_subscribe_cal
+BOS 我昨天收到开户成功今天买票了，什么时候能够打新股呢 EOS\	O O O O O O O O O O O O O O O O B-trading_time I-trading_time I-trading_time I-trading_time O O B-action I-action I-action O newstk_subscribe_cal
+BOS 怎样才能申购新股 EOS\	O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股 EOS\	O B-subject I-subject newstk_subscribe_cal
+BOS 新股申购点不上，股数可以点 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O newstk_subscribe_cal
+BOS 没有申购额度啊 EOS\	O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 新股申购条件 EOS\	O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 我怎么申请不了新股 EOS\	O O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购条件 EOS\	O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 我怎么申购不了新股 EOS\	O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我怎么申购不了新股 EOS\	O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 怎样打新 EOS\	O O O B-action B-subject newstk_subscribe_cal
+BOS 新股申购为什么不能买 EOS\	O B-subject I-subject B-action I-action O O O O O O newstk_subscribe_cal
+BOS 新股申购为何两市只有一市能申请 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O O newstk_subscribe_cal
+BOS 我新开户没市值打新申请2000股 EOS\	O O O O O O O O B-action B-subject O O O O O O O newstk_subscribe_cal
+BOS 开户后多少个交易日可以打新 EOS\	O O O O B-trading_time I-trading_time I-trading_time I-trading_time I-trading_time I-trading_time O O B-action B-subject newstk_subscribe_cal
+BOS 您好，为什么我一次不能申购今天的三个新股？ EOS\	O O O O O O O O O O O O B-action I-action O O O B-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 您好，为什么我一次不能申购今天的三个新股？ EOS\	O O O O O O O O O O O O B-action I-action O O O B-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我怎样看我能申购多少新股 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 怎么申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 只有十二月五日申购的有配号 EOS\	O O O O O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 你好，新股申购为什么不显示每天的新股代码和数量 EOS\	O O O O B-subject I-subject B-action I-action O O O O O O O O O B-object I-object I-object I-object I-object I-object I-object newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购 需什么条件？ EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 新股申购需要什么条件？怎样申请？一次最多可申请多少股？ EOS\	O B-subject I-subject B-action I-action O O O O B-object I-object O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 申购新股超上限 EOS\	O B-action I-action B-subject I-subject B-object I-object I-object newstk_subscribe_cal
+BOS 申购新股超上限 EOS\	O B-action I-action B-subject I-subject B-object I-object I-object newstk_subscribe_cal
+BOS 为什么我能申购上海的，不能申购深圳的 EOS\	O O O O O O B-action I-action B-place I-place I-place O O O O O B-place I-place I-place newstk_subscribe_cal
+BOS 申购新股的条件？ EOS\	O O O O O O O O O newstk_subscribe_cal
+BOS 怎么不能申购新股 EOS\	O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O O O B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O O O B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 我申购新股显示可購買为0 EOS\	O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O O O B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O B-action I-action B-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 怎么才能申购新股？要有一定市值吗？ EOS\	O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 机构开通沪港通需要什么手续 EOS\	O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 什么意思 EOS\	O O O O O newstk_subscribe_cal
+BOS 什么意思 EOS\	O O O O O newstk_subscribe_cal
+BOS 什么意思 EOS\	O O O O O newstk_subscribe_cal
+BOS 什么意思 EOS\	O O O O O newstk_subscribe_cal
+BOS 购新股的条件是什么？ EOS\	O O O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购需要什么条件 EOS\	O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么显示不能买新股呢 EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我的余额充足，而无法申购新股，需要开通什么权限吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 如何申购新股 EOS\	O O O O O O O newstk_subscribe_cal
+BOS 打新有什麼要求吗 EOS\	O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购最低额度？ EOS\	O O O O O O O O O O newstk_subscribe_cal
+BOS 你好，怎么可以看我自己有没有申购新股的资格 EOS\	O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 申购新股的要件 EOS\	O O O O O O O O newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action B-object I-object newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action B-object I-object newstk_subscribe_cal
+BOS 新开的户能申购新股吗 EOS\	O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我 新股申购 份额有多少？ EOS\	O O O B-subject I-subject B-action I-action I-action B-object I-object O O O O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action B-object I-object B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 你好！我为什么不可以申购深圳市场的股票？ EOS\	O O O O O O O O O O O B-action I-action B-place I-place I-place I-place O B-subject I-subject O newstk_subscribe_cal
+BOS <露齿笑>为什么我不能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-action I-action newstk_subscribe_cal
+BOS 我怎么不能打新股了 EOS\	O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 请问我打新股后有时会出现50或30 不到100手的。我也不知道怎么办，我账户上有钱，我该怎么办 EOS\	O O O O B-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 申购新股里面 EOS\	O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 请问股票市值打新时按什么规定 EOS\	O O O B-subject I-subject I-subject I-subject B-action I-action O O O O B-place I-place newstk_subscribe_cal
+BOS 卖出股票后还能申新股吗 EOS\	O B-object I-object I-object I-object I-object O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么计算新股申购额度 EOS\	O O O O O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 当前没有市值的板块新股能申购吗？ EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O B-action I-action O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 新股明天有吗？ EOS\	O B-subject I-subject O O O O O newstk_subscribe_cal
+BOS 明天新股有几只 EOS\	O O O B-subject I-subject O O O newstk_subscribe_cal
+BOS 申购新股啥条件  我怎么到现在不能申购？ EOS\	O B-action I-action B-subject I-subject O B-object I-object I-object I-object O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 你好，新股申购有什么要求吗，为什么我申购不了 EOS\	O O O O B-subject I-subject B-action I-action O O O B-object I-object O O O O O O O O O O newstk_subscribe_cal
+BOS 请问新股申购有什么要求吗，为什么我申购不了 EOS\	O O O B-subject I-subject B-action I-action O O O B-object I-object O O O O O O O O O O newstk_subscribe_cal
+BOS 申购新股没额度怎么设置？ EOS\	O B-action I-action B-subject I-subject O B-object I-object O O O O O newstk_subscribe_cal
+BOS 申购新股是怎么规定的 EOS\	O B-action I-action B-subject I-subject O O O B-object I-object O newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股是需要买多少钱的股票才有一个号啊！ EOS\	O B-subject I-subject O O O B-action B-object I-object I-object I-object I-object I-object O O O O O O O newstk_subscribe_cal
+BOS 我怎么没有买新股票的额度 EOS\	O O O O O O B-action B-subject I-subject I-subject O B-object I-object newstk_subscribe_cal
+BOS 持股多长时间，可以申购新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 显示没法可购买数零，是怎么回事？ EOS\	O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 为什么没有申购额度 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 申购要什么条件啊 EOS\	O B-action I-action O O O B-subject I-subject O newstk_subscribe_cal
+BOS 申购额度怎么变成零了，之前还有1000 EOS\	O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我这个账户新开的，新股申购额度上海10000，深圳0，原来账户上海10000，深圳2500 EOS\	O O O O O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 明天有新股吗 EOS\	O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 请问为啥我7打头的新股买不了 EOS\	O O O O O O B-stkcode I-stkcode I-stkcode O B-subject I-subject B-action O O newstk_subscribe_cal
+BOS 请问为啥我7打头的新股买不了 EOS\	O O O O O O B-stkcode I-stkcode I-stkcode O B-subject I-subject B-action O O newstk_subscribe_cal
+BOS 今天有新股吗？ EOS\	O O O B-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 帮我看下我还有多久可以申购新股？ EOS\	O O O O O O O O B-trading_time I-trading_time O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好，问一下新股申购的条件是什么。 EOS\	O O O O O O O B-subject I-subject B-action I-action O B-object I-object O O O O newstk_subscribe_cal
+BOS 你好深市与沪市市值须分别达到1万元才能申购新股吗？ EOS\	O O O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 申购新股之前手里必须有市值10000元以上的股票吗 EOS\	O B-action I-action B-subject I-subject O O O O O O O B-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object I-object O newstk_subscribe_cal
+BOS 21天算额度吗？ EOS\	O O O O O B-subject I-subject O O newstk_subscribe_cal
+BOS 明天有新股吗？ EOS\	O O O O B-subject I-subject O O newstk_subscribe_cal
+BOS 新股申购时候，深市的是0 EOS\	O B-subject I-subject B-action I-action O O O O O O O O newstk_subscribe_cal
+BOS 我用手机怎么不能申请新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我用手机怎么不能申请新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我怎么申请不了新股 EOS\	O O O O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我的申购额度怎么是0 EOS\	O O O B-action I-action B-subject I-subject O O O O newstk_subscribe_cal
+BOS 新股申购需要多少钱 EOS\	O B-subject I-subject B-action I-action O O O O O newstk_subscribe_cal
+BOS 新股申购 EOS\	O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 打新都需要什么条件啊？ EOS\	O B-action B-subject O O O O O B-object I-object O O newstk_subscribe_cal
+BOS 持有深市股票不能打深市股吗？ EOS\	O B-object I-object I-object I-object I-object I-object O O B-action B-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 今天显示深圳新股申购额为0 EOS\	O O O O O B-subject I-subject I-subject I-subject B-object I-object I-object O O O newstk_subscribe_cal
+BOS 申购新股，需要什么条件？ EOS\	O B-action I-action B-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 打新具体事项 EOS\	O B-action B-subject B-object I-object I-object I-object newstk_subscribe_cal
+BOS 没办法打3和7开头的新股 EOS\	O O O O B-action B-stkcode I-stkcode I-stkcode I-stkcode I-stkcode O O O newstk_subscribe_cal
+BOS 明天有新股吗？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 我的新股申购额度，怎么没有了 EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject O O B-action I-action I-action newstk_subscribe_cal
+BOS 我怎么不能申购新股啊 EOS\	O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我可以申购新股吗，能申购多少？ EOS\	O O O O B-action I-action B-subject I-subject O O O B-object I-object I-object I-object O newstk_subscribe_cal
+BOS 请问我能申购多少新股啊！ EOS\	O O O O O B-action I-action O O B-subject I-subject O O newstk_subscribe_cal
+BOS 我怎么不能申购新股啊？ EOS\	O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 我怎么不能申购新股啊？ EOS\	O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O B-action I-action I-action B-object I-object B-subject I-subject newstk_subscribe_cal
+BOS 怎么買不了新股 EOS\	O O O B-action O O B-subject I-subject newstk_subscribe_cal
+BOS 新股申购上限是怎么规定的？ EOS\	O B-subject I-subject B-action I-action B-object I-object O O O O O O O newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购，我空仓了，还需要买入市值1万的股票20天后，再可以审购吗？ EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 新股怎么申购 EOS\	O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 我为什么申股申不上呢 EOS\	O O O O O B-subject I-subject B-action O O O newstk_subscribe_cal
+BOS 我的深市不能申购，为什么？ EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action I-action O O O O O newstk_subscribe_cal
+BOS 为什么只能申购上海的，深圳的不能申购 EOS\	O O O O O O B-action I-action B-place I-place I-place O O O O O O O O newstk_subscribe_cal
+BOS 今天我的创业板为什么不能审购 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O B-action I-action newstk_subscribe_cal
+BOS 明天有新股吗？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 我的账户为什么没有申购额度 EOS\	O O O B-subject I-subject O O O O O B-action I-action B-object I-object newstk_subscribe_cal
+BOS 请问如何申购新股 EOS\	O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么我的帐户不能申购新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 无法申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的申购额度为零？ EOS\	O O O B-action I-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 申购条件 EOS\	O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我不能申购创业板的新股呢 EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 我可以申购新股么？申购代码是什么？ EOS\	O O O O B-action I-action B-subject I-subject O O B-object I-object I-object I-object O O O O newstk_subscribe_cal
+BOS 为什么新股申购不了 EOS\	O O O O B-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 为什么新股申购不了 EOS\	O O O O B-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 打新，我申请不了 EOS\	O B-action B-subject O O O O O O newstk_subscribe_cal
+BOS 为什么我不能打新 EOS\	O O O O O O O B-action B-subject newstk_subscribe_cal
+BOS 我能申购多少新股 EOS\	O O O B-action I-action B-object I-object B-subject I-subject newstk_subscribe_cal
+BOS 如何才有资格申请新股 EOS\	O O O O O B-object I-object B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 如何才有资格申请新股 EOS\	O O O O O B-object I-object B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 如何才有资格申请新股 EOS\	O O O O O B-object I-object B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我们怎么买不到新股 EOS\	O O O O O B-action O O B-subject I-subject newstk_subscribe_cal
+BOS 为什么我有些新股不能打？ EOS\	O O O O O O O B-subject I-subject O O B-action O newstk_subscribe_cal
+BOS 今天开的户怎么不能申购新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 你好！我的账户怎么不能申购深圳股市新股？ EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 我有深市值，今天申购高斯贝尔，多次显示废单，怎么回事！ EOS\	O O O O O O O O O B-action I-action B-stkname I-stkname I-stkname I-stkname O O O B-object I-object I-object I-object O O O O O O newstk_subscribe_cal
+BOS 我怎么才能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 没有资金限制意思就是，就是说人人都可以申购新股。 EOS\	O B-object I-object I-object I-object I-object I-object O O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 没有资金限制意思就是，就是说人人都可以申购新股。 EOS\	O B-object I-object I-object I-object I-object I-object O O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 没有资金限制意思就是，就是说人人都可以申购新股。 EOS\	O B-object I-object I-object I-object I-object I-object O O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好，我的新股申购怎么都是零啊 EOS\	O O O O O O B-subject I-subject B-action I-action O O O O O O newstk_subscribe_cal
+BOS 新股最多买多少 EOS\	O B-subject I-subject B-object I-object I-object I-object I-object newstk_subscribe_cal
+BOS 新股申购数量怎么配给 EOS\	O B-subject I-subject B-action I-action B-object I-object O O B-object I-object newstk_subscribe_cal
+BOS 你 新股如何申购 EOS\	O O O B-subject I-subject B-object I-object B-action I-action newstk_subscribe_cal
+BOS 有资格申购额度最低是多少？谢谢！ EOS\	O O O O B-action I-action B-subject I-subject O O O O O O O O O newstk_subscribe_cal
+BOS 如何申购深股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的账户显示无权申购深股？ 请问一下原由 EOS\	O O O O O O O B-object I-object B-action I-action B-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 麻烦问下！新股额度怎么算！ EOS\	O O O O O O B-subject I-subject B-object I-object O O O O newstk_subscribe_cal
+BOS 如何申购新股 EOS\	O B-object I-object B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 深证股票持仓多少能申购新股 EOS\	O O O O O B-object I-object O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 申购股怎么申购不了 EOS\	O B-action I-action B-subject O O O O O O newstk_subscribe_cal
+BOS 你好，我的账户怎么不能申购新股了？ EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 我的帐户无法进行新股申购，什么原因？ EOS\	O O O O O O O O O B-action I-action B-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 我的账户有七千股股票，年前申购额度六千股，怎么现在额度变成五千股了？ EOS\	O O O O O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我想试试申购新股，还得有申购代码对吗？怎么办理申购代码？ EOS\	O O O O O B-action I-action B-subject I-subject O O O O B-object I-object I-object I-object O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我的新股申购额度是零 EOS\	O O O O O O B-subject I-subject B-action I-action B-object I-object O O newstk_subscribe_cal
+BOS 那为什么我现在不能申购沪市和深市的股票呢？ EOS\	O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 请问申请新股申购要开通什么功能 EOS\	O O O O O B-subject I-subject B-action I-action O O O O O B-object I-object newstk_subscribe_cal
+BOS 如何购买新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的帐户为什么还是不能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我要打新 EOS\	O O O B-action B-subject newstk_subscribe_cal
+BOS 为什么没有申购代码 EOS\	O O O O O O B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 为什么新股申购额度为0 EOS\	O O O O B-subject I-subject B-action I-action B-object I-object O O newstk_subscribe_cal
+BOS 我开户已经20个交易日了，市值都超过5000怎么不能申购新股 EOS\	O O O O O O O O O O O O O O B-object I-object O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 你好，请问我什么时候才能打新股？ EOS\	O O O O O O O O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 为什么我申购新股不行？ EOS\	O O O O O B-action I-action B-subject I-subject O O O newstk_subscribe_cal
+BOS 多少申购额度可以配一个号 EOS\	O O O B-action I-action B-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 申购新股的条件 EOS\	O B-action I-action B-subject I-subject O B-object I-object newstk_subscribe_cal
+BOS 你好王老师，按你说的新股申购，不支持怎么回事，今天新股怎么申购。 EOS\	O O O O O O O O O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购我没有额度 EOS\	O B-subject I-subject B-action I-action O O O B-object I-object newstk_subscribe_cal
+BOS 问什么我不能申购新股？ EOS\	O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我可以打新吗 EOS\	O O O O B-action B-subject O newstk_subscribe_cal
+BOS 你好，我为什么不能申购新股？ EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 上交所怎么没法申购那 EOS\	O O O O O O O O O O O newstk_subscribe_cal
+BOS 上交所怎么没法申购那 EOS\	O O O O O O O O B-action I-action O newstk_subscribe_cal
+BOS 申购新股，有啥条件 EOS\	O B-action I-action B-subject I-subject I-subject O O O O newstk_subscribe_cal
+BOS 申购新股，有啥条件 EOS\	O B-action I-action B-subject I-subject I-subject O O O O newstk_subscribe_cal
+BOS 想问一下怎么才可以打新股 EOS\	O O O O O O O O O O B-action B-subject I-subject newstk_subscribe_cal
+BOS 预约新股票每个账户都可以吧 EOS\	O B-action I-action B-subject I-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 打新股用 EOS\	O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 为什么我深圳帐户市值五千元以上却不能申购%3F EOS\	O O O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O B-action I-action O O O newstk_subscribe_cal
+BOS 怎么才能进行新股申购？ EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么才能进行新股申购？ EOS\	O O O O O O O O O O O O newstk_subscribe_cal
+BOS 你好我能申请新股吗？ EOS\	O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 为什么我打不了新股 EOS\	O O O O O B-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我的参考市值是11400为什么不能打新股！打勾都不打了！需要什么样才可以 EOS\	O O O O O O O O O O O O O O O O O O B-action B-subject I-subject O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我的申购额度为0 EOS\	O O O O O O B-action I-action B-subject I-subject O O newstk_subscribe_cal
+BOS 新股申购怎么可以申购 EOS\	O B-subject I-subject B-action I-action O O O O O O newstk_subscribe_cal
+BOS 我持有沪市市值超五万元元二个多月了，为什么不能打新股。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 怎么才有新股申购资格 EOS\	O O O O O B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 我申请打新股，但是说不行（目前持仓大概5000多元），为什么？ EOS\	O O O O B-action B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我申请不了新股呢 EOS\	O O O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 我怎么还没法新股申购 EOS\	O O O O O O O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 哦，想申购新股必须资金达到一万以上？ EOS\	O O O O B-action I-action B-subject I-subject O O B-object I-object O O O O O O O newstk_subscribe_cal
+BOS 你好，我怎么打不了新股？ EOS\	O O O O O O O B-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 如何开通深圳市场新股购买权力 EOS\	O O O O O B-place I-place I-place I-place B-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 你好，我怎么不能申购新股呢 EOS\	O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我申购不了，为什么 EOS\	O O O O O O O O O O newstk_subscribe_cal
+BOS 我无法新股申购，前面筛选框点不了 EOS\	O O O O B-subject I-subject B-action I-action O O O O O O O O O newstk_subscribe_cal
+BOS 怎么样才能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么无法申购沪市新股 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 你好我想申购新股，怎么老显示无申购代码 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O B-object I-object I-object I-object newstk_subscribe_cal
+BOS 申购不了新股 EOS\	O B-action I-action O O B-subject I-subject newstk_subscribe_cal
+BOS 我的账户怎么不能申购新股？ EOS\	O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 请问以7开头的新股我怎么申购不上？ EOS\	O O O O B-stkcode I-stkcode I-stkcode O B-subject I-subject O O O B-action I-action O O O newstk_subscribe_cal
+BOS 点击没反应，难道我不能申购新股？ EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 为什么不能打新股？ EOS\	O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 我刚开了户，为什么不能新股申购，申购额度总显示0 EOS\	O O O O O O O O O O O O B-subject I-subject O O O B-action I-action B-object I-object O O O O newstk_subscribe_cal
+BOS 你好我为什么不能申购新股 EOS\	O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 新股申购需要什么条件%3F EOS\	O B-subject I-subject B-action I-action O O O O B-object I-object O O O newstk_subscribe_cal
+BOS 新股申购额度怎么获得 EOS\	O B-subject I-subject B-action I-action B-object I-object O O O O newstk_subscribe_cal
+BOS 新股申购，怎样才可以，我为什么不行哈 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 你好！打新股需要什么条件 EOS\	O O O O B-action B-subject I-subject O O O O B-object I-object newstk_subscribe_cal
+BOS 申购新股有什么条件 EOS\	O B-action I-action B-subject I-subject O O O B-object I-object newstk_subscribe_cal
+BOS 新股申购上限为12000，为什么只能申购1000 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 账户上需要多少资金才能申请新股？ EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 请问，新股申购只有深圳的，上海怎样才够资格申购新股，谢谢。 EOS\	O O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 为何买不了新股 EOS\	O O O B-action O O B-subject I-subject newstk_subscribe_cal
+BOS 为何买不了新股 EOS\	O O O B-action O O B-subject I-subject newstk_subscribe_cal
+BOS 新股申购怎么额度是零 EOS\	O B-subject I-subject B-action I-action O O B-object I-object O O newstk_subscribe_cal
+BOS 为什么申购额度还是零？！ EOS\	O O O O B-action I-action B-object I-object O O O O O newstk_subscribe_cal
+BOS 再问一下，现在打新股都需要有什么条件？ EOS\	O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 融资购买的股票可以申购新股吗 EOS\	O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 融资购买的股票可以申购新股吗 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O B-action I-action I-action I-action O newstk_subscribe_cal
+BOS 你好，我的帐户为什么不可以打上海新股？ EOS\	O O O O O O O O O O O O O O B-action B-subject I-subject I-subject I-subject O newstk_subscribe_cal
+BOS 你好 我申购新股只能申购上海的， 不能申购深圳的 ，怎样开通深圳的 我有深圳的股票 ，谢谢。 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 怎么显示没有新股额度 EOS\	O O O O O O O B-subject I-subject B-object I-object newstk_subscribe_cal
+BOS 打新什么要求 EOS\	O O O O O O O newstk_subscribe_cal
+BOS 申购新股要什么资格 EOS\	O O O O O O O O O O newstk_subscribe_cal
+BOS 登入股票有提示新股打新，为何我不能申购呢 EOS\	O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 显示是深市为0 EOS\	O O O O O O O O newstk_subscribe_cal
+BOS 我的账户可以炒新股吗 EOS\	O O O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 你好，我想问一下，申购新股怎么样才有配额 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O O O O O B-object I-object newstk_subscribe_cal
+BOS 多少钱能买新股？ EOS\	O O O O O B-action B-subject I-subject O newstk_subscribe_cal
+BOS 申请新股有什么要求吗 EOS\	O B-action I-action B-subject I-subject O O O B-object I-object O newstk_subscribe_cal
+BOS 进来了  我想问下怎么申购新股啊 需要什么条件啊 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 进来了  我想问下怎么申购新股啊 需要什么条件啊 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我昨天开的新户，想申购海峡环保，显示无申购代码 EOS\	O O O O O O O O O O B-action I-action B-stkname I-stkname I-stkname I-stkname O O O B-object I-object I-object I-object I-object newstk_subscribe_cal
+BOS 无申购代码是怎么回事 EOS\	O B-subject I-subject I-subject I-subject I-subject O O O O O newstk_subscribe_cal
+BOS 无申购代码是怎么回事 EOS\	O B-subject I-subject I-subject I-subject I-subject O O O O O newstk_subscribe_cal
+BOS 我怎么不能新股申购呢 EOS\	O O O O O O B-subject I-subject B-action I-action O newstk_subscribe_cal
+BOS 我怎么新股申购不了 EOS\	O O O O B-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 我想问问，我什么时候能申购新股 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么我申购不了新股？ EOS\	O O O O O B-action I-action O O B-subject I-subject O newstk_subscribe_cal
+BOS 我想咨询一下新股申购的事！我看了一下可申购数量的总金额是我账户余额的十倍！这种情况是怎么回事 EOS\	O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O B-object I-object I-object I-object I-object I-object I-object I-object I-object O O B-object I-object I-object I-object O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我怎么不能申购新股 EOS\	O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 你好，我的账户怎么不能申请6开头的新股，支能申请3和0开头的 EOS\	O O O O O O O O O O O O B-action I-action O O O O B-subject I-subject O O O O O O O O O O O newstk_subscribe_cal
+BOS 我同时能买 上海新股发行 和 深圳新股发行 吗？也就是一天买两家的新股发行 可以吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我同时能买 上海新股发行 和 深圳新股发行 吗？也就是一天买两家的新股发行 可以吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O newstk_subscribe_cal
+BOS 我同时能买 上海新股发行 和 深圳新股发行 吗？也就是一天买两家的新股发行 可以吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O newstk_subscribe_cal
+BOS 怎么申购新股？我买了1万块钱的股票了怎么不能申购？ EOS\	O O O B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 初次用齐富通，想申购新股，显示上证深证可用全额为零，而且要代码号 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O B-object I-object I-object I-object I-object I-object O O O O B-object I-object I-object newstk_subscribe_cal
+BOS 好的，打新股必须开通创业板？ EOS\	O O O O B-action B-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 我的手机客户端怎么申购新股？ EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 申购新股有什么条件？ EOS\	O B-action I-action B-subject I-subject O O O B-object I-object O newstk_subscribe_cal
+BOS 为什么我没办法申购深圳的新股 EOS\	O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 为什么7打头的股票不能申购 EOS\	O O O O O O O O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 股票多久才能申购打新 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我入股市不长时间，我想申购新股都得有什么条件才可以 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject O O O O O B-object I-object O O O newstk_subscribe_cal
+BOS 怎么才能有新股的申购额度？ EOS\	O O O O O O B-subject I-subject O B-action I-action B-object I-object O newstk_subscribe_cal
+BOS 怎么不能申购了 EOS\	O O O O O B-action I-action O newstk_subscribe_cal
+BOS 帮我看看我什么时候可以新股申购 EOS\	O O O O O O O O O O O O B-subject I-subject B-action I-action newstk_subscribe_cal
+BOS 打新股需要满足什么条件？ EOS\	O B-action B-subject I-subject O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 请问新股申购对投资者有何要求 EOS\	O O O B-subject I-subject I-subject I-subject O B-object I-object I-object O O O O newstk_subscribe_cal
+BOS 我怎么不能申购新股啊 EOS\	O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 我有申购额度的时候有提醒吗 EOS\	O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 新股申购点击不上？ EOS\	O B-subject I-subject B-action I-action O O O O O newstk_subscribe_cal
+BOS 你好.我想问下市值达到多少才能申购新股 EOS\	O O O O O O O O B-object I-object O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 为什么我的有些新股不能申购 EOS\	O O O O O O O O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 怎样才能查到我离新股申购还有多长时间？ EOS\	O O O O O O O O O B-subject I-subject B-action I-action O O O O O O O newstk_subscribe_cal
+BOS 新股怎么不能申购了 EOS\	O B-subject I-subject O O O O B-action I-action O newstk_subscribe_cal
+BOS 申购新股最少是多少股 EOS\	O B-action I-action B-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 那我要是申购新股的话   必须有持仓市值对吗？ EOS\	O O O O O B-action I-action B-subject I-subject O O O O O O O O B-object I-object I-object I-object O O O newstk_subscribe_cal
+BOS 为什么我账号不能申购新股？ EOS\	O O O O O O O O O B-action I-action B-subject I-subject O newstk_subscribe_cal
+BOS 申购新股有什么条件 EOS\	O B-action I-action B-subject I-subject O O O B-object I-object newstk_subscribe_cal
+BOS 你好，为什么我不可申购深市新股 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 它也是数量大于申购数 EOS\	O O O O O O O O O O O newstk_subscribe_cal
+BOS 它也是数量大于申购数 EOS\	O O O O O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 申购额度 EOS\	O B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 请问，我为什么在上海证券交易所发行的股票，我只能申购1000股？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O O O O O O newstk_subscribe_cal
+BOS 请问，我为什么在上海证券交易所发行的股票，我只能申购1000股？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O O O O O O newstk_subscribe_cal
+BOS 为什么我申购一直显示无申购代码 EOS\	O O O O O O O O O O O O B-action I-action O O newstk_subscribe_cal
+BOS 为什么我申购一直显示无申购代码 EOS\	O O O O O O O O O O O O B-action I-action O O newstk_subscribe_cal
+BOS 现在的新股申购额度是如何定的呢 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O newstk_subscribe_cal
+BOS 怎么获得申购额度 EOS\	O O O O O B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 四万元深市市值能申购多少新股 EOS\	O O O O O O O O O B-action I-action O O B-object I-object newstk_subscribe_cal
+BOS 四万元深市市值能申购多少新股 EOS\	O O O O O O O O O B-action I-action O O B-object I-object newstk_subscribe_cal
+BOS 问个问题，新股上限是自己设定的吗？ EOS\	O O O O O O B-subject I-subject O O O O O O O O O O newstk_subscribe_cal
+BOS 为什么我只能申请1000 EOS\	O O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 为什么我只能申请1000 EOS\	O O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 你好。我有沪市股票怎么申购不了 EOS\	O O O O O O O O O O O O B-subject I-subject O O newstk_subscribe_cal
+BOS 知道了，谢谢你。我还想知道，怎么才够格申报深圳发行的新股啊 EOS\	O O O O O O O O O O O O O O O O O O O O B-action I-action O O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 你好，我开盘有一定的股票可以打新股，我打了以后，发现大盘不好就把股票卖了，打的新股有效吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject O O O O newstk_subscribe_cal
+BOS 你好，怎么我可以申购1500股深圳的新股，但怎么不能申购上海的新股呢？ EOS\	O O O O O O O O O B-action I-action O O O O O O O O B-subject I-subject O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 额度是说那个资金额度吗总共的 EOS\	O B-subject I-subject O O O O O O O O O O O O newstk_subscribe_cal
+BOS 关于申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 关于申购新股 EOS\	O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 我的帐户怎么不能申购。 EOS\	O O O O O O O O O B-action I-action O newstk_subscribe_cal
+BOS 我己开通创业版，为啥新股申购不了 EOS\	O O O O O O O O O O O B-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 申购新股需要的条件是什么 EOS\	O B-action I-action B-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 申购不行 EOS\	O B-action I-action O O newstk_subscribe_cal
+BOS 如何在深圳账户存入额度？ EOS\	O B-action I-action O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 如何在深圳账户存入额度？ EOS\	O B-action I-action O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 什么条件才可以买新上市的股票 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 为什么我不能申购新股 EOS\	O O O O O O O B-action I-action B-subject I-subject newstk_subscribe_cal
+BOS 20个交易日平均满一万了，新股申购额度为啥还是0呢 EOS\	O O O O O O O O O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O O newstk_subscribe_cal
+BOS 新股我为啥没发申请 EOS\	O B-subject I-subject O O O O O B-action I-action newstk_subscribe_cal
+BOS 刘哥，我怎么没有额度啊 EOS\	O O O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 为什么显示0 EOS\	O O O O B-action I-action O newstk_subscribe_cal
+BOS 我申请好几回了 EOS\	O O B-action I-action O O O O newstk_subscribe_cal
+BOS 我现在能买新股吗 EOS\	O O O O O B-action B-object I-object O newstk_subscribe_cal
+BOS 你好，我为什么不能申购沪市股票阿？ EOS\	O O O O O O O O O O B-action I-action O O B-object I-object O O newstk_subscribe_cal
+BOS 我的沪市新股申购怎么没有额度？ EOS\	O O O O O B-subject I-subject B-action I-action O O O O B-object I-object O newstk_subscribe_cal
+BOS 今天新股申购不成功，请问现在有没有什么新规啊 EOS\	O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 今天新股申购不成功，请问现在有没有什么新规啊 EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 今天新股申购不成功，请问现在有没有什么新规啊 EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 今天新股申购不成功，请问现在有没有什么新规啊 EOS\	O O O B-subject I-subject B-action I-action O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 那样子的才能申购呢 EOS\	O O O O O O O B-action I-action O newstk_subscribe_cal
+BOS 能帮我查一下我的新股申购额度怎么还是0 EOS\	O O O O O O O O O B-subject I-subject B-action I-action B-object I-object O O O O O newstk_subscribe_cal
+BOS 你好，请问新股申购额度是怎么确定的啊？ EOS\	O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O newstk_subscribe_cal
+BOS 那怎么样才有资格申请新股 EOS\	O O O O O O O O O B-action I-action B-object I-object newstk_subscribe_cal
+BOS 你好深市的股票5000元持有20天能打新吗 EOS\	O O O O O O B-subject I-subject O O O O O O O O O O O B-action I-action O newstk_subscribe_cal
+BOS 请问我的账户怎么不能买进新股了啊 EOS\	O O O O O B-subject I-subject O O O O B-action I-action B-object I-object O O newstk_subscribe_cal
+BOS 为什么我的申购额度是o EOS\	O O O O O O B-subject I-subject I-subject I-subject O O newstk_subscribe_cal
+BOS 为什么我申购新股提示无申购代码，深圳和上海下面都是零 EOS\	O O O O O O O B-subject I-subject O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我的申购额度显示为0，就是说我在沪市前二十天内没有交易，所以额度为零是吧？ EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 还是我必须有深圳股票  才能申购新股啊 EOS\	O O O O O O O O O O O O O O O B-action I-action B-object I-object O newstk_subscribe_cal
+BOS 怎么计算的？ EOS\	O O O B-action I-action O O newstk_subscribe_cal
+BOS 新股申购额度怎么提升？ EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O O B-action I-action O newstk_subscribe_cal
+BOS 新股申购额度怎么提升？ EOS\	O B-object I-object I-object I-object I-object I-object O O B-action I-action O newstk_subscribe_cal
+BOS 不行啊，输入不了数量 EOS\	O O O O O O O O O B-object I-object newstk_subscribe_cal
+BOS 没有提示就是没有申购数量 EOS\	O O O O O O O O O B-object I-object I-object I-object newstk_subscribe_cal
+BOS 申购新股需要什么条件？ EOS\	O O O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 为什么我不能申购上市的新股哪 EOS\	O O O O O O O B-action I-action O O O B-object I-object O newstk_subscribe_cal
+BOS 邢哥，我700开头的股票为什么申购不了呢？ EOS\	O O O O O O O O O O O B-subject I-subject O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 你好，我更新了，为什么不能申请够买新股 EOS\	O O O O O O O O O O O O O O B-action I-action O O B-object I-object newstk_subscribe_cal
+BOS 我有股票，怎么新股申购没有额度呢 EOS\	O O O O O O O O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 新股票申购条件 EOS\	O B-subject I-subject I-subject B-action I-action B-object I-object newstk_subscribe_cal
+BOS 新股票申购条件 EOS\	O B-subject I-subject I-subject B-action I-action O O newstk_subscribe_cal
+BOS 我为什么不能申购上市股票 EOS\	O O O O O O O B-action I-action B-object I-object I-object I-object newstk_subscribe_cal
+BOS 所有的新股都可以申购 应该怎么做 EOS\	O O O O B-subject I-subject O O O B-action I-action O O O O O O newstk_subscribe_cal
+BOS 新股数量超出其总市值额度 EOS\	O B-subject I-subject I-subject I-subject O O O O B-object I-object I-object I-object newstk_subscribe_cal
+BOS 如果20个工作日以后可以申购新股啦是每次市值必须都要大于一万才能进行申购吗 EOS\	O O O O O O O O O O O O O O O B-subject I-subject O O O O O O O O O O O O O O O O O O B-action I-action O newstk_subscribe_cal
+BOS 我可以申购新股吗 EOS\	O O O O B-action I-action B-object I-object O newstk_subscribe_cal
+BOS 为什么。 我申购不了 EOS\	O O O O O O O B-action I-action O O newstk_subscribe_cal
+BOS 申购深股的市值是多少啊 EOS\	O B-action I-action O O O B-object I-object O O O O newstk_subscribe_cal
+BOS 为什么我没申购额度 EOS\	O O O O O O B-action I-action B-object I-object newstk_subscribe_cal
+BOS 怎么才可以申购 EOS\	O O O O O O B-action I-action newstk_subscribe_cal
+BOS 新股申购为什么我申购不了呢？ EOS\	O B-subject I-subject O O O O O O B-action I-action O O O O newstk_subscribe_cal
+BOS 申购额度怎么挣 EOS\	O B-object I-object I-object I-object O O O newstk_subscribe_cal
+BOS 申购的条件 EOS\	O B-action I-action O B-channel I-channel newstk_subscribe_cal
+BOS 申购股票怎么显示无申购代码 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action O O O O O newstk_subscribe_cal
+BOS 新股申购额度怎么算的 EOS\	O B-subject I-subject O O B-object I-object O O B-action O newstk_subscribe_cal
+BOS 新股申购额度怎么算的 EOS\	O B-subject I-subject O O B-object I-object O O B-action O newstk_subscribe_cal
+BOS 我怎么申购不了上海新服 EOS\	O O O O B-action I-action O O B-object I-object I-object I-object newstk_subscribe_cal
+BOS 那购买新股的权限呢 EOS\	O O B-action I-action O O O B-object I-object O newstk_subscribe_cal
+BOS 深圳怎样才够申购资格 EOS\	O O O O O O O B-action I-action B-object I-object newstk_subscribe_cal
+BOS 额度和申购上限有什么关系 EOS\	O B-subject I-subject O B-subject I-subject O O O O O B-object I-object newstk_subscribe_cal
+BOS 怎么我只能申购沪市的新股，申购不了深市的？ EOS\	O O O O O O B-action I-action O O O B-object I-object O O O O O O O O O newstk_subscribe_cal
+BOS 上海1000深圳0怎样才能让深圳也有额度呢 EOS\	O O O O O O O O O O O O O O O O O O O B-subject I-subject O newstk_subscribe_cal
+BOS 新股申购额度怎么提升 EOS\	O O O O O B-subject I-subject O O B-action I-action newstk_subscribe_cal
+BOS 你好，为何我只能申购上证新股 EOS\	O O O O O O O O O B-action I-action O O B-object I-object newstk_subscribe_cal
+BOS 也就是说没有上海的股票就不能申购上海的新股对吧 EOS\	O O O O O O O O O O B-subject I-subject O O O B-action I-action O O O O O O O newstk_subscribe_cal
+BOS 申购数量 EOS\	O B-subject I-subject I-subject I-subject newstk_subscribe_cal
+BOS 你好，请问我为什么不能申购7打头的新股 EOS\	O O O O O O O O O O O O B-action I-action O O O O B-object I-object newstk_subscribe_cal
+BOS 你好，请问我为什么不能申购7打头的新股 EOS\	O O O O O O O O O O O O B-action I-action O O O O B-object I-object newstk_subscribe_cal
+BOS 新股申购额度怎么计算来的 EOS\	O B-subject I-subject O O B-object I-object O O B-action I-action O O newstk_subscribe_cal
+BOS 申购股票需要一万元是吗 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O newstk_subscribe_cal
+BOS 是说从第一次买，必须平均有20次交易，平均每次交易金额都超一万，才能申购新股，是吗，是算20次的总平均数吗 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action B-object I-object O O O O O O O O O O O O O O O newstk_subscribe_cal
+BOS 我申购新股不行啊 EOS\	O O B-action I-action B-object I-object O O O newstk_subscribe_cal
+BOS 申购原始股需要什么条件 EOS\	O B-action I-action B-subject I-subject I-subject O O O O B-object I-object newstk_subscribe_cal
+BOS 申购原始股需要什么条件 EOS\	O B-action I-action B-subject I-subject I-subject O O O O B-object I-object newstk_subscribe_cal
+BOS 你好，申购新股有啥条件 EOS\	O O O O B-action I-action B-subject I-subject O O B-object I-object newstk_subscribe_cal
+BOS 怎么样才能买到新股票 EOS\	O O O O O O B-action I-action B-object I-object I-object newstk_subscribe_cal
+BOS 我想问下怎么才会有申购新股的额度 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O B-object I-object newstk_subscribe_cal
+BOS 额度是我持有股票的数量吗 EOS\	O B-subject I-subject O O O O O O O B-object I-object O newstk_subscribe_cal
+BOS 帐号不能申购是啥意思 EOS\	O B-subject I-subject O O B-action I-action O O O O newstk_subscribe_cal
+BOS 申购新股需要哪些条件？ EOS\	O B-action I-action B-subject I-subject O O O O B-object I-object O newstk_subscribe_cal
+BOS 我为什么不能申购沪市的股票 EOS\	O O O O O O O B-action I-action O O O B-object I-object newstk_subscribe_cal
+BOS 你好：我的帐户为何不能申购上海新股，谢谢。 EOS\	O O O O O O B-subject I-subject O O O O B-action I-action O O B-object I-object O O O O newstk_subscribe_cal
+BOS 上海的股票我咋不能申购？ EOS\	O O O O B-object I-object O O O O B-action I-action O newstk_subscribe_cal
+BOS 现在只能申购上海新股，深圳无法申购？ EOS\	O O O O O B-action I-action O O B-object I-object O O O O O O O O newstk_subscribe_cal
+BOS 现在只能申购上海新股，深圳无法申购？ EOS\	O O O O O B-action I-action O O B-object I-object O O O O O O O O newstk_subscribe_cal
+BOS 怎么买新股 EOS\	O O O B-action B-object I-object newstk_subscribe_cal
+BOS 今天我为什么不能申购啊 EOS\	O O O O O O O O O B-action I-action O newstk_subscribe_cal
+BOS 我今天为什么不能申购新股 EOS\	O O O O O O O O O B-action I-action B-object I-object newstk_subscribe_cal
+BOS 你好我的帐户怎么不能申购深股 EOS\	O O O O O B-subject I-subject O O O O B-action I-action O O newstk_subscribe_cal
+BOS 没有额度怎么办 EOS\	O O O B-object I-object O O O newstk_subscribe_cal
+BOS 我修改了。怎么还登不了？？ EOS\	O O O O O O O O O B-action I-action I-action O O newstk_subscribe_cal

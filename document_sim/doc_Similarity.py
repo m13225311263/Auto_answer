@@ -28,6 +28,7 @@ class doc_Similarity:
         with open(name, 'r') as f:
             text = f.read()
             words = pseg.cut(text)
+        #remove stop words
         for word, flag in words:
             if flag not in self.stop_flag and word not in self.stopwords:
                 result.append(word)
@@ -56,9 +57,12 @@ class doc_Similarity:
         index = similarities.MatrixSimilarity(lsi_vector)
         simi_list=[]
         for num in xrange(self.topicNum):
+            '''
             name=str(num) +'.txt'
             query = self.tokenization(name)
             query_bow = dictionary.doc2bow(query)
+            '''
+            query_bow=tfidf_vectors[num]
             query_lsi = lsi[query_bow]
             sims = index[query_lsi]
             i=0

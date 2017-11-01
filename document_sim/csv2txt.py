@@ -9,28 +9,38 @@ class csv2txt:
         self.readDir='dataOrg'
         self.saveDir='data'
         self.files=os.listdir(self.readDir)
-        for file in self.files:
-            self.readAndWriteFile(file)
-
-    def readAndWriteFile(self,file):
-        data=[]
-        name=file[0:1]
-        readname=self.readDir+'/'+file
-        writename=self.saveDir+'/'+name+'.txt'
-        #read
+        l=len(self.files)
+        print ("number of topics :"+str(l))
+        for i in xrange(l):
+            self.readAndWriteFile(self.files[i])
+    def read(self,readname,data):
         with open(readname, 'rU') as csvfile:
             data_row = csv.reader(csvfile, delimiter=' ')
             for row in data_row:
                 data.append(row[1])
         data_list = [item.decode('utf-8') for item in data]
+        return data_list
 
-        #write
+    def write(self, writename, data_list):
         fo = open(writename, 'w')
         for item in data_list:
             for w in item:
                 str = w + ""
                 fo.write(str)
         fo.close()
+
+
+    def readAndWriteFile(self,file):
+        data=[]
+        name=file[0:-4]
+        readname=self.readDir+'/'+file
+        writename=self.saveDir+'/'+name+'.txt'
+        #read
+        data=self.read(readname,data)
+
+        #write
+        self.write(writename,data)
+        print("writing files has finished")
 '''
 a=csv2txt()
 '''

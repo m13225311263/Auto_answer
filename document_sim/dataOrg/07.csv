@@ -1,0 +1,504 @@
+BOS 电脑上使用的资金账户无法在手机上使用 EOS\	O O O O O O O B-subject I-subject I-subject I-subject B-action I-action I-action I-action I-action I-action I-action I-action mobile_trade_open
+BOS 你好，手机不能交易怎么回事？ EOS\	O O O O B-channel I-channel O O B-action I-action O O O O O mobile_trade_open
+BOS 我的账号不能登陆 EOS\	O O O B-subject I-subject O O B-action I-action mobile_trade_open
+BOS 电脑上能操作吗 EOS\	O B-channel I-channel O O B-action I-action O mobile_trade_open
+BOS 显示980023093帐号不能以这种方式登录 EOS\	O O O O O O O O O O O O B-subject I-subject O O O O O B-subject I-subject B-action I-action mobile_trade_open
+BOS 刚下载了，登录时资金账户不是指深市或沪市吗？ EOS\	O O O O O O B-action I-action O B-subject I-subject I-subject I-subject O O O B-place I-place O B-place I-place O O mobile_trade_open
+BOS 手机交易980023093错误，资金账号 EOS\	O B-channel I-channel B-action I-action O O O O O O O O O O O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 帐号怎么登录 EOS\	O B-subject I-subject O O B-action I-action mobile_trade_open
+BOS 手机新装APP登录提示不允许以该方式登录。？ EOS\	O B-channel I-channel O O B-subject I-subject I-subject B-action I-action O O O O O O O O O O O O O mobile_trade_open
+BOS 手机使用功能 EOS\	O B-channel I-channel O O B-subject I-subject mobile_trade_open
+BOS 资金账号不允许登陆是什么意思？ EOS\	O B-subject I-subject I-subject I-subject O O O B-action I-action O O O O O O mobile_trade_open
+BOS 你好？请问我在输入资金帐号时登录本软件时出现“资金帐号不允许以该操作方式登陆8”,从而不能登录齐富通是怎么回事？请指教 EOS\	O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O O O O O O O O O B-subject I-subject I-subject O O O O O O O O O mobile_trade_open
+BOS 齐鲁的帐号登录不上怎么回事 EOS\	O B-subject I-subject O B-subject I-subject B-action I-action I-action I-action O O O O mobile_trade_open
+BOS 齐富通，资金账号不允许以该方式登陆 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject B-action I-action mobile_trade_open
+BOS 我是中泰证券用户，我在齐富通上操作，系统显示资金帐号不允许以此方式操作，为什么？ EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O B-subject I-subject I-subject O B-action I-action O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O mobile_trade_open
+BOS 客户端第一次用，目前帐号上不去了，是不是还要开通手机掌上功能呢 EOS\	O B-subject I-subject I-subject O O O O O O O B-subject I-subject O O O O O O O O O O B-action I-action B-subject I-subject B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 为什么不能用App登陆账号 EOS\	O O O O O O O B-subject I-subject I-subject B-action I-action B-subject I-subject mobile_trade_open
+BOS 用手机怎样交易港股通，用哪个手机软件 EOS\	O O B-channel I-channel O O B-action I-action B-subject I-subject I-subject O O O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 中泰证券手机版是哪个软件%3F EOS\	O B-subject I-subject I-subject I-subject B-channel I-channel O O O O B-subject I-subject O O O mobile_trade_open
+BOS 刚下载的软件登录不上，说错误，不允许操作 EOS\	O O B-action I-action O B-subject I-subject B-action I-action O O O O O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 你好，我是齐鲁证券的客户，好久没在网上交易了，刚才下载才知道公司换名了，才下载了这个，但是我登录不进去，是怎么回事 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O B-channel I-channel B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O O O O O O O O O mobile_trade_open
+BOS 我的资金帐号在齐富通上登录时显示不允许以该方式登录，这是怎么回事 EOS\	O O O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O B-action I-action O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 资金方式不允许以该操作方式登陆？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-subject I-subject B-action I-action O mobile_trade_open
+BOS 帐户状态被锁定,不允许登陆怎么解除锁定 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O O B-action I-action O O mobile_trade_open
+BOS 资金账号怎么不能登录 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action I-action I-action mobile_trade_open
+BOS 我的齐富通没法登入呢？ EOS\	O O O B-subject I-subject I-subject O O B-action I-action O O mobile_trade_open
+BOS 您好，中泰齐富提示，资金账号不允许以此种方式登录 EOS\	O O O O B-subject I-subject I-subject I-subject B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action mobile_trade_open
+BOS 我刚下载了软件，在电脑上已有账号，手机还需要新开户吗 EOS\	O O O B-action I-action O B-subject I-subject O O B-channel I-channel O O O O O O B-channel I-channel O O O O B-action I-action O mobile_trade_open
+BOS 我登陆原来的账号  不能登录  为什么 EOS\	O O B-action I-action O O O B-subject I-subject O O O O O O O O O O O mobile_trade_open
+BOS 我下载了齐富通软件怎么登陆不上 EOS\	O O B-action I-action O B-subject I-subject I-subject I-subject I-subject O O B-action I-action O O mobile_trade_open
+BOS 我输入资金账号显示此账号不允许以此种方式登陆是什么原因 EOS\	O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O B-subject I-subject I-subject I-subject B-subject I-subject O O O O O mobile_trade_open
+BOS 手机还需要重新开户吗 EOS\	O B-channel I-channel O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 你好，可以在手机上买卖吗 EOS\	O O O O O O O B-channel I-channel O B-action I-action O mobile_trade_open
+BOS 您好！您昨晚说的，用电脑解决“资金账号无法以该方式登录”的问题，请问如何一步步的操作？ EOS\	O O O O O O O O O O O B-channel I-channel B-action I-action O B-subject I-subject I-subject I-subject O O O O O O B-action I-action O O O O O O O O O O O O O B-action I-action O mobile_trade_open
+BOS 刚下载的软件，登录不上 EOS\	O O B-action I-action O B-subject I-subject O B-action I-action I-action I-action mobile_trade_open
+BOS 用电脑的客户端怎么开通手机交易功能 EOS\	O O O O O O O O O O B-action I-action B-channel I-channel B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 刚刚登录账号提示 不允许登录为什么？ EOS\	O O O B-action I-action B-subject I-subject O O O O O O O O O O O O mobile_trade_open
+BOS 980023093资金帐号不能登录是什么意思 EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O O B-action I-action O O O O O mobile_trade_open
+BOS 我刚下载了手机版，提示在该模式下不允许该账户操作 EOS\	O O O B-action I-action O B-subject I-subject I-subject O O O O O B-subject I-subject O O O O O O O B-action I-action mobile_trade_open
+BOS 账号上不去 EOS\	O B-subject I-subject O O O mobile_trade_open
+BOS 新下载的中泰齐富通如何进行登录（原齐鲁证券老用户） EOS\	O O B-action I-action O B-subject I-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O O O O O O mobile_trade_open
+BOS 资金账号不允许以该方式登陆8 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O mobile_trade_open
+BOS 没有开通手机登录 EOS\	O O O B-action I-action B-channel I-channel B-action I-action mobile_trade_open
+BOS 手机为什么登陆不了 EOS\	O B-channel I-channel O O O B-action I-action I-action I-action mobile_trade_open
+BOS 我点交易买入登录，为什么登录不上去 EOS\	O O O B-action I-action I-action I-action B-action I-action O O O O O O O O O mobile_trade_open
+BOS 老是登录不上啊 EOS\	O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 出现资金账号不能以该操作方式登陆（8）是怎么回事？ EOS\	O B-action I-action B-subject I-subject I-subject I-subject O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O mobile_trade_open
+BOS 齐富通如何交易？ EOS\	O B-subject I-subject I-subject O O B-action I-action O mobile_trade_open
+BOS 怎么有个賬戶说不能手机登陸 EOS\	O O O O O B-subject I-subject O O O B-action I-action I-action I-action mobile_trade_open
+BOS 怎么提示賬戶不存在 EOS\	O O O O O B-subject I-subject B-action I-action I-action mobile_trade_open
+BOS 我的资金账号为什么无法正常登录 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 你好，我安装了中泰齐富同软件，怎么无法登录交易呢 EOS\	O O O O O B-action I-action O B-subject I-subject I-subject I-subject I-subject O O O O O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 资金账号不允许以该操作方式登录 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 怎么不能用资金账户登陆啊！ EOS\	O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 资金账号不允许以该操作方式登录 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 电脑能登录，手机怎么不行，什么错误 EOS\	O B-channel I-channel O B-action I-action O B-channel I-channel O O O O O O O O O mobile_trade_open
+BOS 我的账号怎么登入不上啊 EOS\	O O O B-subject I-subject O O B-action I-action O O O mobile_trade_open
+BOS 原来用同花顺登陆，现在换手机了，得下载个什么软件登陆 EOS\	O O O O B-subject I-subject I-subject O O O O O O B-channel I-channel O O O O O O O O B-subject I-subject B-action I-action mobile_trade_open
+BOS 不允许以此种方式登录 EOS\	O O O O O O O O O B-action I-action mobile_trade_open
+BOS 提示手机炒股无权操作 EOS\	O B-action I-action B-channel I-channel B-action I-action O O B-action I-action mobile_trade_open
+BOS 电脑能登录，手机不能 EOS\	O O O O B-action I-action O B-channel I-channel O O mobile_trade_open
+BOS 错误级别：[1] 错误内容：[错误信息提示:-980023093[-980023093]资金帐号不允许以该操作方式登陆8] EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 显示资金账号不允许已该登陆方式操作 EOS\	O B-action I-action B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject O O mobile_trade_open
+BOS 原来一直用电脑登录的，没用过手机，是不允许操作好像 EOS\	O O O O O O B-channel I-channel B-action I-action O O O O O B-channel I-channel O O O O O O O O O mobile_trade_open
+BOS 输入资金账号，密码，登录不上 EOS\	O B-action I-action B-subject I-subject I-subject I-subject O B-subject I-subject O B-action I-action O O mobile_trade_open
+BOS 提示不能以这种方式登录 EOS\	O B-action I-action O O O B-subject I-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 手机登录不了帐号 EOS\	O B-channel I-channel B-action I-action O O B-subject I-subject mobile_trade_open
+BOS 怎么资金账号无法登陆呢？ EOS\	O O O B-subject I-subject I-subject I-subject B-action I-action I-action I-action O O mobile_trade_open
+BOS 资金账户不允许以该操作方式登陆 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 你好，我有中泰证券的账户，网上能行，但用手机登不上，手机还用到营业厅办理吗？ EOS\	O O O O O O B-subject I-subject I-subject I-subject O B-subject I-subject O O O O O O O O B-channel I-channel O O O O O O O O O B-subject I-subject I-subject O O O O mobile_trade_open
+BOS 怎么显示不允许登陆？ EOS\	O O O B-action I-action O O O B-action I-action O mobile_trade_open
+BOS 为什么我的资金帐号在电脑上能正常登陆，在手机端却提示没有该用户信息。 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action I-action I-action O O B-channel I-channel I-channel O O O O O O B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 怎么开通手机炒股 EOS\	O O O B-action I-action B-channel I-channel B-action I-action mobile_trade_open
+BOS 不允许此方式登录 EOS\	O O B-action I-action O O O B-action I-action mobile_trade_open
+BOS 不允许登录，为什么，同花顺都能登录 EOS\	O B-action I-action I-action I-action I-action O O O O O B-subject I-subject I-subject O O O O mobile_trade_open
+BOS 我的资金账号怎么登不上去 EOS\	O O O B-subject I-subject I-subject I-subject O O B-action I-action I-action O mobile_trade_open
+BOS 资金账户登不上 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action mobile_trade_open
+BOS 原来齐鲁证券开的户，现在怎么用不了 EOS\	O O O B-subject I-subject I-subject I-subject B-action O O O O O O O O O O mobile_trade_open
+BOS 不允许以此种方式交易 EOS\	O O O O O B-subject I-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 你好，我昨天开通的otc账户今天手机上没法登，手机上不能填开户机构， EOS\	O O O O O O O B-action I-action O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O B-channel I-channel O O O B-action B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 手机下载中泰证卷 EOS\	O B-channel I-channel B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 为什么手机客户端资金账号登录不上 EOS\	O O O O B-channel I-channel B-subject I-subject I-subject B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 我的账户怎么说不能登 EOS\	O O O B-subject I-subject O O O B-action I-action I-action mobile_trade_open
+BOS 为什么我的手机证券软件登录不上 EOS\	O O O O O O B-channel I-channel B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 我的资金账户在同花顺能用在这里怎么不能用 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O B-object I-object I-object mobile_trade_open
+BOS 你好，我想问下，我下载的中泰齐富通APP，为什么不能登录资金账户，说不能用此种方式登陆 EOS\	O O O O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O B-action I-action I-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O O O mobile_trade_open
+BOS 你好，我已登陆成功，但是，我的手机登陆成功，我爱人的手机不能登陆，正常吗 EOS\	O O O O O O O O O O O O O O O O B-subject I-subject B-object I-object I-object I-object O O O O O O O O O O O O O O O mobile_trade_open
+BOS 刚下载的软件，登录不上，电脑能登录，同花顺也能登录 EOS\	O O B-action I-action O B-subject I-subject O B-action I-action O O O B-subject I-subject O O O O B-subject I-subject I-subject O O O O mobile_trade_open
+BOS 我想问一下登陆有问题 EOS\	O O O O O O B-action I-action O B-subject I-subject mobile_trade_open
+BOS 怎么用手机卖 EOS\	O O O O B-subject I-subject B-action mobile_trade_open
+BOS 手机提示  资金账号不允许以该操作方式登录 EOS\	O B-subject I-subject B-action I-action O O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 我的手机上不去 EOS\	O O O B-subject I-subject B-action I-action I-action mobile_trade_open
+BOS 提示不能用资金帐号 EOS\	O O O B-action I-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 你好，刚才说怎样激活，我忘了<破涕为笑> EOS\	O O O O O O O O O B-action I-action O O O O O O O O O O mobile_trade_open
+BOS 手机APP怎么登陆交易 EOS\	O B-subject I-subject I-subject I-subject I-subject O O B-action I-action I-action I-action mobile_trade_open
+BOS 资金账号不允许此种操作登陆 EOS\	O B-subject I-subject I-subject I-subject O O O B-subject I-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 我的资金帐号在手机上怎么登不上 EOS\	O O O B-subject I-subject I-subject I-subject O B-subject I-subject O O O O O O mobile_trade_open
+BOS 我的账号为什么不能手机登录 EOS\	O O O B-subject I-subject O O O O O B-subject I-subject B-action I-action mobile_trade_open
+BOS 我的账户怎么不能用资金账户登录手机版 EOS\	O O O B-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action B-subject I-subject I-subject mobile_trade_open
+BOS 用手机登陆怎么提示资金账号不允许这样登录 EOS\	O O B-subject I-subject B-action I-action O O O O B-subject I-subject I-subject I-subject O O O O O O O mobile_trade_open
+BOS 我输入账号和交易密码怎么显示错误 EOS\	O O B-action I-action B-subject I-subject O B-subject I-subject I-subject I-subject O O O O O O mobile_trade_open
+BOS 在吗？我想问一下账户登陆问题 EOS\	O O O O O O O O O B-subject I-subject B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 在同花顺里咋登录不上 EOS\	O O B-subject I-subject I-subject O O B-action I-action I-action I-action mobile_trade_open
+BOS 手机上下载了，登陆不了，显示"资金账号不能以此种方式登陆" EOS\	O B-subject I-subject O B-action I-action O O B-action I-action I-action I-action O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 为什么输入资金帐号，不能登录本软件，且提示如图所示 EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject O O O B-action I-action B-subject I-subject I-subject O O O O O O O O mobile_trade_open
+BOS 我想开通手机业务。在ApP上能操作吗 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O O B-subject I-subject I-subject O O O O O mobile_trade_open
+BOS 我已经激活了 EOS\	O O O O B-action I-action O mobile_trade_open
+BOS 怎么开通手机炒股 EOS\	O O O B-action I-action B-channel I-channel B-action I-action mobile_trade_open
+BOS 为什么齐鲁证劵升级改为中泰证券升级后输入资金帐号不存在 EOS\	O O O O B-subject I-subject I-subject I-subject B-action I-action O O B-subject I-subject I-subject I-subject O O O B-action I-action B-subject I-subject I-subject I-subject O O O mobile_trade_open
+BOS 我用资金帐号登录，提示不允许 EOS\	O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O mobile_trade_open
+BOS 我的手机软件账户设不了 EOS\	O O O B-subject I-subject I-subject I-subject B-subject I-subject O O O mobile_trade_open
+BOS OTC申请了账号，怎么登陆啊？用这个OTC账号登录吗？ EOS\	O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 行情选择可以看了，但交易怎么登录 EOS\	O O O O O O O O O O O B-action I-action O O B-action I-action mobile_trade_open
+BOS 你好系统提示： 错误级别：[1] 错误内容：[错误信息提示:-980023093[-980023093]资金帐号不允许以该操作方式登陆8] EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O O mobile_trade_open
+BOS 您好！我刚下载中泰齐富通，为什么用资金账号登陆不上呢 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O mobile_trade_open
+BOS 说该资金帐不支持交易8 EOS\	O O O B-subject I-subject I-subject O B-action I-action I-action I-action O mobile_trade_open
+BOS 显示不能在这个地方登陆 EOS\	O B-action I-action O O O B-subject I-subject I-subject I-subject B-subject I-subject mobile_trade_open
+BOS 提示:资金账号不允许以该操作方式登陆，我是第一次登陆是哪儿的问题啊？ EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 刚下载了中泰齐富通，从哪里登录我的账户？ EOS\	O O B-action I-action O B-subject I-subject I-subject I-subject I-subject O O O O B-action I-action O O B-subject I-subject O mobile_trade_open
+BOS 另询问怎么开通手机炒股 EOS\	O O B-action I-action O O O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 我一直在电脑买卖股票  现在想改用手机该怎么弄？ EOS\	O O O O O O O B-action I-action I-action I-action O O O O O O O B-channel I-channel O O O O O mobile_trade_open
+BOS 手机版怎么登录交易 EOS\	O B-subject I-subject I-subject O O B-action I-action I-action I-action mobile_trade_open
+BOS 手机上网登陆不上 EOS\	O B-channel I-channel B-action I-action B-action I-action O O mobile_trade_open
+BOS 用资金帐户登录不上 EOS\	O O B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 交易登录不了怎么办 EOS\	O B-action I-action B-action I-action O O O O O mobile_trade_open
+BOS 你问我的手机软件怎么登录不了呢 EOS\	O O O O O B-subject I-subject I-subject I-subject O O B-action I-action I-action I-action O mobile_trade_open
+BOS 手机显示不能用此方式登录 EOS\	O B-subject I-subject B-action I-action O O O O O O B-action I-action mobile_trade_open
+BOS 资金账号不该用此方式登录怎么回事？ EOS\	O B-subject I-subject I-subject I-subject O O O O B-subject I-subject B-action I-action O O O O O mobile_trade_open
+BOS 系统提示 资金帐号不允许以该操作方式登录交易8 EOS\	O B-action I-action I-action I-action I-action B-subject I-subject I-subject I-subject B-action I-action I-action O O O O O O B-action I-action O O O mobile_trade_open
+BOS 麻烦问下我用手机登陆不了的原因是什么%3F EOS\	O O O O O O O B-subject I-subject B-action I-action I-action I-action O O O O O O O O O mobile_trade_open
+BOS 资金帐号不允许以此种方式登陆是什么意思？ EOS\	O B-subject I-subject I-subject I-subject O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O mobile_trade_open
+BOS 手机登录密密码不对？ EOS\	O B-subject I-subject B-action I-action O B-subject I-subject O O O mobile_trade_open
+BOS 你好手机软件没有办法交易。 EOS\	O O O B-subject I-subject I-subject I-subject O O O O B-action I-action O mobile_trade_open
+BOS 我手机怎么开通不了？ EOS\	O O B-subject I-subject O O B-action I-action O O O mobile_trade_open
+BOS 您好，我通过资金帐户登路，显示8错误，无法登路。 EOS\	O O O O O O O B-subject I-subject I-subject I-subject O O O B-action I-action O B-subject I-subject O O O O O O mobile_trade_open
+BOS 手机无法进入资金帐户 EOS\	O B-subject I-subject O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 手机版怎么登陆，资金账号不行为什么 EOS\	O B-subject I-subject I-subject O O B-action I-action O B-subject I-subject I-subject I-subject O O O O O mobile_trade_open
+BOS 增加委托方式了手机怎么还不能进帐号%3F EOS\	O B-action I-action I-action I-action O O O B-subject I-subject O O O O O O O O O O O mobile_trade_open
+BOS 我的账户是电脑版的用手机登不上 EOS\	O O O B-subject I-subject O B-channel I-channel I-channel O O B-subject I-subject O O O mobile_trade_open
+BOS 我的资金账户在手机上怎么登陆不上？ EOS\	O O O B-subject I-subject I-subject I-subject O B-subject I-subject O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 齐鲁开的户，这里登录不上吗 EOS\	O B-subject I-subject O O O O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 怎么登陆时提示错误信息 EOS\	O O O B-action I-action O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 在交易所开的户不能在这交易吗？ EOS\	O O B-place I-place I-place O O O O O O O B-action I-action O O mobile_trade_open
+BOS 想问一下，手机登录时提示，资金帐号不允许此登录当时登录，怎么解决，谢谢 EOS\	O O O O O O B-channel I-channel B-action I-action O B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我下载了中泰证券的软件，为什么输入我的资金账号和密码后，显示资金账号不能登入 EOS\	O O B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O O O O B-subject I-subject I-subject I-subject O B-subject I-subject O O O O O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 手机我第一次登陆，为啥登陆不了 EOS\	O B-subject I-subject O O O O B-action I-action O O O O O O O mobile_trade_open
+BOS 要是登入过问你吗？什么破软件，卸了 EOS\	O O O B-action I-action O O O O O O O O B-subject I-subject O O O mobile_trade_open
+BOS 手机版资金账号无法登陆怎么办 EOS\	O B-subject I-subject I-subject B-subject I-subject I-subject I-subject O O B-action I-action O O O mobile_trade_open
+BOS 为什么输入资金账号和密码都正确确出现这个提示 EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject O B-subject I-subject O O O O O O O O O O mobile_trade_open
+BOS 我下载了齐富通 EOS\	O O B-action I-action O B-subject I-subject I-subject mobile_trade_open
+BOS 我在电脑终端能买卖，在手机终端不能 EOS\	O O O B-channel I-channel I-channel I-channel O B-action I-action O O B-channel I-channel I-channel I-channel O O mobile_trade_open
+BOS 怎么开通手机交易 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 错误码：200207, 错误信息：[系统字典[操作渠道]尚未定义该字典项[U]],手机交易开通不了？ EOS\	O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O O mobile_trade_open
+BOS 出现下列问题，是怎么回事，第一次如何登陆 EOS\	O B-action I-action O O B-subject I-subject O O O O O O O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 为什么我用资金账户登陆手机 EOS\	O O O O O O B-subject I-subject I-subject I-subject B-action I-action B-subject I-subject mobile_trade_open
+BOS 我的账户为什么不可以用手机交易呢 EOS\	O O O B-subject I-subject O O O O O O O B-channel I-channel B-action I-action O mobile_trade_open
+BOS 无法登录，是怎么回事？ EOS\	O B-action I-action I-action I-action O O O O O O O mobile_trade_open
+BOS 你好，我在手机上登录账号怎么总是不成功啊 EOS\	O O O O O O B-channel I-channel O B-action I-action I-action I-action O O O O B-object I-object I-object O mobile_trade_open
+BOS 我一老头，笨，好容易找到资金帐号，却提示什么9800....错误，截图不会 EOS\	O O O B-subject I-subject O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O B-action I-action O O O O O O O O O O B-subject I-subject O O O O O mobile_trade_open
+BOS 资金账号现在不让登录啊 EOS\	O B-subject I-subject I-subject I-subject B-trading_time I-trading_time B-action I-action I-action I-action O mobile_trade_open
+BOS 原来齐鲁证券的账号为什么手机登不上 EOS\	O O O B-subject I-subject I-subject I-subject O B-subject I-subject O O O B-channel I-channel B-action I-action I-action mobile_trade_open
+BOS 刚下载的软件登录不上怎么回事 EOS\	O O B-action I-action O B-object I-object B-action I-action O O O O O O mobile_trade_open
+BOS 你好，我的齐富通怎么进不去。显示说，资金帐号不允许以该操作方式登录。 EOS\	O O O O O O B-subject I-subject I-subject O O B-action I-action I-action O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 账号不允许操作 EOS\	O B-subject I-subject B-action I-action I-action I-action I-action mobile_trade_open
+BOS 登不上去 EOS\	O B-action I-action I-action I-action mobile_trade_open
+BOS 首页业务办理怎么打开手机功能 EOS\	O O O B-subject I-subject O O O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 为什么我手机登录不了呀，老是提示不允许以此种方式登录 EOS\	O O O O O B-subject I-subject B-action I-action I-action I-action O O O O B-action I-action O O O O O O O O O O mobile_trade_open
+BOS 我的资金账号今天怎不能登录了 EOS\	O O O B-subject I-subject I-subject I-subject B-trading_time I-trading_time O B-action I-action I-action I-action O mobile_trade_open
+BOS 身份证修改 EOS\	O B-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 我是齐鲁的客户，这个软件能用吗 EOS\	O O O B-subject I-subject O B-subject I-subject O O O B-subject I-subject O O O mobile_trade_open
+BOS 您好，请问用电脑上的资金账号为什么不能在手机上登录%3F EOS\	O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O B-channel I-channel O B-action I-action O O O mobile_trade_open
+BOS 还是登不上手机交易 EOS\	O O O B-action I-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 手机安装齐富通软件后，需要重新注册用户吗？ EOS\	O B-subject I-subject B-action I-action B-object I-object I-object O O O O O O O O O O O O O O mobile_trade_open
+BOS 第一次手机炒股怎样操作 EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action I-action mobile_trade_open
+BOS 为什么下午资金帐号登录不成功 EOS\	O O O O B-trading_time I-trading_time B-subject I-subject I-subject I-subject B-action I-action O O O mobile_trade_open
+BOS 资金账号不允许以此方式打开 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action mobile_trade_open
+BOS 你好，手机的资金帐号和电脑版的不一样吗，怎么登不进去 EOS\	O O O O B-subject I-subject O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject O O O O O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 现在的问题是无法登录账户 EOS\	O O O O O O O B-action I-action I-action I-action B-subject I-subject mobile_trade_open
+BOS 我用手机登录，提示说不允许此方式登录是什么问题 EOS\	O O O B-channel I-channel B-subject I-subject O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我第一次从网上看收益，不知道还需要开户吗 EOS\	O O O O O O B-channel I-channel B-action B-subject I-subject O O O O O O O B-action I-action O mobile_trade_open
+BOS 说资金账号不能这样登 EOS\	O O B-subject I-subject I-subject I-subject O O O O B-action mobile_trade_open
+BOS 电脑上用的融易汇，平板用齐富通，是相同的登录账号密码吗 EOS\	O O O O O O B-subject I-subject I-subject O B-channel I-channel O B-subject I-subject I-subject O O O O O B-action I-action B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 手机开通第一次登录不了，显示该资金帐号不允许该操作方式操作 EOS\	O B-channel I-channel B-action I-action O O O B-action I-action I-action I-action O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我账号忘了怎么办？ EOS\	O O B-subject I-subject B-action I-action O O O O mobile_trade_open
+BOS 你好，系统提示没有登陆，但是我登陆不上去 EOS\	O O O O B-action I-action I-action I-action O O B-action I-action O O O O O O O O O mobile_trade_open
+BOS 账户提示错误是怎么回事？ EOS\	O B-subject I-subject B-action I-action I-action I-action O O O O O O mobile_trade_open
+BOS 不过我登陆手机app EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject mobile_trade_open
+BOS 为什么我无法登录？ EOS\	O O O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 登陆提示用资金账号的？输入之后怎么就是登不上！ EOS\	O B-action I-action I-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O mobile_trade_open
+BOS 让输入资金帐号 EOS\	O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 能像电脑上一样交易吗 EOS\	O O O B-channel I-channel O O O B-action I-action O mobile_trade_open
+BOS 是不是在手机软件上的首页， EOS\	O O O O O B-subject I-subject I-subject I-subject O O B-subject I-subject O mobile_trade_open
+BOS 手机登陆不上去 EOS\	O B-subject I-subject B-action I-action I-action I-action O mobile_trade_open
+BOS 资金帐号登录出现问题 EOS\	O B-subject I-subject I-subject I-subject B-action I-action B-action I-action B-subject I-subject mobile_trade_open
+BOS 用什么方式登录 EOS\	O O O O B-subject I-subject B-action I-action mobile_trade_open
+BOS 老齐鲁帐号为什么无法登录？ EOS\	O O B-subject I-subject I-subject I-subject O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 我早晨就是按照你说的这个流程操作的，提示我“信用客户不支持此操作” EOS\	O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O B-action I-action O O B-subject I-subject I-subject I-subject O O O O O O O mobile_trade_open
+BOS 为什么不能登录账号 EOS\	O O O O O O B-action I-action B-subject I-subject mobile_trade_open
+BOS 如何登录 EOS\	O B-action I-action I-action I-action mobile_trade_open
+BOS 用交易功能，用资金账号提示不允许操作 EOS\	O O B-subject I-subject I-subject I-subject O O B-subject I-subject I-subject I-subject B-action I-action O O O B-action I-action mobile_trade_open
+BOS 资金帐户不允许 EOS\	O B-subject I-subject I-subject I-subject O O O mobile_trade_open
+BOS 登录不上怎么了 EOS\	O B-action I-action I-action I-action O O O mobile_trade_open
+BOS 我的资金账号怎么不能登录 EOS\	O O O B-subject I-subject I-subject I-subject O O B-action I-action I-action I-action mobile_trade_open
+BOS 如何开通手机炒股 EOS\	O O O B-action I-action B-channel I-channel B-action I-action mobile_trade_open
+BOS 资金帐号不允许以该方式登录是怎么回事 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject B-action I-action O O O O O mobile_trade_open
+BOS 资金账号不允许通过该方式登陆是怎么回事 EOS\	O B-subject I-subject I-subject I-subject O O O O O O B-subject I-subject B-action I-action O O O O O mobile_trade_open
+BOS 资金帐号进不去啊，但是大智慧软件能进去是咋回事？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-subject I-subject I-subject I-subject I-subject O B-action I-action O O O O O mobile_trade_open
+BOS 资金账号不允许以该方式操作什么意思 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject B-action I-action O O O O mobile_trade_open
+BOS 刚给我提供的资金账号  还没登上呢  方式不对吗 EOS\	O O O O B-action I-action O B-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O O O O mobile_trade_open
+BOS 我是原齐鲁证券账户  用资金帐号登录不了 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 你好，刚用手机下载的中泰证券，点击交易买入后，已输入资金账号、交易密码、输入验证码后登陆，出现了个温馨提示，错误级别：（1）错误内容提示-980023093-980023093资金账号不允许以该操作方式登陆8.我不知道什么意思，你给解释一下。 EOS\	O O O O O O B-channel I-channel B-action I-action O B-subject I-subject I-subject I-subject O O O B-action I-action I-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 在同一平板上登陆的，一个可以登陆，另一个不能登陆 EOS\	O O O O B-channel I-channel O B-action I-action O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 资金帐号不允许登录怎么个情况 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action I-action I-action O O O B-subject I-subject mobile_trade_open
+BOS 资金帐号不允许以该操作方式登录8 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-subject I-subject I-subject I-subject B-action I-action O mobile_trade_open
+BOS 说不允许操作 EOS\	O O B-action I-action I-action I-action I-action mobile_trade_open
+BOS 刚下载的软件登录不上怎么回事 EOS\	O O B-action I-action O B-subject I-subject B-action I-action I-action I-action O O O O mobile_trade_open
+BOS 登录不了 EOS\	O B-action I-action I-action I-action mobile_trade_open
+BOS 网上不能开吗？ EOS\	O B-channel I-channel O O B-action O O mobile_trade_open
+BOS 手机登陆不了啊 EOS\	O B-subject I-subject B-action I-action I-action I-action O mobile_trade_open
+BOS 资金帐号咋登陆不上 EOS\	O B-subject I-subject I-subject I-subject O B-action I-action I-action I-action mobile_trade_open
+BOS 刚下载手机版的齐富通软件，怎么在手机没法交易？ EOS\	O O O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O B-channel I-channel O O B-action I-action O mobile_trade_open
+BOS 签订了手机协议怎么还不行 EOS\	O B-action I-action O B-subject I-subject I-subject I-subject O O O O O mobile_trade_open
+BOS 这个软件是能交易的吗？ EOS\	O O O B-subject I-subject O O B-action I-action O O O mobile_trade_open
+BOS 请问资金帐户怎么在手机上操作 EOS\	O O O B-subject I-subject I-subject I-subject O O O B-channel I-channel O B-action I-action mobile_trade_open
+BOS 我用手机登录提示不允许该方式登录啥意思 EOS\	O O O B-channel I-channel B-action I-action I-action I-action O O O O O O O O O O O mobile_trade_open
+BOS 我刚下我载手机中泰,怎么输入帐号和密码登录不了交易页面,是要等到交易时间才能吗？ EOS\	O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action I-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O O O O O mobile_trade_open
+BOS 为什么输入账号，提示不准以此种方式登录8 EOS\	O O O O B-action I-action B-subject I-subject O B-action I-action O O O O O O O B-action I-action O mobile_trade_open
+BOS 不允许App登陆 EOS\	O O O O B-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 登录不了手机上的齐富通，显示的窗口是资金帐号不能以此方式登录 EOS\	O B-action I-action I-action I-action B-channel I-channel O O B-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 如何开通手机交易登录权限 EOS\	O O O B-action I-action B-channel I-channel B-action I-action O O O O mobile_trade_open
+BOS 我为啥不能在网上交易 EOS\	O O O O O O O B-channel I-channel B-action I-action mobile_trade_open
+BOS 你好 为什么我下载了齐富通却登录不了？ EOS\	O O O O O O O O B-action I-action O B-subject I-subject I-subject O B-action I-action O O O mobile_trade_open
+BOS 资金帐户无法登录交易 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action I-action I-action mobile_trade_open
+BOS 怎么登录齐富 EOS\	O O O B-action I-action B-subject I-subject mobile_trade_open
+BOS 点击登录后出现，以资金账户方式登入，如何切换成股东帐号登入。 EOS\	O B-action I-action I-action I-action O O O O O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O B-subject I-subject I-subject I-subject O O O mobile_trade_open
+BOS 为什么电脑可以，手机不能呢 EOS\	O O O O B-subject I-subject O O O B-subject I-subject O O O mobile_trade_open
+BOS 勾了手机炒股， EOS\	O B-action I-action B-action I-action I-action I-action O mobile_trade_open
+BOS 不适用登录 EOS\	O O O O B-action I-action mobile_trade_open
+BOS 手机进入我的账户？ EOS\	O B-channel I-channel B-action I-action O O B-subject I-subject O mobile_trade_open
+BOS 安装了齐富通 EOS\	O B-action I-action O B-subject I-subject I-subject mobile_trade_open
+BOS 签署后还是不行啊 EOS\	O B-action I-action O O O O O O mobile_trade_open
+BOS 在电脑上的账号怎么进不去 EOS\	O O B-channel I-channel O O B-subject I-subject O O O O O mobile_trade_open
+BOS 你好，为什么用手机登录不上去那 EOS\	O O O O O O O O B-channel I-channel B-action I-action I-action I-action O O mobile_trade_open
+BOS 显示资金账号不允许这种方式登录 EOS\	O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O B-action I-action mobile_trade_open
+BOS 我以前在齐鲁证券开的户，为啥不能用齐富通直接登录？ EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O B-subject I-subject I-subject O O B-action I-action O mobile_trade_open
+BOS 我要进股票网，咋弄 EOS\	O O O B-action B-subject I-subject I-subject O O O mobile_trade_open
+BOS 你好，我想开通手机交易，必须去公司柜台办理吗？ EOS\	O O O O O O B-action I-action B-action I-action I-action I-action O O O O B-subject I-subject I-subject I-subject O O O O mobile_trade_open
+BOS 为什么我手机登录不了，显示不允许 EOS\	O O O O O B-subject I-subject O O O O O B-action I-action O O O mobile_trade_open
+BOS 资金账号怎么网上能用这里登陆不了 EOS\	O B-subject I-subject I-subject I-subject O O B-channel I-channel O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 手机登， EOS\	O B-channel I-channel B-action O mobile_trade_open
+BOS 账户登不上 EOS\	O B-subject I-subject B-action I-action I-action mobile_trade_open
+BOS 资金账号怎么登录不上手机app EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action O O B-subject I-subject I-subject I-subject I-subject mobile_trade_open
+BOS 为什么有一个账号登入不上 EOS\	O O O O O B-subject I-subject I-subject I-subject B-action I-action I-action I-action mobile_trade_open
+BOS 登陆错误怎么办 EOS\	O B-action I-action B-subject I-subject O O O mobile_trade_open
+BOS 我是原齐鲁证券的用户，在这里无法登陆吗？ EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action I-action I-action O O mobile_trade_open
+BOS 为什么我用资金账号登录的时候，他告诉我，不能用该方式登陆。 EOS\	O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O B-action I-action O O O O O O O O O O O mobile_trade_open
+BOS 我为什么用不了app登录 EOS\	O O O O O B-action I-action I-action B-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 齐鲁证券客户怎么进原账户 EOS\	O B-subject I-subject I-subject I-subject B-subject I-subject O O B-action B-subject I-subject I-subject mobile_trade_open
+BOS 齐鲁证券客户怎么进原账户 EOS\	O B-subject I-subject I-subject I-subject B-subject I-subject O O B-action B-subject I-subject I-subject mobile_trade_open
+BOS 我的资金账号登陆不进去 显示资金账号不允许以该操作方式登录 EOS\	O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我找到首页，委托办理了 EOS\	O O O O B-subject I-subject O B-action I-action O O O mobile_trade_open
+BOS 请问，为什么手机用资金帐号不能登录，谢谢 EOS\	O O O O O O O B-channel I-channel O B-subject I-subject I-subject I-subject B-action I-action I-action I-action O O O mobile_trade_open
+BOS 我想用手机买，卖不行 EOS\	O O O O B-channel I-channel B-action O B-action O O mobile_trade_open
+BOS 你好。请问手机版的中泰齐富通交易怎么不能登录？ EOS\	O O O O O O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject I-subject B-action I-action O O O O O O O mobile_trade_open
+BOS 不能登陆显示980023098 EOS\	O O O B-action I-action B-action I-action O O O O O O O O O mobile_trade_open
+BOS 您好。请问一部手机上可以登录两个资金吗帐号 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O B-action I-action B-subject I-subject I-subject I-subject O O O mobile_trade_open
+BOS 你好，资金账户不能登录什么原因，谢谢 EOS\	O O O O B-subject I-subject I-subject I-subject B-action I-action I-action I-action O O O O O O O mobile_trade_open
+BOS 能否用这个客户端更新身份证信息 EOS\	O O O O O O B-subject I-subject I-subject B-action I-action B-subject I-subject I-subject I-subject I-subject mobile_trade_open
+BOS 能否用这个客户端更新身份证信息 EOS\	O O O O O O B-subject I-subject I-subject B-action I-action B-object I-object I-object I-object I-object mobile_trade_open
+BOS 97年深圳交易所8位账户，请问是否升级了？ EOS\	O O O O B-place I-place I-place I-place I-place O O B-subject I-subject O O O O O B-action I-action O O mobile_trade_open
+BOS 你好，打扰了，输上资金账号密码点登录，老是登不上，提示：错误级别【1】，错误内容：-980023093，资金账号不允许以该操作方式登录，。请教是怎么回事？急！！！ EOS\	O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 无法登陆该系统，说不能以该方式登录，怎么登录？ EOS\	O B-action I-action I-action I-action O B-subject I-subject O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 输入资金账号，密码，验证码后登录不上 EOS\	O B-action I-action B-subject I-subject I-subject I-subject O B-subject I-subject O B-subject I-subject I-subject O O O O O mobile_trade_open
+BOS 手机安装齐富通，怎么只能看，不让交易？ EOS\	O B-channel I-channel B-action I-action B-subject I-subject I-subject O O O O O O O O O B-action I-action O mobile_trade_open
+BOS 想问一下手机app交易软件怎么开通？ EOS\	O O O O O B-subject I-subject I-subject I-subject I-subject B-subject I-subject I-subject I-subject O O B-action I-action O mobile_trade_open
+BOS 我在掌上营业厅个人中心添加了，还是不能交易 EOS\	O O O B-subject I-subject I-subject I-subject I-subject B-subject I-subject I-subject I-subject B-action I-action O O O O O O B-action I-action mobile_trade_open
+BOS 我的资金帐号显示不能用手机登陆 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 中泰证券（原齐鲁证券）同花顺 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-subject I-subject I-subject mobile_trade_open
+BOS 怎么进不了交易系统 EOS\	O O O B-action O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 手机下载齐富通，显示不允许这样操作 EOS\	O B-channel I-channel O O B-subject I-subject I-subject O O O O O O O O O O mobile_trade_open
+BOS 你好请问资金账号不能登陆手机版交易系统吗 EOS\	O O O O O B-subject I-subject I-subject I-subject O O B-action I-action B-subject I-subject O B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 你好，我显示不能以这种方式登陆，怎么办 EOS\	O O O O O B-action I-action O O O O O O O B-action I-action O O O O mobile_trade_open
+BOS 你好，我显示不能以这种方式登陆，怎么办 EOS\	O O O O O B-action I-action O O O O O O O B-action I-action O O O O mobile_trade_open
+BOS 在手机上如何登陆%3F EOS\	O O B-channel I-channel O O O B-action I-action O O O mobile_trade_open
+BOS 手机 EOS\	O B-subject I-subject mobile_trade_open
+BOS 怎么开通手机炒股 EOS\	O O O B-action I-action B-action I-action I-action I-action mobile_trade_open
+BOS 我在手机上登陆不上 EOS\	O O O B-channel I-channel O B-action I-action I-action I-action mobile_trade_open
+BOS 电脑上融易汇能上 EOS\	O B-channel I-channel O B-subject I-subject I-subject O O mobile_trade_open
+BOS 您好！我刚用我的手机号和身份证号查了一下资金账号完全和我输入的账号一样怎么还显示错误？ EOS\	O O O O O O O O O B-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 我改密码  提示不允许该操作？谢谢 EOS\	O O B-action B-subject I-subject I-subject O B-action I-action O O O O B-action I-action O O O mobile_trade_open
+BOS 这个版本不会用 EOS\	O O O B-subject I-subject O O O mobile_trade_open
+BOS 手机炒股怎么开通 EOS\	O B-subject I-subject B-action I-action O O B-action I-action mobile_trade_open
+BOS 怎么显示不允许资金方式登录 EOS\	O O O B-action I-action O O O B-subject I-subject O O B-action I-action mobile_trade_open
+BOS 我星期五去证卷开通理财，星期一就进不去账户了，我以前手机炒股 EOS\	O O B-trading_time I-trading_time I-trading_time O O O B-action I-action B-subject I-subject O B-trading_time I-trading_time I-trading_time O O O O O O O O O O O B-channel I-channel B-action I-action mobile_trade_open
+BOS 刚刚下载软件 EOS\	O O O B-action I-action B-subject I-subject mobile_trade_open
+BOS 我有账户，还用在手机开通吗？ EOS\	O O O B-subject I-subject O O O O B-channel I-channel B-action I-action O O mobile_trade_open
+BOS 怎么用股票资金账户无法登陆 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject I-subject B-action I-action I-action I-action mobile_trade_open
+BOS 老是说资金账号不能那么用？ EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O mobile_trade_open
+BOS 我在当地开的户，在手机上操作，应该用那个软件 EOS\	O O O O O O O O O O B-channel I-channel O B-action I-action O O O O O O B-subject I-subject mobile_trade_open
+BOS 为什么在手机上登陆不行呢？ EOS\	O O O O O B-channel I-channel O B-action I-action O O O O mobile_trade_open
+BOS 我在电脑可以登陆，手机刚刚下载了怎么不行了 EOS\	O O O O O O O B-action I-action O B-subject I-subject O O B-action I-action O O O O O O mobile_trade_open
+BOS 我为何不能用手机登录交易系统？ EOS\	O O O O O O O B-channel I-channel B-action I-action O O B-subject I-subject O mobile_trade_open
+BOS 为啥手机不能登录 EOS\	O O O B-channel I-channel B-action I-action I-action I-action mobile_trade_open
+BOS 另外一个户显示,资金账户不允许以该操作方式登录，%3F这个要到营业部去弄%3F谢谢 EOS\	O O O O O O B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O O O O O O O O B-subject I-subject I-subject O O O O O O O mobile_trade_open
+BOS 我的那个号怎么处于冻结状态？ EOS\	O O O O O B-subject O O O O B-action I-action O O O mobile_trade_open
+BOS 怎么使用移动端交易软件？ EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 登入了为何等入不了 EOS\	O B-action I-action O O O O O O O mobile_trade_open
+BOS 我手机怎么登录不上 EOS\	O O B-channel I-channel O O B-action I-action I-action I-action mobile_trade_open
+BOS 用手机怎么登录不上去 EOS\	O O B-channel I-channel O O B-action I-action O O O mobile_trade_open
+BOS 委托方式都已经有了 EOS\	O B-subject I-subject I-subject I-subject O O O O O mobile_trade_open
+BOS 登录用那个号 EOS\	O B-action I-action O O O B-subject mobile_trade_open
+BOS 不允许登录，还是不让登录 EOS\	O O O O O O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 我登录手机客户端时，提示要输入资金账号，而我输入资金账号及交易密码确认登录的时候，弹出提示说不支持资金账号这种方式登录，是何原因？ EOS\	O O B-action I-action B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我为什么显示错误，说为台帐不允许交易 EOS\	O O O O O O O O O O O O B-subject I-subject O O O B-action I-action mobile_trade_open
+BOS 除了信息修改以外都进不去 EOS\	O O O B-subject I-subject B-action I-action O O O O O O mobile_trade_open
+BOS 你好，早已在证券营业部开了户。请问怎样在手机齐富通客户端进入账户操作 EOS\	O O O O O O O O O O O O O O O O O O O O O B-channel I-channel B-subject I-subject I-subject I-subject I-subject I-subject B-action I-action B-object I-object O O mobile_trade_open
+BOS 手机资金账户登录不了 EOS\	O B-channel I-channel B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 原先手机用同花顺怎么可以用手机登录呢 EOS\	O O O O O O B-subject I-subject I-subject O O O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 我怎么不能打新股啊？ EOS\	O O O O O O B-action I-action I-action O O mobile_trade_open
+BOS 苹果手机已下载软件，如何激活？ EOS\	O B-subject I-subject I-subject I-subject O B-action I-action B-subject I-subject O O O O O O mobile_trade_open
+BOS 我想问下，下载手机软件后，登陆的时候说是不允许以该方式登录是怎么回事 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O B-action I-action O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我用资金帐号登录，系统告诉我不能登录，是什么原因？ EOS\	O O O B-subject I-subject I-subject I-subject O O O B-subject I-subject O O O B-action I-action I-action I-action O O O O O O O mobile_trade_open
+BOS 在掌上营业厅怎么修改 EOS\	O O B-subject I-subject I-subject I-subject I-subject O O B-action I-action mobile_trade_open
+BOS 我怎样开通手机交易 EOS\	O O O O B-action I-action B-object I-object I-object I-object mobile_trade_open
+BOS 怎么登陆，需要注册吗 EOS\	O O O B-action I-action O O O B-action I-action O mobile_trade_open
+BOS 请问，如何开通手机交易方式？ EOS\	O O O O O O B-action I-action B-channel I-channel B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 在电脑上可以，为何在手机上不可以上 EOS\	O O B-subject I-subject O O O O O O O B-subject I-subject O O O O O mobile_trade_open
+BOS 怎么看不见我的个人信息，总让我反复输入账号密码，或者提示不能以该种方式操作 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O mobile_trade_open
+BOS 我要在手机操作股票为什么不允许该操作 EOS\	O O O O B-channel I-channel B-action I-action B-subject I-subject O O O O O O O O O mobile_trade_open
+BOS 我不会怎么开通手机炒股权闲 EOS\	O O O O O O B-action I-action B-channel I-channel B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 为什么手机客户端登不上 EOS\	O O O O B-channel I-channel B-subject I-subject I-subject O O O mobile_trade_open
+BOS 我的手机好想不能交易啊 EOS\	O O O B-subject I-subject O O B-action I-action I-action I-action O mobile_trade_open
+BOS 为什么我的账号在电脑上可以登陆.手机就不行呢 EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O O O O B-subject I-subject O O O O mobile_trade_open
+BOS 我从手机上没法交易？ EOS\	O O O B-channel I-channel O B-action I-action I-action I-action O mobile_trade_open
+BOS 我用资金账号登录不上手机APP EOS\	O O O B-subject I-subject I-subject I-subject B-action I-action O O B-subject I-subject I-subject I-subject I-subject mobile_trade_open
+BOS 手机app和电脑软件登录不一样吗 EOS\	O B-subject I-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject B-action I-action O O O O mobile_trade_open
+BOS 手机登录不上，不允许以资金账号方式，这是怎么回事 EOS\	O B-channel I-channel B-action I-action I-action I-action O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 系统提示登录错误 EOS\	O B-subject I-subject B-action I-action B-object I-object I-object I-object mobile_trade_open
+BOS 刚下载的登录不上怎么回事 EOS\	O O B-action I-action O B-action I-action I-action I-action O O O O mobile_trade_open
+BOS 为什么我不能手机委托买卖 EOS\	O O O O O O O B-channel I-channel B-action I-action I-action I-action mobile_trade_open
+BOS 是的，我在电脑上一直用这个资金账户登陆的。 EOS\	O O O O O O B-channel I-channel O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 手机交易怎么老提示不允许资金帐户方式进行操作，提示操作错误，我打的都是正确的啊 EOS\	O B-action I-action I-action I-action O O O B-action I-action O O O O O O O O O O O O O O O O O O B-subject I-subject O O O O O O O O O O mobile_trade_open
+BOS 我已经在手机上下载安装了App，可算现在只能查询 EOS\	O O O O O B-channel I-channel O O O B-action I-action O B-subject I-subject I-subject O O O O O O O B-action I-action mobile_trade_open
+BOS 以前我用的是融易汇 EOS\	O O O O O O O B-subject I-subject I-subject mobile_trade_open
+BOS 手机下载的齐富通，输入资金账号登陆不了，为何？ EOS\	O B-channel I-channel B-action I-action O B-subject I-subject I-subject O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O O mobile_trade_open
+BOS 您好，我是首次登陆，请问资金账号不允许此操作是怎么回事儿？ EOS\	O O O O O O B-action I-action I-action I-action O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O mobile_trade_open
+BOS 怎么更换账户登录？ EOS\	O O O B-action I-action B-subject I-subject B-action I-action O mobile_trade_open
+BOS 账号无法登录 EOS\	O B-subject I-subject B-action I-action I-action I-action mobile_trade_open
+BOS 你好，我下载了这个中泰齐富通，然后我怎么登陆呢？我怎么没看明白 EOS\	O O O O O B-action I-action O O O B-subject I-subject I-subject I-subject I-subject O O O O O O B-action I-action O O O O O O O O O mobile_trade_open
+BOS 你好，按照您的指导，登陆时系统提示资金账号不允许以此方式登陆 EOS\	O O O O O O O O B-action I-action O O O O B-action I-action I-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O mobile_trade_open
+BOS 我手机显示“资金账户不允许以这种方式登陆”是啥情况？ EOS\	O O B-channel I-channel B-action I-action O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action O O O O O O mobile_trade_open
+BOS 怎么才能app交易 EOS\	O O O O O B-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 不能登录2个账号 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 一个齐富通账户可以登录两个资金账户吗？如果可以，如何操作？ EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O mobile_trade_open
+BOS 你好，我的帐号不能在手机上登录 EOS\	O O O O O O B-subject I-subject O O O B-channel I-channel O B-action I-action mobile_trade_open
+BOS 帐号无法登录 EOS\	O B-subject I-subject O O B-action I-action mobile_trade_open
+BOS 请问，输入交易密码提示资金帐号不允许已这种方式登陆，怎么解决 EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O mobile_trade_open
+BOS 信息提示：资金帐号不允许该种方式登陆。是怎么回事 EOS\	O B-action I-action I-action I-action O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O O O O O O mobile_trade_open
+BOS 我信用账户能登陆，但普通到账户登录不了。 EOS\	O O O O O O O O O O O O O O B-subject I-subject B-action I-action O O O mobile_trade_open
+BOS 你好，我刚刚下载齐富通，为何登陆不上？以前都是在电脑买的 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 开户很久了，一直都是电脑操作，今天用手机登陆，说不允许该方式登录，啥意思 EOS\	O B-action I-action O O O O O O O O O O O O O O O O B-channel I-channel B-action I-action O O O O O O O O O O O O O O mobile_trade_open
+BOS 老师好，以前一直用电话委托交易，刚下载的齐富通，资金帐号登陆，然后提示不支持。如何才能在齐富通查询及交易，谢谢 EOS\	O O O O O O O O O O B-subject I-subject B-action I-action I-action I-action O O B-action I-action O B-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 资金账号今天登陆不了吗 EOS\	O B-subject I-subject I-subject I-subject B-trading_time I-trading_time B-action I-action O O O mobile_trade_open
+BOS 输入帐号密码，不许登录 EOS\	O B-action I-action B-subject I-subject I-subject I-subject O B-action I-action I-action I-action mobile_trade_open
+BOS 第一次使用手机版，请问怎么登录 EOS\	O O O O O O B-subject I-subject I-subject O O O O O B-action I-action mobile_trade_open
+BOS 您好！我下载的手机软件怎么登陆不上啊？ EOS\	O O O O O B-action I-action O B-subject I-subject I-subject I-subject O O B-action I-action O O O O mobile_trade_open
+BOS 资金帐号在电脑可以登陆，却在手机无法登陆解决方案 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O B-channel I-channel B-action I-action I-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 为什么只能看行情不能交易？ EOS\	O O O O O O B-action B-subject I-subject O O B-action I-action O mobile_trade_open
+BOS 980023093资金帳号不能以此登陆8什么意思？ EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O O mobile_trade_open
+BOS 原来齐鲁开的户，登录不上，为什么 EOS\	O O O B-subject I-subject O O O O B-action I-action O O O O O O mobile_trade_open
+BOS 原来齐鲁开的户，登录不上，为什么 EOS\	O O O B-subject I-subject O O O O B-action I-action O O O O O O mobile_trade_open
+BOS 手机无法买卖，无法登入 EOS\	O B-channel I-channel B-action I-action I-action I-action O O O O O mobile_trade_open
+BOS 我下载手机软件，资金号，密码进不去 EOS\	O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O O O O mobile_trade_open
+BOS 我手机版中泰证券以资金账户登录后，进行交易，网上提示"资金帐号不允许以该操作方式登录，错误代码:980023093"是什么原因？ EOS\	O O B-channel I-channel O B-subject I-subject I-subject I-subject O B-subject I-subject I-subject I-subject O O O O O O B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 昨天我用手机登陆账户，为什么提示不允许以该操作方式登陆 EOS\	O O O O O B-channel I-channel B-action I-action B-subject I-subject O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 在同花顺炒股软件里。普通账户有申购新股的选项，信用账户为什么没有呢！ EOS\	O O O O O O O O O O O B-subject I-subject I-subject I-subject O B-action I-action B-object I-object O O O O B-subject I-subject I-subject I-subject O O O O O O O mobile_trade_open
+BOS 手机怎么登录不了 EOS\	O B-channel I-channel O O B-action I-action O O mobile_trade_open
+BOS 登录时显示资金帐号不允许当前交易 EOS\	O B-action I-action O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action mobile_trade_open
+BOS 为什么资金帐号不能以交易方式输入？资金帐号输入什么？ EOS\	O O O O B-subject I-subject I-subject I-subject O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O O mobile_trade_open
+BOS 显示该程序不能操作 EOS\	O B-action I-action O B-subject I-subject O O O O mobile_trade_open
+BOS 怎么开通，用手机 EOS\	O O O B-action I-action O O B-subject I-subject mobile_trade_open
+BOS 我新下载了该软件，能查行情，但交易添加帐号时为何说不对？ EOS\	O O O O O O O B-subject I-subject O O O B-subject I-subject O O B-action I-action O O O O O O O O O O O mobile_trade_open
+BOS 我的电脑出现了问题，我从手机下载了 中泰齐富通，然后登录，他说我的炸。账号不能登录，为什么 EOS\	O O O O O O O O B-subject I-subject O O O B-channel I-channel B-action I-action O O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 怎样开通手机交易 EOS\	O O O B-action I-action B-object I-object I-object I-object mobile_trade_open
+BOS 你好，我通过你的方法，查到资金账号，登入还是错误，提示-980023093不允许该操作方式登入 EOS\	O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O B-action I-action O O B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 从未在电脑和手机买卖过现要在手机上操作一直显示：资金帐号不允许此操作。要怎么才能在手机操作 EOS\	O O O O B-channel I-channel O B-channel I-channel B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 这个软件是以前齐鲁证券的么？ EOS\	O O O B-subject I-subject O O O B-subject I-subject I-subject I-subject O O O mobile_trade_open
+BOS 怎么开通呢？谢谢你 EOS\	O O O B-action I-action O O O O O mobile_trade_open
+BOS 需要重新注册是吗 EOS\	O O O B-action I-action I-action I-action O O mobile_trade_open
+BOS 您好，我问一下，在中泰炒股的手续费是多少 EOS\	O O O O O O O O O O B-subject I-subject B-action I-action O B-object I-object I-object O O O mobile_trade_open
+BOS 我有个资金账号怎么登陆不进去这个手机软件 EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action I-action O O O O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 我的换了手机没发登陆了 EOS\	O O O B-action I-action B-channel I-channel O O B-action I-action O mobile_trade_open
+BOS 我用手机交易，上面提示980023093资金帐号不允许该操作，登陆8 EOS\	O O O B-channel I-channel B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我原先用同花顺现在下载了齐富通用原资金账号咋登不上交易系统 EOS\	O O O O O O O O O O B-action I-action O B-subject I-subject I-subject O O O O O O O O O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 我在证券部己开户了，现在想开通手机进行交易，怎么办？ EOS\	O O O O O O O O O O O O O O B-action I-action B-channel I-channel O O B-action I-action O O O O O mobile_trade_open
+BOS 我想用手机炒股，可下来软件后资金号登录不上，说是用手机方式未允许，我怎样从家里修改为允许手机方式登录 EOS\	O O O O B-channel I-channel B-action I-action O O O O B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 请问用手机炒股软件 为什么显示该资金帐户不能使用呢 EOS\	O O O O B-channel I-channel B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 怎么开通手机委托 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 用手机怎么样登录？ EOS\	O O B-channel I-channel O O O B-action I-action O mobile_trade_open
+BOS 我原来是齐鲁证券的，现在怎么打不开了 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action I-action O mobile_trade_open
+BOS 美女，没有资金帐号登录不上 EOS\	O B-subject I-subject O O O B-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 你好，我怎么开通在手机端登录app啊？ EOS\	O O O O O O O B-action I-action O B-channel I-channel I-channel B-action I-action B-subject I-subject I-subject O O mobile_trade_open
+BOS 你好，为什么我的账号不能在手机操作？ EOS\	O O O O O O O O O B-subject I-subject O O O B-channel I-channel B-action I-action O mobile_trade_open
+BOS 你好，我的手机中泰齐福通，怎么显示资金账号不能以该方式登入呢？电脑的就可以 EOS\	O O O O O O B-subject I-subject B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 请问我已经签署电子协议书，为何用帐号登录不上？ EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O mobile_trade_open
+BOS 我用手机下载了齐富通，按提示输入了账号，密码，认证码，却不能登陆。系统提示是：——980023093（——980023093）该资金账户不允许操作登陆8.是怎么回事？ EOS\	O O O B-subject I-subject O O O B-subject I-subject I-subject O O O O O O O O O O O O O B-subject I-subject I-subject O O O O B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 首次无法登录 EOS\	O O O B-action I-action I-action I-action mobile_trade_open
+BOS 我怎么登陆软件 EOS\	O O O O B-action I-action B-subject I-subject mobile_trade_open
+BOS 你好，我用手机登录怎么要说我的资金号码错误，用电脑登录就没有问题，是怎么回事 EOS\	O O O O O O B-channel I-channel B-action I-action O O O O O O B-subject I-subject I-subject I-subject B-subject I-subject O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我要开通手机证券该怎么弄 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O O O O mobile_trade_open
+BOS 我手机中泰软件登录不上资金账号 EOS\	O O B-channel I-channel B-subject I-subject I-subject I-subject B-action I-action I-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 为什么登录显示无此操作方式 EOS\	O O O O B-action I-action B-action I-action O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 我手机上，交易帐户登不上，舍情况 EOS\	O O B-channel I-channel I-channel O B-subject I-subject I-subject I-subject O O O O O O O mobile_trade_open
+BOS 开通手机交易需要到营业厅办理的吗？ EOS\	O B-action I-action B-action I-action I-action I-action O O O B-subject I-subject I-subject O O O O O mobile_trade_open
+BOS 无法登陆 EOS\	O O O B-action I-action mobile_trade_open
+BOS 我输入资金帐号和密码为什么进不 EOS\	O O B-action I-action B-subject I-subject I-subject I-subject O B-subject I-subject O O O O O mobile_trade_open
+BOS 从哪里开通 EOS\	O O O O B-action I-action mobile_trade_open
+BOS 资金帐号应该怎么填 EOS\	O B-subject I-subject I-subject I-subject O O O O B-action mobile_trade_open
+BOS 无法在手机上登录 EOS\	O O O O B-channel I-channel O B-action I-action mobile_trade_open
+BOS 让我开通沪港通 EOS\	O O O B-action I-action B-object I-object I-object mobile_trade_open
+BOS 用该软件，点击交易后，输入账号、密码等后，出现不能登录的错误信息 EOS\	O O O B-subject I-subject O B-action I-action I-action I-action O O O O B-subject I-subject O B-subject I-subject O O O O O O O O O O O O O O mobile_trade_open
+BOS 想换个手机号认证 EOS\	O O O O B-subject I-subject I-subject B-action I-action mobile_trade_open
+BOS 开通手机交易怎么办？ EOS\	O B-action I-action B-object I-object I-object I-object O O O O mobile_trade_open
+BOS 用手机登录资金帐号怎么无法登录 EOS\	O O B-channel I-channel B-action I-action B-subject I-subject I-subject I-subject O O O O O O mobile_trade_open
+BOS 我刚刚修改了密码，怎么登陆不了了 EOS\	O O O O B-action I-action O B-subject I-subject O O O O O O O O mobile_trade_open
+BOS 你好，我有中泰账户，为什么手机客户端登录不上 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O B-subject I-subject I-subject I-subject I-subject B-action I-action O O mobile_trade_open
+BOS 我以前是在齐鲁证券交易所开通的帐号，我下载了手机交易，输入资金帐号登录不了 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O B-action I-action O B-action I-action I-action I-action O O O O O O O O O O O mobile_trade_open
+BOS 前几天刚下的你们软件 EOS\	O O O O O O O O O B-subject I-subject mobile_trade_open
+BOS 如何开通手机炒股 EOS\	O O O B-action I-action B-object I-object I-object I-object mobile_trade_open
+BOS 还是不行，显示无此操作方式 EOS\	O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 如何用手机交易 EOS\	O O O O B-action I-action I-action I-action mobile_trade_open
+BOS 我怎么不能进行股票交易买卖？ EOS\	O O O O O O O O B-subject I-subject B-action I-action I-action I-action O mobile_trade_open
+BOS 我这个账户，怎么在这个软件登录不上去 EOS\	O O O O B-subject I-subject O O O O O O B-subject I-subject B-action I-action O O O mobile_trade_open
+BOS 交易登录不上 EOS\	O B-action I-action B-action I-action I-action I-action mobile_trade_open
+BOS 手机登录不上 EOS\	O B-channel I-channel B-action I-action I-action I-action mobile_trade_open
+BOS 我的手机上没法上网交易 EOS\	O O O B-subject I-subject O O O B-action I-action I-action I-action mobile_trade_open
+BOS 手机如何交易 EOS\	O B-channel I-channel O O B-action I-action mobile_trade_open
+BOS 那这样，无法增加委托方式。 EOS\	O O O O O O O B-action I-action B-object I-object I-object I-object O mobile_trade_open
+BOS 这个软件哪里下载 EOS\	O O O B-subject I-subject O O B-action I-action mobile_trade_open
+BOS 同花顺可以登录，为什么齐富通不可以？ EOS\	O B-subject I-subject I-subject O O O O O O O O B-subject I-subject I-subject O O O O mobile_trade_open
+BOS 请问，我要登陆齐富通，提示我无此操作方式！是怎么回事？谢谢！ EOS\	O O O O O O B-action I-action B-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 用手机就不行？ EOS\	O O B-subject I-subject O O O O mobile_trade_open
+BOS 请问为什么我用手机应用登陆不了我的账户？ EOS\	O O O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O B-subject I-subject O mobile_trade_open
+BOS 你好，想问一下我在手机下载一个中泰证券，为什么交易登录不了？ EOS\	O O O O O O O O O O B-action I-action I-action I-action O O B-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O mobile_trade_open
+BOS 齐鲁帐号直接登陆吗 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action I-action O mobile_trade_open
+BOS 上海B股在手机齐富通里能交易吗 怎么设置？ EOS\	O B-place I-place O O O B-subject I-subject I-subject I-subject I-subject O O B-action I-action O O O O O O O mobile_trade_open
+BOS 你好！我在交易登录或新股申购时，系统总是提示说：980023090资金帐户号无此操作方式（8。）请问这是怎么回事呢？ EOS\	O O O O O O B-action I-action I-action I-action O B-action I-action I-action I-action O O B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 我的账号手机怎么不可以登陆 EOS\	O O O B-subject I-subject B-channel I-channel O O O O O B-action I-action mobile_trade_open
+BOS 我想开通手机炒股咋办理？ EOS\	O O O B-action I-action B-object I-object I-object I-object O B-action I-action O mobile_trade_open
+BOS 下载软件后登录资金账号还签约了呢 EOS\	O O O B-subject I-subject O O O B-subject I-subject I-subject I-subject O B-action I-action O O mobile_trade_open
+BOS 该资金账号没有此种操作方式是啥意思？以前没有用过手机 EOS\	O O B-subject I-subject I-subject I-subject O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O B-subject I-subject mobile_trade_open
+BOS 我想在手机开通，输入账号和密码为什么不行啊？ EOS\	O O O O B-channel I-channel B-action I-action O B-action I-action B-subject I-subject O B-subject I-subject O O O O O O O mobile_trade_open
+BOS 我的中泰资金账户怎么在这里登陆不了 EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O B-action I-action O O mobile_trade_open
+BOS 深圳账户不能登入吗？ EOS\	O B-place I-place B-subject I-subject O O B-action I-action O O mobile_trade_open
+BOS 用手机无法交易，我不会用网上营业厅，增加委托方式怎么办 EOS\	O O B-subject I-subject O O B-action I-action O O O O O B-subject I-subject I-subject I-subject I-subject O O O B-subject I-subject I-subject I-subject O O O mobile_trade_open
+BOS 如何登录交易？ EOS\	O O O B-action I-action I-action I-action O mobile_trade_open
+BOS 你们的手机app显示资金帐号无此操作方式怎么回事 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 怎么开通手机炒股 EOS\	O O O B-action I-action O O B-action I-action mobile_trade_open
+BOS 我用手机交易不可以，怎么回事 EOS\	O O O B-action I-action I-action I-action O O O O O O O O mobile_trade_open
+BOS 请问手机登录以后显示错误，说无此登录方式是什么意思 EOS\	O O O B-action I-action I-action I-action O O O O B-subject I-subject O O O O O O O O O O O O O mobile_trade_open
+BOS 以前可以手机交易的帐户，现在不能登陆了，为什么？ EOS\	O O O O O B-action I-action I-action I-action O B-subject I-subject O O O O O B-action I-action O O O O O O mobile_trade_open
+BOS 您好，此提示说明您没有开通手机炒股权限，您可点击点击中泰齐富通左上角头像进入个人中心，点击掌上营业厅更多—增加委托方式；或登录中泰官网（www.95538.cn）—网上营业厅—增加委托方式。 EOS\	O O O O O O O O O O O O B-action I-action B-object I-object I-object I-object B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 怎么手机还是不能用呢 EOS\	O O O B-subject I-subject O O O O O O mobile_trade_open
+BOS 请问手机下载安装完，怎么还进不了交易 EOS\	O O O B-subject I-subject B-action I-action I-action I-action O O O O O O O O B-action I-action mobile_trade_open
+BOS 怎么签署协议？ EOS\	O O O B-action I-action B-subject I-subject O mobile_trade_open
+BOS 我交易软件打不开，提示我资金账号无此操作 EOS\	O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O mobile_trade_open
+BOS 你好，我一直用电脑笫一次用手机登资金帐号是什么？ EOS\	O O O O O O O O O O O O O O B-channel I-channel B-action B-subject I-subject I-subject I-subject O O O O mobile_trade_open
+BOS 一个手机客户端能登2个帐户吗？ EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O O mobile_trade_open
+BOS 你好，请问我在手机上下载了齐富通，输入我的资金账号说是错误，请问是怎么回事 EOS\	O O O O O O O O B-subject I-subject O O O O B-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 手机安卓版下载了，要进行身份验证吗？ EOS\	O B-channel I-channel B-subject I-subject I-subject B-action I-action O O O O O B-action I-action I-action I-action O O mobile_trade_open
+BOS 我的账户被锁定了 EOS\	O O O B-subject I-subject B-action I-action I-action O mobile_trade_open
+BOS 请问怎么能开通手机炒股 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 无法登陆 EOS\	O B-action I-action I-action I-action mobile_trade_open
+BOS 为什么我用账号在手机上登录，提示无此方式 EOS\	O O O O O O B-subject I-subject O B-channel I-channel O B-action I-action O O O O O O O mobile_trade_open
+BOS 当时开户时没开通手机业务 EOS\	O O O B-action I-action O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 手机版怎么登不上去 EOS\	O B-subject I-subject I-subject O O O O O O mobile_trade_open
+BOS 我有中泰的账户号，手机操作吗能用 EOS\	O O O B-subject I-subject O O O O O B-subject I-subject B-action I-action O O O mobile_trade_open
+BOS 用手机操作登陆，提示资金帐户无此操作方式 EOS\	O O B-channel I-channel B-action I-action I-action I-action O O O O O O O O O O O O O mobile_trade_open
+BOS 我 要下载手机版融易汇 EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject mobile_trade_open
+BOS 我用了资金帐户打开也不能交易 EOS\	O O O O B-subject I-subject I-subject I-subject O O O B-action I-action I-action I-action mobile_trade_open
+BOS 账号也对，密码也对，手机怎么登不上去是怎么回事？ EOS\	O B-subject I-subject O O O B-subject I-subject O O O B-subject I-subject O O O O O O O O O O O O mobile_trade_open
+BOS 为什么登录不了齐富通 EOS\	O O O O B-action I-action O O B-subject I-subject I-subject mobile_trade_open
+BOS 如何开手机端？ EOS\	O O O B-action B-subject I-subject I-subject O mobile_trade_open
+BOS 我的手机怎么不能操作 EOS\	O O O B-channel I-channel O O B-action I-action I-action I-action mobile_trade_open
+BOS 手机怎么登不上去 EOS\	O B-subject I-subject O O O O O O mobile_trade_open
+BOS 你好，想知道如何使用手机app，因为本身是有齐鲁证券账号的，可以登录电脑版的客户端 EOS\	O O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O O O B-subject I-subject I-subject mobile_trade_open
+BOS 可以进掌上营业厅，但是没办法登交易帐户。 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 如何使用齐富通交易股票 EOS\	O O O O O B-channel I-channel I-channel O O O O mobile_trade_open
+BOS 为何资金账号登陆时显示  没有这种操作 EOS\	O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O O O mobile_trade_open
+BOS 我用同花顺正常登陆 EOS\	O O O B-subject I-subject I-subject O O B-action I-action mobile_trade_open
+BOS 他说得去营业厅办理开通网上交易业务，太费劲了 EOS\	O O O O O O O O O O B-action I-action B-channel I-channel O O B-subject I-subject O O O O O mobile_trade_open
+BOS 我用手机下载软件，为何登录不上 EOS\	O O O B-channel I-channel B-action I-action B-subject I-subject O O O O O O O mobile_trade_open
+BOS 手机上登陆会提示好像找不到的英文 EOS\	O B-channel I-channel O B-action I-action O O O O O O O O O O O mobile_trade_open
+BOS 怎么添加手机业务 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject mobile_trade_open
+BOS 你们这个 软件太不完善 EOS\	O O O O O O B-subject I-subject O O O O mobile_trade_open
+BOS 我是中泰的客户，以前没用过你们的客户端，用的是同花顺，现在想用一下试试，怎么登录不上？ EOS\	O O O O O O O O O O O O O O O O O B-subject I-subject I-subject O O O O B-subject I-subject I-subject O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 手机APP上资金账号无法登录，显示错误，无此操作方式，询问原因 EOS\	O B-subject I-subject I-subject I-subject I-subject O O B-subject I-subject I-subject O O B-action I-action O O O O O O O O O O O O O O O O O mobile_trade_open
+BOS 中泰齐富通怎么登录不上 EOS\	O B-subject I-subject I-subject I-subject I-subject O O B-action I-action O O mobile_trade_open
+BOS 不知道开没开通手机权限，去营业厅办理吗 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O O O mobile_trade_open
+BOS 如何开通手机交易？ EOS\	O O O B-action I-action B-action I-action I-action I-action O mobile_trade_open
+BOS 手机无法登录 EOS\	O O O O O O O mobile_trade_open
+BOS 怎样开通手机中泰证券？ EOS\	O O O B-action I-action B-channel I-channel B-subject I-subject I-subject I-subject O mobile_trade_open
+BOS 您好，问一下在电脑上可以交易操作，手机上怎么开通！ EOS\	O O O O O O O O B-subject I-subject O O O O O O O O B-subject I-subject O O O O O O mobile_trade_open
+BOS 我以前的账户为什么在手机上登不上去呢 EOS\	O O O O O O O O O O O O O O O O O O O mobile_trade_open

@@ -1,0 +1,527 @@
+BOS 那个如和添佳银行卡呀 EOS\	O O O O O B-action I-action I-action I-action I-action O bussiness_process
+BOS 怎么解绑第三方存管 EOS\	O O O O O O O O O O bussiness_process
+BOS 怎么解绑第三方存管 EOS\	O O O B-action I-action I-action I-action I-action I-action I-action bussiness_process
+BOS 可是从证券转出的钱能转到现在的银行卡吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 已开通深A，如何开通沪A EOS\	O O O O O O O O O B-action I-action B-object I-object bussiness_process
+BOS 我得身份证过期了！现在以更新了！这样就不用去营业厅了吗 EOS\	O O O O O O O O O O O O O B-action I-action O O O O O O O O O O O O O bussiness_process
+BOS 我得身份证过期了！现在以更新了！这样就不用去营业厅了吗 EOS\	O O O O O O O O O O O O O B-action I-action O O O O O O O O O O O O O bussiness_process
+BOS ？ EOS\	O O bussiness_process
+BOS 你好。我为何还不能登入 EOS\	O O O O O O O O O O B-action I-action bussiness_process
+BOS 我的账号不能登陆 EOS\	O O O B-subject I-subject O O B-action I-action bussiness_process
+BOS 账户锁定 EOS\	O B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好 EOS\	O O O bussiness_process
+BOS 您好，如何修改交易密码？ EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject O bussiness_process
+BOS 我们身份证过期已换证，要怎么更新信息 EOS\	O O O O O O B-object I-object O O O O O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 怎样修改资料？身份证到期 EOS\	O O O B-action I-action B-subject I-subject O B-trend I-trend I-trend I-trend I-trend bussiness_process
+BOS 帐号锁定怎么办 EOS\	O B-subject I-subject B-action I-action O O O bussiness_process
+BOS 五洲新春最近怎么操作 EOS\	O O O O O O O O O B-action I-action bussiness_process
+BOS 手机版不让我登陆，显示锁定是怎么回事 EOS\	O B-channel I-channel I-channel O O O B-action I-action O O O B-action I-action O O O O O bussiness_process
+BOS 在哪里你看看 EOS\	O O B-place I-place O O O bussiness_process
+BOS 在哪里你看看 EOS\	O O B-place I-place O O O bussiness_process
+BOS 在哪里你看看 EOS\	O O B-object I-object O O O bussiness_process
+BOS 在哪里你看看 EOS\	O O B-object I-object O O O bussiness_process
+BOS 怎么操作？ EOS\	O O O B-subject I-subject O bussiness_process
+BOS 我登陆上去它说我级别错误 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好，我的基金帐号留的手机号码不对，请问怎样更改号码？ EOS\	O O O O O O O O O O O O B-object I-object I-object I-object I-object I-object O O O O O B-action I-action O O O bussiness_process
+BOS 更改个人资料 EOS\	O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好 EOS\	O O O bussiness_process
+BOS 你好，有账号为啥不能用手机登录 EOS\	O O O O O O O O O O O O O O B-action I-action bussiness_process
+BOS 我手机下载了中泰，为什么不能登陆呢？ EOS\	O O O O O O O O O O O O O O O B-action I-action O O bussiness_process
+BOS 老显示，不存在该用户信息。怎么回事？ EOS\	O O O O O B-action I-action I-action O B-subject I-subject I-subject I-subject O O O O O O bussiness_process
+BOS 我刚学着用手机…无法登录呢 EOS\	O O O O O O O O O O O B-action I-action O bussiness_process
+BOS 什么啊，怎么回事 EOS\	O O O O O O O O O bussiness_process
+BOS 怎么卖出 到了价格 一直没有交易 怎么回事 EOS\	O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 密码忘记了怎么找回，已锁 EOS\	O B-subject I-subject B-action I-action O O O O O O O O bussiness_process
+BOS 我的资金帐号忘了 EOS\	O O O O O O O O O bussiness_process
+BOS 如何开通手机交易 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好 资金账号输入三次错误被锁定了怎么办 EOS\	O O O O B-object I-object I-object I-object O O O O O O O B-action I-action O O O O bussiness_process
+BOS 请问，帐户交易密码怎么修改？ EOS\	O O O O B-subject I-subject B-subject I-subject I-subject I-subject O O B-action I-action O bussiness_process
+BOS 我手机不能交易 EOS\	O O B-channel I-channel O O B-action I-action bussiness_process
+BOS 我账号锁定了要怎么办 EOS\	O O B-object I-object B-action I-action O O O O O bussiness_process
+BOS 为什么资金不能转出呢 EOS\	O O O O B-subject I-subject O O B-action I-action O bussiness_process
+BOS 怎么注销登录手机 EOS\	O O O B-action I-action O O B-object I-object bussiness_process
+BOS 账户锁定了怎么办 EOS\	O B-subject I-subject B-action I-action O O O O bussiness_process
+BOS 为什么用机登录不上。 EOS\	O O O O O O B-action I-action O O O bussiness_process
+BOS 你好能帮我再开一个账户吗 EOS\	O O O O O O B-action I-action I-action I-action B-object I-object O bussiness_process
+BOS 身份证信息过期有什么影响？ EOS\	O B-subject I-subject I-subject I-subject I-subject B-action I-action O O O O O O bussiness_process
+BOS 我想更改登陆密码，从哪里改 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O bussiness_process
+BOS 帐号锁定了 EOS\	O B-subject I-subject B-action I-action O bussiness_process
+BOS 开立账户 EOS\	O B-action I-action B-subject I-subject bussiness_process
+BOS 你好，可以注册两个账户吗？ EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O bussiness_process
+BOS 为什么输上帐号密码什么都对就是进不去 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action I-action bussiness_process
+BOS 你好，为何手机无法登陆 EOS\	O O O O O O B-subject I-subject B-action I-action I-action I-action bussiness_process
+BOS 资金帐号密码解锁 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 怎么注册啊 EOS\	O O O B-action I-action O bussiness_process
+BOS 还要把我的帐户删除了吗？ EOS\	O O O O O O B-subject I-subject B-action I-action O O O bussiness_process
+BOS 如果锁住怎么办？ EOS\	O O O B-subject I-subject O O O O bussiness_process
+BOS 资金帐号不允许以草操作方式登录8啥意思 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O O O O bussiness_process
+BOS 我的帐号，怎么没法登录了 EOS\	O O O B-subject I-subject O O O B-action I-action I-action I-action O bussiness_process
+BOS 资金账号不能这样登陆 EOS\	O B-subject I-subject I-subject I-subject O O O O B-action I-action bussiness_process
+BOS 帐号蜜码输错，怎么解除 EOS\	O B-subject I-subject O O B-action I-action O O O B-action I-action bussiness_process
+BOS 我因身份证过期！无法登陆 EOS\	O O O B-subject I-subject I-subject B-action I-action O O O B-action I-action bussiness_process
+BOS 我的帐户打不开 EOS\	O O O B-subject I-subject B-action I-action I-action bussiness_process
+BOS 手机号变更怎么弄 EOS\	O B-subject I-subject I-subject B-action I-action O O O bussiness_process
+BOS 手机号变更怎么弄 EOS\	O B-subject I-subject I-subject B-action I-action O O O bussiness_process
+BOS 资金帐号不允许该方式登录 EOS\	O B-subject I-subject I-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 我用网页登陆你们的官网 还是不能关联资金账户 EOS\	O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 【中泰证券】尊敬的投资者：您的股票账户留存的身份证件有效期已过期，为保证您的账户正常使用，请下载手机版中泰齐富通自助办理或持有效身份证件到营业部现场办理身份证有效期规范业务，如不及时办理，我们将依据反洗钱法的相关规定，对您的账户采取限制取款等措施。感谢您的配合！详询电话：5318072，5318077.中泰证券邹城东滩路营业部回复td或00000退订 EOS\	O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O B-action I-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 为什么不能登录呢？ EOS\	O O O O B-action I-action B-action I-action O O bussiness_process
+BOS 登陆提示错误980023096 EOS\	O B-action I-action B-action I-action I-action I-action O O O O O O O O O bussiness_process
+BOS 怎么更新身份证信息？ EOS\	O O O B-action I-action B-subject I-subject I-subject O O O bussiness_process
+BOS 资金帐号不允许以该方式登录 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action bussiness_process
+BOS 资金帐号不允许以该方式登录 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action bussiness_process
+BOS 你好 我更改密码以后反倒登陆不了 请问是什么原因呢？ EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O B-action I-action I-action I-action O O O O O O O O O O bussiness_process
+BOS 我的账号怎么没法登陆 EOS\	O O O B-subject I-subject O O O O B-action I-action bussiness_process
+BOS 你好，我为什么登录不了？ EOS\	O O O O O O O O B-action I-action O O O bussiness_process
+BOS 1人开多户怎么办 EOS\	O O O B-subject I-subject I-subject O O O bussiness_process
+BOS 账号不能登录是怎么回事 EOS\	O B-subject I-subject B-action I-action I-action I-action O O O O O bussiness_process
+BOS 提示资金账户无法登录 EOS\	O O O B-subject I-subject I-subject I-subject B-action I-action I-action I-action bussiness_process
+BOS 登陆界面称该资金账号不应许登陆 EOS\	O O O O O O O B-subject I-subject I-subject I-subject B-action I-action I-action B-action I-action bussiness_process
+BOS 资金帐号不允许 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action bussiness_process
+BOS 忘了密码，怎么办 EOS\	O B-action I-action B-subject I-subject O O O O bussiness_process
+BOS 我的资金账号没有啊，怎么登录 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 我之前在汇乐涨富通开过账户，在这里是重新开吗 EOS\	O O O O O B-channel I-channel I-channel I-channel O B-action I-action I-action I-action O O O O O B-action I-action I-action O bussiness_process
+BOS 账号锁了，咋办？ EOS\	O B-subject I-subject B-action I-action O O O O bussiness_process
+BOS 风险承受能力 那个怎么改 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-action I-action I-action bussiness_process
+BOS 直接开通不可以不答题 EOS\	O B-action I-action I-action I-action O O O B-action I-action I-action bussiness_process
+BOS 我第一次登录，输入资金帐号了显示错误 EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O B-action I-action I-action I-action bussiness_process
+BOS 在哪能找见注册的手机号 EOS\	O O O O B-action I-action O O O B-subject I-subject I-subject bussiness_process
+BOS 该资金账号禁止券商发起银证转出 EOS\	O O O O O O B-action I-action O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 该资金账号禁止券商发起银证转出 EOS\	O O O O O O B-action I-action O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 为什么登不上？ EOS\	O O O O B-action I-action I-action O bussiness_process
+BOS 该基金账号禁止该客户端发起银证转账 EOS\	O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 该基金账号禁止该客户端发起银证转账 EOS\	O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 帐号被锁定怎么办 EOS\	O B-subject I-subject O B-action I-action O O O bussiness_process
+BOS 账户状态被锁定怎么办 EOS\	O B-subject I-subject I-subject I-subject O B-action I-action O O O bussiness_process
+BOS 亲，怎么开通 EOS\	O O O O O B-action I-action bussiness_process
+BOS 不允许此方式登陆 EOS\	O B-action I-action I-action O O O O O bussiness_process
+BOS 开户流程？ EOS\	O B-action I-action O O O bussiness_process
+BOS 开户流程？ EOS\	O B-action I-action O O O bussiness_process
+BOS 资金账户是什么？怎么注册，我新人 EOS\	O B-subject I-subject I-subject I-subject O O O O O O B-action I-action O O O O bussiness_process
+BOS 更新身份证 EOS\	O B-action I-action B-subject I-subject I-subject bussiness_process
+BOS 你好，我这个帐号禁止券商发起银证转帐是怎么回事？ EOS\	O O O O O O O O O B-action I-action O O O O B-subject I-subject I-subject I-subject O O O O O O bussiness_process
+BOS 你好，我这个帐号禁止券商发起银证转帐是怎么回事？ EOS\	O O O O O O O O O B-action I-action O O O O B-subject I-subject I-subject I-subject O O O O O O bussiness_process
+BOS 资金账户没法登录 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 输上资金账号，打不开，提示说该资金账号不允许以这样方式打开 EOS\	O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject B-object I-object I-object O O O O O B-action I-action bussiness_process
+BOS 为什么我工商银行的卡开不了户 EOS\	O O O O O B-channel I-channel I-channel I-channel O O B-action I-action I-action I-action bussiness_process
+BOS 身份证过期 EOS\	O B-subject I-subject I-subject B-action I-action bussiness_process
+BOS 想改一下手机号怎么改？ EOS\	O O B-action I-action I-action B-subject I-subject I-subject O O O O bussiness_process
+BOS 忘记账号 EOS\	O B-action I-action B-subject I-subject bussiness_process
+BOS 不是提示密码错误，是不允许此方式等陆 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action bussiness_process
+BOS 怎么开通中泰手机炒股 EOS\	O O O B-action I-action O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 资金账号不准许以炒作方式登录 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action O O O O O O O bussiness_process
+BOS 为什么刚手机下载了齐富通提示帐号不能以此方式登录？ EOS\	O O O O O O O O O O O O O O O B-subject I-subject O O O O O O B-action I-action O bussiness_process
+BOS 你好，我身份证过期了，在网上能办理吗 EOS\	O O O O O B-subject I-subject I-subject O O O O O B-action I-action I-action I-action I-action O bussiness_process
+BOS 账号锁定 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 请问我的密码被锁定怎么办？ EOS\	O O O O O B-subject I-subject B-action I-action I-action O O O O bussiness_process
+BOS 我账户怎么突然锁了 EOS\	O O O O O O B-action I-action I-action O bussiness_process
+BOS 说是该资金账号不允许该登录方式 EOS\	O O O O B-subject I-subject I-subject I-subject B-object I-object I-object O B-action I-action O O bussiness_process
+BOS 账户密码被锁定，怎么解决 EOS\	O B-subject I-subject I-subject I-subject O B-action I-action O O O O O bussiness_process
+BOS 你好我想股票账户新增一个银行怎么弄？ EOS\	O O O O O B-channel I-channel I-channel I-channel B-action I-action O O B-subject I-subject O O O O bussiness_process
+BOS 我输得是资金账号，显示该资金账户不允许以这种方式登陆 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action I-action O O O O O B-action I-action bussiness_process
+BOS 不允许此方式登录 EOS\	O B-action I-action I-action O O O B-action I-action bussiness_process
+BOS 修改身份证信息 EOS\	O B-action I-action B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 手机号码修改 EOS\	O B-subject I-subject I-subject I-subject B-action I-action bussiness_process
+BOS 98003093-该资金帐户不允许这样操作 EOS\	O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 身份证背面不清晰，如何再次上传 EOS\	O B-subject I-subject I-subject O O B-action I-action I-action O O O B-action I-action I-action I-action bussiness_process
+BOS 手机号注册过，但是没有资金账号，怎么继续 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O bussiness_process
+BOS 我的身份证到期了 EOS\	O O O B-subject I-subject I-subject B-action I-action O bussiness_process
+BOS 提示不允许登录 EOS\	O O O O O O B-action I-action bussiness_process
+BOS 你好，我的账号被锁定了，要怎么解锁 EOS\	O O O O O O B-subject I-subject O O O O O O O O B-action I-action bussiness_process
+BOS 怎么提示不能以资金账号方式登陆 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 你好，是不允许此方式登录 EOS\	O O O O O B-subject I-subject I-subject O O O B-action I-action bussiness_process
+BOS OTC理财必须到营业部柜台办理吗？ EOS\	O B-channel I-channel I-channel O O O O O B-subject I-subject I-subject I-subject I-subject B-action I-action O O bussiness_process
+BOS 为什么我的转户余额不能转入到银行卡了 EOS\	O O O O O O O O O O O O B-action I-action O B-subject I-subject I-subject O bussiness_process
+BOS 没办理成功 EOS\	O O B-action I-action O O bussiness_process
+BOS 资金账户不允许这样登陆 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 手机号码改号 EOS\	O B-subject I-subject I-subject I-subject B-action I-action bussiness_process
+BOS 不允许此方式登陆 EOS\	O B-action I-action I-action O O O B-action I-action bussiness_process
+BOS 密码错误锁定了怎么办 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O O bussiness_process
+BOS 资金账号不允许以该操作方式8登陆 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O B-action I-action bussiness_process
+BOS 忘记密码 EOS\	O B-action I-action B-subject I-subject bussiness_process
+BOS 资金密码输错3次后，会锁定帐户吗？ EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O O O B-action I-action O O O O bussiness_process
+BOS 原齐鲁证券帐号无法登录？提示： 错误级别：［1］错误信息提示：-980023093［-980023093］资金帐号不允许以该操作方式登录8］ EOS\	O O B-subject I-subject I-subject I-subject I-subject I-subject B-action I-action I-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 身份证没过期呀 EOS\	O B-subject I-subject I-subject B-action I-action I-action O bussiness_process
+BOS 我想把与中泰证户上绑定的银行卡的预留电话更改一下，会有什么影响吗 EOS\	O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O O bussiness_process
+BOS 输入资金账号提示不能以这种方式登陆，怎么回事？ EOS\	O O O B-subject I-subject I-subject I-subject O O B-object I-object O O O O O B-action I-action O O O O O O bussiness_process
+BOS 你好，怎么开户 EOS\	O O O O O O B-action I-action bussiness_process
+BOS 身份证快到期了怎么办？ EOS\	O B-subject I-subject I-subject O B-action I-action O O O O O bussiness_process
+BOS 在电脑上改密码怎么改 EOS\	O O O O O B-action I-action I-action O O O bussiness_process
+BOS 忘了密码必须去柜台办么 EOS\	O O O B-subject I-subject O O B-action I-action I-action O O bussiness_process
+BOS 密码忘记被锁怎么办 EOS\	O B-subject I-subject O O B-action I-action O O O bussiness_process
+BOS 系统显示帐户状态被锁定，不允许登陆。是什么原因 EOS\	O O O O O B-subject I-subject I-subject I-subject O B-action I-action O O O O O O O O O O O O bussiness_process
+BOS 账户输错密码被锁定了怎么办%3F EOS\	O B-subject I-subject O O B-subject I-subject B-action I-action I-action O O O O O O O bussiness_process
+BOS 账户锁定如何解锁？ EOS\	O B-subject I-subject B-action I-action O O O O O bussiness_process
+BOS 你好 我的账户忘记密码被锁定 怎么解 EOS\	O O O O O O B-subject I-subject O O B-subject I-subject O B-action I-action O O O O bussiness_process
+BOS 这个在软件上不能修改的吗 EOS\	O O O O B-subject I-subject O O O B-action I-action O O bussiness_process
+BOS 联系电话怎么改不了 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action I-action bussiness_process
+BOS 如何开通手机交易股票 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 刚才我开户的时候银行卡号少四位数，怎么改啊？ EOS\	O O O O B-subject I-subject O O O B-subject I-subject I-subject O O O O O O O O O O O bussiness_process
+BOS 网上开户没成功怎么办 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action O O O bussiness_process
+BOS 资金帐号不允许以该操作方式登录是因为什么 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O O O O O bussiness_process
+BOS 我之前用的是安卓手机现在换了苹果登陆不了无法交易 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject O O B-action I-action I-action I-action O O O O bussiness_process
+BOS 怎么改 EOS\	O B-subject I-subject I-subject bussiness_process
+BOS 在国泰君安开过户，可以开通创业板？，3年交易 EOS\	O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 你好！我已开户，但此软件怎么没有交易软件呢？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 我的手机号换了怎么更改个人信息 EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 为何我的资金账号不能直接登录 EOS\	O O O O O B-subject I-subject I-subject I-subject O O B-action I-action I-action I-action bussiness_process
+BOS 提示，错误内容1，该资金帐号不允许此方式登录 EOS\	O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 请问现在开户还要手续费吗 EOS\	O O O O O B-action I-action O O O O O O bussiness_process
+BOS 帐户被琐定了怎么办 EOS\	O B-subject I-subject B-action I-action I-action O O O O bussiness_process
+BOS 忘记密码！输错3次账户锁定怎么办 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O O O bussiness_process
+BOS 电话换了 该电话号码 EOS\	O B-subject I-subject I-subject I-subject O O O O O O bussiness_process
+BOS 请问自己可以在网上自主开户吗 EOS\	O O O B-subject I-subject O O O B-subject I-subject I-subject I-subject I-subject I-subject O bussiness_process
+BOS 资金账号不能登陆 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 解锁 EOS\	O B-action I-action bussiness_process
+BOS 你好手机交易怎么开通呢 EOS\	O O O B-action I-action I-action I-action O O B-action I-action O bussiness_process
+BOS 您好，我忘记了我的资金账户密码后来锁定了，怎样才能解锁呢 EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O B-action I-action O bussiness_process
+BOS 资金账号不允许登陆 EOS\	O B-subject I-subject I-subject I-subject O O O B-action I-action bussiness_process
+BOS 资金账号不允许登陆 EOS\	O B-subject I-subject I-subject I-subject O O O B-action I-action bussiness_process
+BOS 资金账户登录不进去，显示不允许资金账户登录。又没有股东代码的登录方式 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 我想开户 EOS\	O O O B-action I-action bussiness_process
+BOS 怎么注册 EOS\	O O O B-action I-action bussiness_process
+BOS 资金帐号不允许以该种方式登录 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action bussiness_process
+BOS 我的账号锁住了怎么办 EOS\	O O O B-subject I-subject B-action I-action O O O O bussiness_process
+BOS 在线解锁能用吗 EOS\	O B-subject I-subject I-subject I-subject O O O bussiness_process
+BOS 请问如何再留个手机号，中签后通知我们。 EOS\	O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 如何修改自己的联系方式 EOS\	O O O B-action I-action O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 那怎么改密码呢老师 EOS\	O O O O B-subject I-subject I-subject O O O bussiness_process
+BOS 我想开户，手续费低的联系我 EOS\	O O O B-action I-action O O O O O O O O O bussiness_process
+BOS 自己可以手机弄吗 EOS\	O B-subject I-subject O O B-subject I-subject O O bussiness_process
+BOS 锁了 EOS\	O B-action I-action bussiness_process
+BOS 你好，请问可以修改交易密码吗？ EOS\	O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O bussiness_process
+BOS 身份证有效期过期、在网上能办理吗 EOS\	O B-subject I-subject I-subject O O O B-action I-action O O B-subject I-subject O B-action I-action O bussiness_process
+BOS 登录手机版密码输错了，锁定了怎么办 EOS\	O O O O O O O O O O O O B-action I-action O O O O bussiness_process
+BOS 商品期货账户可以在网上开通吗 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O O O B-action I-action I-action I-action O bussiness_process
+BOS 我怎么登陆不进去 EOS\	O O O O B-action I-action O O O bussiness_process
+BOS 联系电话 EOS\	O O O O O bussiness_process
+BOS 开新户 EOS\	O B-subject I-subject I-subject bussiness_process
+BOS 错误级别1 980023093 8 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O bussiness_process
+BOS 你好，我的登录密码锁定了，怎么解锁？ EOS\	O O O O O O B-action I-action O O O O O O O O B-action I-action O bussiness_process
+BOS 资金帐号不允许该方式登陆8 EOS\	O B-subject I-subject I-subject I-subject O O O O O O B-action I-action O bussiness_process
+BOS 密码忘了咋办 EOS\	O B-subject I-subject B-action I-action O O bussiness_process
+BOS 更新身份证 EOS\	O B-action I-action B-subject I-subject I-subject bussiness_process
+BOS 我的账户被锁定了 EOS\	O O O B-subject I-subject B-action I-action I-action O bussiness_process
+BOS 我的账户被锁定了 EOS\	O O O B-subject I-subject B-action I-action I-action O bussiness_process
+BOS 怎么开户啊 EOS\	O O O B-action I-action O bussiness_process
+BOS 资金帐户不允许 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action bussiness_process
+BOS 我的账户密码输错被锁住了，咋办 EOS\	O O O B-subject I-subject I-subject I-subject O O B-action I-action I-action O O O O bussiness_process
+BOS 更换身份证信息 EOS\	O B-action I-action B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 现在登陆显示账号锁定！ EOS\	O O O O O O O B-subject I-subject B-action I-action O bussiness_process
+BOS 账户锁定 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 【中泰证券】恭喜您在佛山季华路证券营业部成功开户！一码通账号180019404662,资金账号109081000128,沪A账号A564541738、深A账号0113212314。已开账户下个交易日即可使用！已开账户密码为开户设置的六位数字，请务必保管好账号及密码！签约现金宝享受账户余额增值，还送10元话费抽千元京东卡，点击www.95538.cn/xjb速速参与！中泰证券首批合作上线level2行情，邀您尊享体验，详询致电95538或点击“齐富通达”。 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 如何修改联系电话 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 如何开通手机客户端？ EOS\	O O O O O O O O O O O bussiness_process
+BOS 我沒开通手机交易、怎样才能开通 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O bussiness_process
+BOS 个人信息登录用什么账号呀 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O O O O bussiness_process
+BOS 任意贷的页面在哪里？ EOS\	O B-channel I-channel I-channel O B-subject I-subject O O O O bussiness_process
+BOS 好象是不能用此方式登录 EOS\	O O O O O O O O O O B-action I-action bussiness_process
+BOS 您好，我因为密码输入错误账户被锁定了，请问如何解锁？ EOS\	O O O O O O O B-subject I-subject O O O O O O O O O O O O O O O B-action I-action O bussiness_process
+BOS 我想把证券的钱转回到银行 EOS\	O O O O B-subject I-subject O O B-action I-action O B-subject I-subject bussiness_process
+BOS 手机登陆中泰，密码三次出错，怎么办 EOS\	O O O B-action I-action O O O B-subject I-subject O O O O O O O O bussiness_process
+BOS 你好，如何用app更新身份证信息 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 我怎么才能更改手机号码 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 怎么办呢？现在是换新的身份证了， EOS\	O O O O O O O O O B-action I-action O B-subject I-subject I-subject O O bussiness_process
+BOS 禁止客户端转银行业务 EOS\	O B-action I-action O O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 怎么还手机号 EOS\	O O O O O O O bussiness_process
+BOS 我中签怎么不打电话告诉我 EOS\	O O B-subject I-subject O O O O O O O O O bussiness_process
+BOS 请问以前开通的电脑账户能用手机登陆么 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O B-subject I-subject I-subject I-subject O bussiness_process
+BOS 说什么账号不能以该方式登录 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 我改完密码，还是没法登录啊 EOS\	O O B-object I-object B-subject I-subject O O O O O B-action I-action O bussiness_process
+BOS 怎么更新身份证啊？ EOS\	O O O B-action I-action B-subject I-subject I-subject O O bussiness_process
+BOS 我想改电话号码怎么改 EOS\	O O B-action I-action B-subject I-subject I-subject I-subject O O O bussiness_process
+BOS 个人资料怎么修改？ EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action O bussiness_process
+BOS 我是要新开户，怎么让我填转入的基金账号呢 EOS\	O O O O B-subject I-subject I-subject O O O O O O O O O B-subject I-subject I-subject I-subject O bussiness_process
+BOS 现在能开户吗 EOS\	O O O O B-action I-action O bussiness_process
+BOS 我原来开户的是股票，现在要开期货要怎么办理 EOS\	O O O O O O O O O O O O O O B-subject I-subject I-subject O O O O O bussiness_process
+BOS 我怎么开户 EOS\	O O O O B-subject I-subject bussiness_process
+BOS 转入证劵里面就行 EOS\	O B-action I-action O O O O O O bussiness_process
+BOS 我用同花顺可以登陆。  用齐富通登陆不了 EOS\	O O O B-channel I-channel I-channel O O B-action I-action O O O O B-channel I-channel I-channel O O O O bussiness_process
+BOS 你好，我那身份证过期了，怎么更新一下 EOS\	O O O O O O B-subject I-subject I-subject O O O O O O B-action I-action O O bussiness_process
+BOS 我想买otc 产品 EOS\	O O O O B-stkname I-stkname I-stkname O O O bussiness_process
+BOS 我在开户 还没录完呢 EOS\	O O O B-action I-action O O O O O O bussiness_process
+BOS 你好，我的身份证快过期了，怎么办 EOS\	O O O O O O B-subject I-subject I-subject O B-object I-object O O O O O bussiness_process
+BOS 你好，用手机开户怎么操作？交易扣费多少 EOS\	O O O O O B-object I-object B-action I-action O O O O O O O O O O O bussiness_process
+BOS 我的身份证到期了，这个也必须本人拿着身份证去更改信息吗？ EOS\	O O O B-subject I-subject I-subject O O O O O O O O O O O O O O O O O B-action I-action I-action I-action O O bussiness_process
+BOS 现在可以申请账户吗 EOS\	O O O O O B-action I-action B-subject I-subject O bussiness_process
+BOS 商品期货开户什么流程？开户费用多少？ EOS\	O B-subject I-subject I-subject I-subject O O O O B-action I-action O O O O O O O O bussiness_process
+BOS 网上可以直接开户吗 EOS\	O B-subject I-subject O O B-action I-action I-action I-action O O bussiness_process
+BOS 网上可以直接开户吗 EOS\	O B-channel I-channel O O B-action I-action I-action I-action O O bussiness_process
+BOS 那么该手机号要到营业网点更改吗 EOS\	O O O O B-subject I-subject I-subject O O B-action I-action I-action I-action B-action I-action O bussiness_process
+BOS 账号锁定 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 怎样修改手机号码？ EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O bussiness_process
+BOS 开户是扣几个点的啊 EOS\	O B-action I-action O O O O O O O bussiness_process
+BOS 我新下载的齐富通，用资金账户登录，一直登录不上去，提示错误是，资金账户不应以该方式登录。我该怎么办？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 账户锁住了怎么解锁 EOS\	O B-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 我想资询一下 EOS\	O O O B-action I-action O O bussiness_process
+BOS 你好，我的账号给锁了，如何解锁？ EOS\	O O O O O O B-subject I-subject O O O O O O B-action I-action O bussiness_process
+BOS 你好，我电话号码换了，怎么更改 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 不允许此方式登录 EOS\	O O O O O O O B-action I-action bussiness_process
+BOS 也就没有办法验证 EOS\	O O O O O O O O O bussiness_process
+BOS 为什么无法修改交易密码 EOS\	O O O O O O O O O O B-subject I-subject bussiness_process
+BOS 资金账号不允许该操作方式登入8是什么 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action O O O O bussiness_process
+BOS 资金账号不允许该操作方式登入8是什么 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action O O O O bussiness_process
+BOS 我账户 被封了 EOS\	O O B-subject I-subject O B-action I-action O bussiness_process
+BOS 中泰齐富通登陆时候显示-980023093资金账号不允许以该操作方式登录8 EOS\	O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O bussiness_process
+BOS 如何更改交易密码 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 今天交易密码锁定了，什么时候能自动解锁？ EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action I-action I-action O bussiness_process
+BOS 我的账号锁住了怎么办？ EOS\	O O O B-subject I-subject B-action I-action O O O O O bussiness_process
+BOS 请问，身份证过期，如何在APP上修改身份证信息！谢谢。 EOS\	O O O O O O O B-action I-action O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 上次密码输错了，账户被冻结了 EOS\	O O O B-subject I-subject O O O O B-action I-action I-action I-action I-action O bussiness_process
+BOS 请问一下，我的证券账户被锁，是什么原因呢？ EOS\	O O O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O bussiness_process
+BOS 身份证到了有效期怎么办？ EOS\	O B-subject I-subject I-subject O O B-object I-object I-object O O O O bussiness_process
+BOS 我的的交易进不去，显示不能以此方式操作 EOS\	O O O O B-subject I-subject O O O O O O O O O O O O B-action I-action bussiness_process
+BOS 不允许此方式登录 EOS\	O B-action I-action I-action O O O B-action I-action bussiness_process
+BOS 请问怎么修改注册交易账号时的手机号 EOS\	O O O O O B-action I-action O O B-subject I-subject I-subject I-subject O O B-subject I-subject I-subject bussiness_process
+BOS 券商端禁止转出 EOS\	O B-channel I-channel I-channel B-action I-action O O bussiness_process
+BOS 我的手机号变了，可我信息还是以前的手机号，能变更吗 EOS\	O O O B-subject I-subject I-subject O O O O O O O O O O O O B-subject I-subject I-subject O O O O O bussiness_process
+BOS 在哪里你看看 EOS\	O O B-object I-object O O O bussiness_process
+BOS 你好！我这今天不能办银证转账了 EOS\	O O O O O O O O B-subject I-subject O B-action I-action I-action I-action O bussiness_process
+BOS 我的联系方式中手机号码怎么变更一下？ EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O O O bussiness_process
+BOS 账号锁定，如何解锁 EOS\	O B-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 我的账号密码锁定了，怎么弄 EOS\	O O O B-subject I-subject O O B-action I-action O O O O O bussiness_process
+BOS 说 身份证有效期 到期了能在电脑上 更新吗%3F EOS\	O O O B-subject I-subject I-subject B-subject I-subject I-subject O O O O O O O O O O O O O O O O bussiness_process
+BOS 密码输入错了，什么时候解开 EOS\	O B-subject I-subject O O O O O O O O O B-action I-action bussiness_process
+BOS 身份证过期怎么认证 EOS\	O B-subject I-subject I-subject B-action I-action O O O O bussiness_process
+BOS 怎么在手机 更新身份证信息 EOS\	O O O O B-subject I-subject O B-action I-action O O O O O bussiness_process
+BOS 我的生份证过期在那重现认证啊 EOS\	O O O O O O O O O O O O O O O bussiness_process
+BOS 不允许以这种方式登陆8 EOS\	O O O O O O O O O B-action I-action O bussiness_process
+BOS 为什么用手机登陆账号，显示该资金账号不能以该方式登陆 EOS\	O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 你好  怎么修改电话号码 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好  怎么修改电话号码 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好  怎么修改电话号码 EOS\	O O O O O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 怎么解锁 EOS\	O O O B-action I-action bussiness_process
+BOS 帐户锁定 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 你好 密码忘记账户被锁住了 怎么解？ EOS\	O O O O B-subject I-subject B-action I-action O O O O O O O O O O O bussiness_process
+BOS 股票开户 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 你好，身份证过期，在哪修改？ EOS\	O O O O B-subject I-subject I-subject O O O O O B-action I-action O bussiness_process
+BOS 密码被锁怎么解 EOS\	O B-subject I-subject B-action I-action O O O bussiness_process
+BOS 我的联系电话在哪里修改啊？ EOS\	O O O B-subject I-subject I-subject I-subject O O O B-action I-action O O bussiness_process
+BOS 您好，账户被锁如何解决？ EOS\	O O O O B-subject I-subject B-action I-action O O O O O bussiness_process
+BOS 你好 我收到短信要我更新身份证信息 EOS\	O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 帐户被锁怎么办 EOS\	O B-subject I-subject B-action I-action O O O bussiness_process
+BOS 你好 身份证信息更新怎么办理 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject B-action I-action O O O O bussiness_process
+BOS 有段时间短信说让身份证改良 EOS\	O O O O O O O O O O O O O O bussiness_process
+BOS 身份证过期，怎么更新 EOS\	O B-subject I-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 怎样修改绑定手机号码？ EOS\	O O O B-action I-action O O B-subject I-subject I-subject I-subject O bussiness_process
+BOS 账户锁住了，怎么办，交易密码忘了 EOS\	O B-subject I-subject B-action I-action O O O O O O O O O O O O bussiness_process
+BOS 我的帐号被锁定了 EOS\	O O O B-subject I-subject O B-action I-action O bussiness_process
+BOS 怎么开户呢？ EOS\	O O O B-action I-action O O bussiness_process
+BOS 我在别人证券公司已开通创业板 EOS\	O O O O O O O O O O O O O O O bussiness_process
+BOS 我的账户禁止转出 EOS\	O O O B-subject I-subject O O B-action I-action bussiness_process
+BOS 证件更新 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 我为什么进不去，说账号被锁定，让登录网上营业厅解锁 EOS\	O O O O O O O O O O B-subject I-subject O O O O O O O O O O O O B-action I-action bussiness_process
+BOS 开通手机交易必须去交易所开通吗 EOS\	O O O O O O O O O O O O O O O O bussiness_process
+BOS 再请问原来开户，是用电话委托交易，想手机交易必须去交易所开通吗 EOS\	O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O bussiness_process
+BOS 资金账号不允许已该操作登陆方式 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 新开户 EOS\	O O O O bussiness_process
+BOS 如何修改登录密码 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 账户被锁定了怎么办 EOS\	O B-subject I-subject O B-action I-action O O O O bussiness_process
+BOS 为何无法登陆 EOS\	O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好，创业板转签的按钮在哪 EOS\	O O O O O O O O O O O O O O bussiness_process
+BOS 你好，资金帐户不允许此种方式登录是怎么回事？ EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O O O O O O bussiness_process
+BOS 怎么解锁啊 EOS\	O O O B-action I-action O bussiness_process
+BOS 网上开户怎么开 EOS\	O B-subject I-subject I-subject I-subject O O O bussiness_process
+BOS 账户被锁定，怎么解锁 EOS\	O B-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 为什么我用手机不能上 EOS\	O O O O O O O O O O O bussiness_process
+BOS 你好，请问我下载了手机中泰齐富通登录账号显示资金账号不允许以该操作方式登录是为什么？电脑登录没问题 EOS\	O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O O O O O O O O O O O O bussiness_process
+BOS 身份信息修改在哪？ EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O bussiness_process
+BOS 您好，禁止券商端转出资金是为什么？ EOS\	O O O O O O O O O B-action I-action I-action I-action O O O O O bussiness_process
+BOS 帐户不能银证转帐 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 账号密码忘记输入错误账户被锁定了怎么办 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O O O O bussiness_process
+BOS 怎么更换手机号？ EOS\	O O O B-action I-action B-subject I-subject I-subject O bussiness_process
+BOS 为什么现在登陆不了帐户，显示是帐户被锁住 EOS\	O O O O O O O O O O O O O O O O B-subject I-subject O B-action I-action bussiness_process
+BOS 你好，资金账号怎么注册 EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 说开户留的身份证到期是怎回事 EOS\	O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O bussiness_process
+BOS 登陆不上什么原因？显示资金账号不允许该操作方式登陆 EOS\	O B-action I-action O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O bussiness_process
+BOS 你好  我想问一下怎么改交易密码 EOS\	O O O O O O O O O O O O B-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 修改手机号怎么修改 EOS\	O B-action I-action B-subject I-subject I-subject O O O O bussiness_process
+BOS 您好。我想修改账户当初预留的手机号码，请问应该怎么修改 EOS\	O O O O O O B-action I-action O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O bussiness_process
+BOS 账户被锁定 EOS\	O B-subject I-subject O B-action I-action bussiness_process
+BOS 打电话解锁 EOS\	O O O O O O bussiness_process
+BOS 账号冻结了 EOS\	O B-subject I-subject B-action I-action O bussiness_process
+BOS 账户锁定了怎么解封 EOS\	O B-subject I-subject I-subject I-subject O O O B-action I-action bussiness_process
+BOS 怎么更改交易密码 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 我帐号锁定了怎么办 EOS\	O O B-subject I-subject B-action I-action O O O O bussiness_process
+BOS 我帐号锁定了怎么办 EOS\	O O B-subject I-subject B-action I-action O O O O bussiness_process
+BOS 怎么修改密码 EOS\	O O O B-action I-action B-subject I-subject bussiness_process
+BOS 到哪里开户？ EOS\	O O O O B-action I-action O bussiness_process
+BOS 问下我帐号由于输错密码次数多了，怎样解锁 EOS\	O O O O B-subject I-subject O O O O O O O O O O O O O B-action I-action bussiness_process
+BOS 资金密码不能在网上改吗？ EOS\	O B-subject I-subject I-subject I-subject O O O B-action I-action I-action O O bussiness_process
+BOS 你好，我购买21显示我没有风险评估 EOS\	O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 你好，请问身份证快到期的怎么办？ EOS\	O O O O O O B-subject I-subject I-subject O O O O O O O O bussiness_process
+BOS 还有提示我身份证信息过期 EOS\	O O O O O O B-subject I-subject I-subject I-subject I-subject B-action I-action bussiness_process
+BOS 为什么我的账户，不能登陆 EOS\	O O O O O O B-subject I-subject O O O B-action I-action bussiness_process
+BOS 我的账号无缘无故被锁定了 EOS\	O O O B-subject I-subject O O O O O B-action I-action O bussiness_process
+BOS 如何在线办理小额融资业务？ EOS\	O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject O bussiness_process
+BOS 业务办理显示，应该是冻结了。 EOS\	O O O O O O O O O O O O O O O bussiness_process
+BOS 帐号被锁，无法登录 EOS\	O B-subject I-subject B-action I-action O O O O O bussiness_process
+BOS 手机上怎么更改身份证信息？ EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject O bussiness_process
+BOS 我的个人资料信息不对，怎么办 EOS\	O O O O O O O O O O O O O O O bussiness_process
+BOS 你好 我想更改手机号码 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 如何更改手机号码 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 怎样更换号码呢 EOS\	O O O B-action I-action B-subject I-subject O bussiness_process
+BOS 身份证过期怎么办 EOS\	O B-subject I-subject I-subject B-action I-action O O O bussiness_process
+BOS 如何开通创业板转签 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 你好，请问能把根据我的持股发的短信改发到13309639366这个号上吗 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 你好，新开户，进入账户点击购买，系统提示：该股东账号未指定A7252674.....。这是怎么回事 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 如何更换电话号码 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 我身份证过期，钱转不出来 EOS\	O O B-subject I-subject I-subject B-action I-action O O O O O O bussiness_process
+BOS 我资金账号为什么登陆不了。 EOS\	O O B-subject I-subject I-subject I-subject O O O B-action I-action O O O bussiness_process
+BOS 我要解锁 EOS\	O O O B-action I-action bussiness_process
+BOS 当时我开户登记电话换了，如何更改 EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 账户被锁定怎么办？ EOS\	O B-subject I-subject O B-action I-action O O O O bussiness_process
+BOS 密码忘记了 账户被锁定怎么办 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-action I-action O O O bussiness_process
+BOS 创业板怎么开通 EOS\	O B-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 你好，我账号锁定了，怎么解锁 EOS\	O O O O O B-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 请问怎么开户 EOS\	O O O O O O O bussiness_process
+BOS 怎么换电话号码 EOS\	O O O O O O O O bussiness_process
+BOS 怎么修改手机号 EOS\	O O O B-action I-action B-subject I-subject I-subject bussiness_process
+BOS 密码锁住 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 我怎么开通手机炒股权限 EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 你好。请问我在其他证券公司已开通创业板，在咱们公司需要哪些手续转签。银行卡必须和开户人同一个身份证开的吗 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 怎么今天登陆不 EOS\	O O O O O O O O bussiness_process
+BOS 密码忘了，账号被锁定 EOS\	O B-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 输入资金号码显示错误8 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O bussiness_process
+BOS 想问下，我登录密码忘记了，帐号被锁定了，怎么办 EOS\	O O O O O O O O O O O O O O B-subject I-subject O B-action I-action O O O O O bussiness_process
+BOS 账户被锁定怎么办 EOS\	O B-subject I-subject O B-action I-action O O O bussiness_process
+BOS 密码输错，账户被锁定 EOS\	O B-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 提示该资金账户不允许操作呢 EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O bussiness_process
+BOS 我 在网上开户，怎么没有第三方托管这个环节？光进行的实名登记 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 手机登录不了 EOS\	O O O O O O O bussiness_process
+BOS 更新身份证在哪？ EOS\	O B-action I-action B-subject I-subject I-subject O O O bussiness_process
+BOS 锁定后第二天可以重试吗？ EOS\	O B-subject I-subject O O O O O O B-action I-action O O bussiness_process
+BOS 密码锁定 EOS\	O B-subject I-subject B-action I-action bussiness_process
+BOS 登陆不上 EOS\	O O O O O bussiness_process
+BOS 如何修改开户的手机号 EOS\	O O O B-action I-action O O O B-subject I-subject I-subject bussiness_process
+BOS 新开的账户被锁定了怎么办 EOS\	O O O O B-subject I-subject O B-action I-action O O O O bussiness_process
+BOS 密码输错.锁定了，怎么解开？ EOS\	O O O O O O O O O O O O B-action I-action O bussiness_process
+BOS 帐户被锁，怎么解锁 EOS\	O B-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 麻烦再问一下，我用资金账号登陆提示:不支持这种方法登陆 EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O B-action I-action bussiness_process
+BOS 我有账号怎么进入不了手机那 EOS\	O O O O O O O O O O O O O O bussiness_process
+BOS 密码输入三次被锁，怎么解锁？ EOS\	O B-subject I-subject O O O O O O O O O B-action I-action O bussiness_process
+BOS 账号被锁怎么办？ EOS\	O B-subject I-subject O O O O O O bussiness_process
+BOS 我怎么没法银行转账了， EOS\	O O O O O O B-action I-action I-action I-action O O bussiness_process
+BOS 不允许此方式登入 EOS\	O O O O O O O O O bussiness_process
+BOS 我要换手机号了，能在手机上直接修改还是必须去柜台 EOS\	O O O O B-subject I-subject I-subject O O O O O O O O O B-action I-action O O O O O O O bussiness_process
+BOS 不允许此方式登录 EOS\	O O O O O O O O O bussiness_process
+BOS 是不允许此方式登录 EOS\	O O B-subject I-subject I-subject O O O B-action I-action bussiness_process
+BOS 我没有找到你说的增加手机委托方式 EOS\	O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O bussiness_process
+BOS 你好，资金账号显示不允许以此方式登录？ EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O bussiness_process
+BOS 昨天开户后，今天给我发短信说开户未成功。怎么办？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 我第一次在手机上弄，也得先开户吗？我以前在电脑上弄过 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 为什么不能登录呢？ EOS\	O O O O O O B-action I-action O O bussiness_process
+BOS 您好，我想请问一下我的账号交易的手续费是多少，可以查一下吗 EOS\	O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O B-action I-action I-action O bussiness_process
+BOS 个人资料怎样更改 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 为什么我的资金禁止转出 EOS\	O O O O O O O O B-action I-action I-action I-action bussiness_process
+BOS 没有开通手机炒股，可以在齐富通升级身份证信息吗？可以开通手机炒股吗 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action B-action I-action I-action I-action O bussiness_process
+BOS 我的联系电话怎么还没改过来 EOS\	O O O B-subject I-subject I-subject I-subject O O O O B-action I-action I-action bussiness_process
+BOS 个人资料怎么改 EOS\	O B-subject I-subject I-subject I-subject O O O bussiness_process
+BOS 银行签约失败 EOS\	O B-subject I-subject I-subject I-subject O O bussiness_process
+BOS 资金账号不允许以该操作方式操作 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O O O bussiness_process
+BOS 为什么现在开户到第二步就不能继续了 EOS\	O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 资金帐户不允许以此操作方式登录 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action bussiness_process
+BOS 你好，我新开的户 EOS\	O O O O O O O O O bussiness_process
+BOS 你好，我新开的户 EOS\	O O O O O O O O O bussiness_process
+BOS 我想把华泰的账号创业板转到你们这儿来 EOS\	O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 你好，我要更换新的电话号码 EOS\	O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject bussiness_process
+BOS 身份证更新在哪 EOS\	O B-subject I-subject I-subject B-action I-action O O bussiness_process
+BOS 多长时间自然解锁？ EOS\	O O O O O O O B-action I-action O bussiness_process
+BOS 请问怎么开通手机交易？ EOS\	O O O O O O O B-action I-action I-action I-action O bussiness_process
+BOS 怎么禁止我的转帐业务啊，证券无法转入银行 EOS\	O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O bussiness_process
+BOS 我的现金宝开户开不了，显示系统错误，你给看看 EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O bussiness_process
+BOS 账号被锁了 EOS\	O B-subject I-subject B-action I-action O bussiness_process
+BOS 进入网上开户，也没找到密码开锁 EOS\	O O O B-action I-action I-action I-action O O O O O B-action I-action I-action I-action bussiness_process
+BOS 如果新增一个账户是不是就不用去营业厅了！ EOS\	O O O B-action I-action O O B-subject I-subject O O O O O O O O O O O O O bussiness_process
+BOS 修改联系方式 EOS\	O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 如何解锁账户 EOS\	O O O B-action I-action B-subject I-subject bussiness_process
+BOS 注册身份证过期了网上能不能弄 EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O bussiness_process
+BOS 如何开通手机炒股？ EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O bussiness_process
+BOS 如何开通手机炒股？ EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O bussiness_process
+BOS 我的身份证过期了怎么操作 EOS\	O O O B-subject I-subject I-subject B-action I-action O O O O O bussiness_process
+BOS 我在证券公司留的身份证过期了 EOS\	O O O O O O O O O B-subject I-subject I-subject B-action I-action O bussiness_process
+BOS 请问怎么开通手机交易？ EOS\	O O O O O B-action I-action B-subject I-subject I-subject I-subject O bussiness_process
+BOS 资金账号不允许以该方式登陆 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action bussiness_process
+BOS 不允许次方式登录 EOS\	O O O O O O O O O bussiness_process
+BOS 打开资金账户进不去 EOS\	O O O B-subject I-subject I-subject I-subject O O O bussiness_process
+BOS 现在交易需要怎么办 EOS\	O O O O O O O O O O bussiness_process
+BOS 账户状态被锁定，不允许登陆。怎么办 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O O O O bussiness_process
+BOS 请问网上开完户  如何开通创业版  我在别的证券已经开通了创业版 EOS\	O O O O O O O O O O O O B-action I-action O O O O O O O O O O O O O O O O B-subject I-subject I-subject bussiness_process
+BOS 交易密码输错三次怎么解除 EOS\	O B-subject I-subject I-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 你好，我的身份证到期了，怎么修改 EOS\	O O O O O O B-subject I-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 账户锁定 EOS\	O O O O O bussiness_process
+BOS 我的密码错误，下载什么软件可以解锁。 EOS\	O O O B-subject I-subject O O O O O O O O O O O B-action I-action I-action bussiness_process
+BOS 我想修改电话号码 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 可以再重新开户么，去营业部不方便 EOS\	O O O O B-action I-action I-action I-action O O O O O O O O O bussiness_process
+BOS 同样的登陆方式，台式电脑能登陆，手机怎么就不能登陆 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 不允许此方式 EOS\	O O O O O O O bussiness_process
+BOS 你好，登录密码忘了，已经锁定了  ，怎么修改登录密码 EOS\	O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O B-action I-action O O O O bussiness_process
+BOS 资金帐号密码对不能登陆 EOS\	O B-subject I-subject I-subject I-subject O O O O O B-action I-action bussiness_process
+BOS 你们给了一个数字账号，但是显示不让以此方式登陆 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 怎么修改密码 EOS\	O O O B-action I-action B-action I-action bussiness_process
+BOS 好像身份证过期了 EOS\	O O O B-subject I-subject I-subject B-action I-action O bussiness_process
+BOS 如何开户 EOS\	O O O O O bussiness_process
+BOS 你好我的资金帐号怎么登录不进去 EOS\	O O O O O B-subject I-subject I-subject I-subject O O B-action I-action O O O bussiness_process
+BOS 身份证过期了给发短信了怎么办 EOS\	O B-subject I-subject I-subject B-action I-action O O O O O O O O O bussiness_process
+BOS 你好，为什么我的手机登录失败呢 EOS\	O O O O O O O O O O O O O O O O bussiness_process
+BOS 账户冻结不允许登录是什么意思 EOS\	O B-subject I-subject I-subject I-subject O O O B-action I-action O O O O O bussiness_process
+BOS 资金账号不允许以该操作方式登陆 EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action bussiness_process
+BOS 怎么转签创业板 EOS\	O O O B-action I-action B-subject I-subject I-subject bussiness_process
+BOS 开商品期货帐户 EOS\	O O O O O O B-subject I-subject bussiness_process
+BOS 银证转账，转出到第三方托管银行的时候，提示禁止转出 EOS\	O O O O O O O O O B-channel I-channel I-channel I-channel I-channel I-channel I-channel O O O O O O B-action I-action I-action I-action bussiness_process
+BOS 密码三次错误锁定 EOS\	O O O O O O O O O bussiness_process
+BOS 密码三次错误锁定 EOS\	O O O O O O O O O bussiness_process
+BOS 密码解锁也需要去营业厅么 EOS\	O B-subject I-subject B-action I-action O O O O O O O O bussiness_process
+BOS 密码解锁也需要去营业厅么 EOS\	O B-subject I-subject B-action I-action O O O O O O O O bussiness_process
+BOS 密码解锁也需要去营业厅么 EOS\	O B-subject I-subject B-action I-action O O O O O O O O bussiness_process
+BOS 密码解锁也需要去营业厅么 EOS\	O B-subject I-subject B-action I-action O O O O O O O O bussiness_process
+BOS 密码解锁也需要去营业厅么 EOS\	O B-subject I-subject B-action I-action O O O O O O O O bussiness_process
+BOS 想开通创业板权限需要怎么办理 EOS\	O O B-action I-action B-action I-action I-action O O O O O O O O bussiness_process
+BOS 说是资金巾不允许此方. EOS\	O O O O O O O O O O O O bussiness_process
+BOS 不允许此方式登录 EOS\	O O O O O O O O O bussiness_process
+BOS 我在网上开户的，现在提示我身份证过期 EOS\	O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 有了一个中泰帐户，还能再开一个吗 EOS\	O O O O O O O O O O O O B-action I-action I-action I-action O bussiness_process
+BOS 资金帐号不许这种登陆方式 EOS\	O B-subject I-subject I-subject I-subject O O O O B-action I-action O O bussiness_process
+BOS 我的账户提示：禁止券商端发起银证转出 ？？？？？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 我是在山东威海开的户，怎么不能登录 EOS\	O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 開戶問題 EOS\	O O O O O bussiness_process
+BOS 账户被锁定  不允许登陆 EOS\	O B-subject I-subject O O O O O O O O B-action I-action bussiness_process
+BOS 怎么更改交易密码 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 手机开户可以下载中泰齐富通后开户是吧 EOS\	O O O B-action I-action O O O O B-channel I-channel I-channel I-channel I-channel O O O O O bussiness_process
+BOS 手机开户可以下载中泰齐富通后开户是吧 EOS\	O O O B-action I-action O O O O B-channel I-channel I-channel I-channel I-channel O O O O O bussiness_process
+BOS 身份证过期了，怎么处理 EOS\	O B-subject I-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 修改密码 EOS\	O B-action I-action B-subject I-subject bussiness_process
+BOS 修改密码 EOS\	O B-action I-action B-subject I-subject bussiness_process
+BOS 资金账号不容许以该操作方式登陆，是怎么回事？ EOS\	O B-subject I-subject I-subject I-subject O O O O O O O O O B-action I-action O O O O O O O bussiness_process
+BOS 我忘了密码，被锁，怎么办 EOS\	O O O O O O O O O O O O O bussiness_process
+BOS 我忘了密码，被锁，怎么办 EOS\	O O O O O O O B-action I-action O O O O bussiness_process
+BOS 老师，不好意思，没有看到有增加手机委托方式。是否要先签订，电子协议书才能登陆？， EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 开户 EOS\	O O O bussiness_process
+BOS 为什么用已有资金账号不能登陆呢 EOS\	O O O O O O O B-subject I-subject I-subject I-subject O O O O O bussiness_process
+BOS 资金密码怎么修改 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action bussiness_process
+BOS 登录资金帐号 EOS\	O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 怎么开通手机端炒股】 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject I-subject O bussiness_process
+BOS 开通手机委托 EOS\	O B-action I-action O O B-subject I-subject bussiness_process
+BOS 你好我想再开个帐户需要什么手续.%3F同一个身份证能否开两个帐号 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 在么？怎么转签创业板账户 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject bussiness_process
+BOS 密码锁了怎么办 EOS\	O B-subject I-subject O O O O O bussiness_process
+BOS 账户密码锁了怎么办 EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O bussiness_process
+BOS 怎么转签创业板户 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject bussiness_process
+BOS 我的账户登陆不上了，锁了 EOS\	O O O B-subject I-subject O O O O O O B-action I-action bussiness_process
+BOS 交易密码更改不了怎么办？ EOS\	O B-subject I-subject I-subject I-subject B-action I-action O O O O O O bussiness_process
+BOS 如何开通手机交易，是否收费？ EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O bussiness_process
+BOS 你好，我刚输入账户密码三次错误，账户被锁定，现在怎么办 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O B-action I-action O O O O O O bussiness_process
+BOS 密码错误，输了三次以后给锁定了，今天还能再用吗 EOS\	O B-subject I-subject O O O O O O O O O O B-action I-action O O O O O O O O O bussiness_process
+BOS 问下刚才我的账户输错密码被锁定了 EOS\	O O O O O O O B-subject I-subject O O O O O B-action I-action O bussiness_process
+BOS 我如何再添加建行帐户 EOS\	O O O O O O O B-action I-action I-action I-action bussiness_process
+BOS 好的，我现在海通开的户，转过来 EOS\	O O O O O O O O O O O O O B-action I-action I-action bussiness_process
+BOS 是一个一个单独点开吗 EOS\	O O O O O O O O O O O bussiness_process
+BOS 说是不允许该项操作 EOS\	O O O O O O O O O O bussiness_process
+BOS 我的资金帐号怎么在手机上不能用 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O O O O O bussiness_process
+BOS 账户被锁定怎么办？ EOS\	O B-subject I-subject O B-action I-action O O O O bussiness_process
+BOS 你好  说我身份证信息到期  该怎么弄  我身份证已经重新办过了 EOS\	O O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 转签创业板 怎么操作 EOS\	O O O B-subject I-subject I-subject O O O B-action I-action bussiness_process
+BOS 开户 EOS\	O O O bussiness_process
+BOS 好像是不允许，忘记了再试试 EOS\	O O O O O O O O O O O O O O bussiness_process
+BOS 我以前在上海办理的齐鲁证件  现在不再上海了  提示我我身份证件快到期了怎么办 EOS\	O O O O O B-place I-place O O O O O B-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O bussiness_process
+BOS 你好，我收到消息说更新身份证信息，但是我没看到app怎么修改 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject I-subject O O O O O O O O O B-subject I-subject I-subject O O O O bussiness_process

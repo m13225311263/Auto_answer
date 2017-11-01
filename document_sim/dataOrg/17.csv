@@ -1,0 +1,519 @@
+BOS 可以帮我分析一下祁连山吗 EOS\	O O O O O O O O O O O O O stkcode_trade_operator
+BOS 如何卖出持仓股票 EOS\	O O O O O O O O O stkcode_trade_operator
+BOS 我想交易怎么办 EOS\	O O O B-action I-action O O O stkcode_trade_operator
+BOS 我再手机下载了齐富通，怎么找不到股票交易的地方呢？ EOS\	O O O O O O O O O O O O O O O O O B-action I-action I-action I-action O O O O O stkcode_trade_operator
+BOS 这是股票交易吧，系统用不用也要登陆 EOS\	O O O B-action I-action I-action I-action O O O O O O O O O O O stkcode_trade_operator
+BOS 怎么登陆股票账号 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 这版本怎么找不到账户资金等情况呢？ EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 你好怎么查询资金 EOS\	O O O O O B-action I-action B-subject I-subject stkcode_trade_operator
+BOS 你好，我手机怎么不能交易呢？ EOS\	O O O O O B-subject I-subject O O O O B-action I-action O O stkcode_trade_operator
+BOS 怎么在线交易 EOS\	O O O O B-action I-action I-action stkcode_trade_operator
+BOS 在手机里怎么操作呀？ EOS\	O O B-subject I-subject O O O B-action I-action O O stkcode_trade_operator
+BOS 买卖在哪里操作 EOS\	O B-subject I-subject O O O B-action I-action stkcode_trade_operator
+BOS 请问如何在使用手机炒股 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎能没有交易界面 EOS\	O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 第一次用手机版炒股软件怎么登录 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject O O B-action I-action stkcode_trade_operator
+BOS 我已经开户了，有资金账号了，怎么操作？ EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject O O O O B-action I-action O stkcode_trade_operator
+BOS 为何我的没有交易页面？ EOS\	O O O O O O O B-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 我下载了理财版交易在什么地方呢？ EOS\	O O O O O B-subject I-subject I-subject B-action I-action O O O O O O O stkcode_trade_operator
+BOS 怎样买股票 EOS\	O O O B-action B-subject I-subject stkcode_trade_operator
+BOS 怎么登陆交易系统 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O O O stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 不能登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 我是新手、怎么登陆啊 EOS\	O O O B-subject I-subject O O O B-action I-action O stkcode_trade_operator
+BOS 怎么登陆我自己的股票账户 EOS\	O O O B-action I-action O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 安卓手机中泰软件连接发一个 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O stkcode_trade_operator
+BOS 朋友下载给我要App咋弄 EOS\	O O O O O O O O B-subject I-subject I-subject O O stkcode_trade_operator
+BOS 能发个证券交易下载地址吗？ EOS\	O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O stkcode_trade_operator
+BOS 重新下载安装，只能查询资金，还是不能进行交易。 EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 交易怎样更新？ EOS\	O B-subject I-subject O O B-action I-action O stkcode_trade_operator
+BOS 请问，我现在是用的中泰齐富通是最新版吗？ EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject O B-object I-object I-object O O stkcode_trade_operator
+BOS 登陆在里 EOS\	O B-action I-action O O stkcode_trade_operator
+BOS 您好，为什么专业版下载不了 EOS\	O O O O O O O B-subject I-subject I-subject B-action I-action O O stkcode_trade_operator
+BOS 注册成功，但是找不到登陆口 EOS\	O B-action I-action O O O O O O O O B-action I-action I-action stkcode_trade_operator
+BOS 软件网址是什么 EOS\	O B-subject I-subject I-subject I-subject O O O stkcode_trade_operator
+BOS 你好，这个怎么用原来的账号登陆 EOS\	O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 为啥使用手机不能进入我的账户呢？ EOS\	O O O O O O O O O B-action I-action O O B-subject I-subject O O stkcode_trade_operator
+BOS 我换手机想下载齐富通 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject stkcode_trade_operator
+BOS 为什么我手机号码验证了还是不能登录 EOS\	O O O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 怎样买股 EOS\	O O O B-action B-subject stkcode_trade_operator
+BOS 下了专业版不知怎么进入买卖腮嘌 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject stkcode_trade_operator
+BOS 新软件 怎么不好进行股票交易啊 EOS\	O O O O O O O O O O O B-subject I-subject B-action I-action O stkcode_trade_operator
+BOS 我首次使用，该如何登陆 EOS\	O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 目前的软件怎么找不到交易入口 EOS\	O O O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 目前的软件怎么找不到交易入口 EOS\	O O O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 你好，登录时是用什么账号？ EOS\	O O O O B-action I-action O O O O O O O O stkcode_trade_operator
+BOS 首次为什么登陆不上帐号 EOS\	O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 买卖股票可以用此软件吗？ EOS\	O B-action I-action B-subject I-subject O O O O O O O O stkcode_trade_operator
+BOS 工商电话银行开通三方存管要输入券商代码，是多少号，刚才我输了交易密码怎么帐号锁了，明天能自动解锁吗 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O B-object I-object I-object I-object O O O O O O O O O stkcode_trade_operator
+BOS 我不会用手机炒股软件，下了齐富通，请你教我如何用？ EOS\	O O O O O O O O O O O O O O B-subject I-subject I-subject O O O O O B-object I-object I-object O stkcode_trade_operator
+BOS 老齐鲁证券用户 EOS\	O O O O O O O O stkcode_trade_operator
+BOS 为什么我买不了股票 EOS\	O O O O O B-action O O B-subject I-subject stkcode_trade_operator
+BOS 你好齐鲁证券交易页面换了吗？ EOS\	O O O B-subject I-subject I-subject I-subject B-object I-object I-object I-object O O O O stkcode_trade_operator
+BOS 让激活为什么是手机不是资金帐户 EOS\	O O B-action I-action O O O O B-subject I-subject O O B-object I-object I-object I-object stkcode_trade_operator
+BOS Ruhegoumai EOS\	O O O O O B-action I-action I-action I-action I-action I-action stkcode_trade_operator
+BOS 这个软件支持股票交易吗？ EOS\	O O O O O O O B-subject I-subject B-action I-action O O stkcode_trade_operator
+BOS 股票使用那个网址 EOS\	O B-subject I-subject O O O O O O stkcode_trade_operator
+BOS 怎么登录交易账户 EOS\	O O O B-action I-action O O O O stkcode_trade_operator
+BOS 我装的这个股票交易没有啊 EOS\	O O O O O O B-subject I-subject B-action I-action O O O stkcode_trade_operator
+BOS 怎么沒有股票交易的！ EOS\	O O O O O B-subject I-subject B-action I-action O O stkcode_trade_operator
+BOS 用中泰齐富通软件能买卖股票吗？如何操作？谢谢 EOS\	O O O O O O O O O O B-action I-action B-subject I-subject O O O O O O O O O stkcode_trade_operator
+BOS 这个软件怎么交易股票 EOS\	O O O O O O O B-action I-action B-subject I-subject stkcode_trade_operator
+BOS 请发一个齐鲁股票的交易软件好吗 EOS\	O O O O O B-subject I-subject I-subject I-subject O B-object I-object I-object I-object O O stkcode_trade_operator
+BOS 怎么进交易系统手机班版？ EOS\	O O O O B-subject I-subject I-subject I-subject B-object I-object I-object I-object O stkcode_trade_operator
+BOS 我用什么软件交易 EOS\	O O O O O B-subject I-subject B-action I-action stkcode_trade_operator
+BOS 找不到专业版？ EOS\	O O O O B-subject I-subject I-subject O stkcode_trade_operator
+BOS 小米装那个版地？ EOS\	O B-subject I-subject O O O B-object I-object O stkcode_trade_operator
+BOS 你好我想问一下，我开通了账户、想要用手机炒股票还需要开户吗 EOS\	O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action O stkcode_trade_operator
+BOS 炒股的软件是这个吗？ EOS\	O B-action I-action O B-subject I-subject O O O O O stkcode_trade_operator
+BOS 怎么交易啊 EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 啥提示也没有， EOS\	O O O O O O O O stkcode_trade_operator
+BOS 怎么买 EOS\	O O O B-action stkcode_trade_operator
+BOS 用手机登陆？ EOS\	O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么操作交易 EOS\	O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 怎么没有交易信息？ EOS\	O O O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 找不到登陆帐号的地方 EOS\	O O O O B-action I-action I-action I-action O O O stkcode_trade_operator
+BOS 你好！請你告訴我，我怎麼交易進入市場我的資金號不知道往哪裡蘇。 EOS\	O O O O O O O O O O O O O B-action I-action O O O O O O B-subject I-subject I-subject O O O O O O O O stkcode_trade_operator
+BOS 安卓系统手机怎么下载你们中泰炒股软件 EOS\	O O O O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎样在手机上操作股票 EOS\	O O O O O O O B-action I-action B-subject I-subject stkcode_trade_operator
+BOS 怎么进账户啊 EOS\	O O O B-action B-subject I-subject O stkcode_trade_operator
+BOS 你好,我刚开户'手机已收到账号/应该怎么买股素 EOS\	O O O O O O O O O O O O O O O O O O O O O B-action B-subject I-subject stkcode_trade_operator
+BOS 你好，我想重新再下载一下手机专用版的交易软件。怎么下载 EOS\	O O O O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 如何登录我的资金账户 EOS\	O O O B-action I-action O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么登陆账户呢 EOS\	O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 请问我要到委托交易那个界面，怎么操作？ EOS\	O O O O O O B-subject I-subject I-subject I-subject O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 我想用手机炒股怎么下载 EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action I-action stkcode_trade_operator
+BOS 为啥开始用齐鲁证劵客户端能登录帐号，在中泰的客户端就不能登录呢 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 刚下载好你们的股票软件，但找不到交易的界面。 EOS\	O O O O O O O O O O O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 你好，怎样进入股票交易界面 EOS\	O O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 这个软件可以股票交易吗？ EOS\	O O O O O O O B-action I-action I-action I-action O O stkcode_trade_operator
+BOS 如何进行常规的股票交易 EOS\	O O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 你好，为什么开完户了，不能登录 EOS\	O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 登陆页面在哪 EOS\	O B-action I-action O O O O stkcode_trade_operator
+BOS 登陆页面在哪 EOS\	O B-action I-action O O O O stkcode_trade_operator
+BOS 你好：如何在网上下载该软件？ EOS\	O O O O O O O O O B-action I-action O B-subject I-subject O stkcode_trade_operator
+BOS 交易如何登录？ EOS\	O B-action I-action O O B-action I-action O stkcode_trade_operator
+BOS 怎么用 EOS\	O O O O stkcode_trade_operator
+BOS 你好我下载的齐富通找不到交易怎么回事 EOS\	O O O O O O O B-subject I-subject I-subject O O O B-action I-action O O O O stkcode_trade_operator
+BOS 我怎么买入 EOS\	O O O O B-action I-action stkcode_trade_operator
+BOS 我手机怎么开通交易功能 EOS\	O O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 手机怎么买股票 EOS\	O O O O O B-action I-action I-action stkcode_trade_operator
+BOS 这个里面找不到交易呢 EOS\	O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 专业版怎么下载 EOS\	O B-subject I-subject I-subject O O B-action I-action stkcode_trade_operator
+BOS 能看见所有数据信息，就是无法登陆交易。 EOS\	O O O O O O O O O O O O O O O B-action I-action B-action I-action O stkcode_trade_operator
+BOS 换手机怎么下载本软件 EOS\	O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 交易 EOS\	O O O stkcode_trade_operator
+BOS 交易 EOS\	O O O stkcode_trade_operator
+BOS 如何登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 齐富通能转入转出？ EOS\	O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 怎么在齐富通上股票交易 EOS\	O O O O O O O O B-subject I-subject B-action I-action stkcode_trade_operator
+BOS 交易在哪 EOS\	O B-action I-action O O stkcode_trade_operator
+BOS 无法登陆股票帐号 EOS\	O O O B-action I-action O O O O stkcode_trade_operator
+BOS 这软件怎么交易不了 EOS\	O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 这软件怎么交易不了 EOS\	O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 这软件怎么交易不了 EOS\	O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 这软件怎么交易不了 EOS\	O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 这软件怎么交易不了 EOS\	O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 我以前的手机软件现在更新了，怎么才能进软件 EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action I-action stkcode_trade_operator
+BOS 齐富通不能交易股票？ EOS\	O O O O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 我的手机怎样才能下载齐富通专业版 EOS\	O O O O O O O O O B-action I-action O O O O O O stkcode_trade_operator
+BOS 找不到在哪登陆 EOS\	O O O O O O B-action I-action stkcode_trade_operator
+BOS 怎么交易 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 在那登陆呀 EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 在那登陆呀 EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 如何登录交易 EOS\	O O O B-action I-action B-action I-action stkcode_trade_operator
+BOS 哪个软件能炒股 EOS\	O O O O O O B-action I-action stkcode_trade_operator
+BOS 交易模块登陆 ？ EOS\	O O O O O B-action I-action O O stkcode_trade_operator
+BOS 怎么下载股票交易系统 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么进交易系统呢 EOS\	O O O B-action B-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 现在想通过手机炒股怎么弄 EOS\	O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 登录后怎么查看自己股票情况 EOS\	O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 这个软件不可以查询股票账户和交易吗 EOS\	O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O B-subject I-subject O stkcode_trade_operator
+BOS 你好，请问怎么登陆我的账户啊 EOS\	O O O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 交易在哪 EOS\	O B-action I-action O O stkcode_trade_operator
+BOS 首页股票交易在哪 EOS\	O O O B-action I-action I-action I-action O O stkcode_trade_operator
+BOS 交易在哪 EOS\	O B-action I-action O O stkcode_trade_operator
+BOS 这个软件可以股票交易吗 EOS\	O O O O O O O B-subject I-subject B-action I-action O stkcode_trade_operator
+BOS 你好 怎么开通手机交易 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 下中泰齐富通就可以交易了吗 EOS\	O O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action O O stkcode_trade_operator
+BOS 下中泰齐富通就可以交易了吗 EOS\	O O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action O O stkcode_trade_operator
+BOS 请问一下，我换了新手机，下载完中泰齐富通，找不到登陆 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我要登陆手机交易 EOS\	O O O B-action I-action B-subject I-subject B-action I-action stkcode_trade_operator
+BOS 新板的软件怎么登陆交易的？ EOS\	O O O O O O O O B-action I-action I-action I-action O O stkcode_trade_operator
+BOS 齐富通手机怎么登陆 EOS\	O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 新版的软件怎么交易的？ EOS\	O B-subject I-subject I-subject I-subject I-subject O O B-action I-action O O stkcode_trade_operator
+BOS 怎样进交易界面 EOS\	O O O B-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 我原来是专业版，为何现在理财版没法交易了呢 EOS\	O O O O O B-subject I-subject I-subject O O O O O B-subject I-subject I-subject O O B-action I-action O O stkcode_trade_operator
+BOS 还是不行，我下载的齐福通，界面和你说的不一样 EOS\	O O O O O O O B-action I-action O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 怎股票交易啊 EOS\	O O B-subject I-subject B-action I-action O stkcode_trade_operator
+BOS 我这个不知炒股的那个软件 EOS\	O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 股票帐号如何登录 EOS\	O O O O O O O B-action I-action stkcode_trade_operator
+BOS 左下角只有理财两个字 EOS\	O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 在哪里下载按装软件 EOS\	O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 我的持仓在哪里找 EOS\	O O O B-subject I-subject O O O O stkcode_trade_operator
+BOS 怎么登陆交易窗口 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 专业版怎么下 EOS\	O B-subject I-subject I-subject O O B-action stkcode_trade_operator
+BOS 怎么交易 EOS\	O O O B-subject I-subject stkcode_trade_operator
+BOS 股票交易在哪登录 EOS\	O O O O O O O B-action I-action stkcode_trade_operator
+BOS 怎么打开交易？ EOS\	O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 这个软件看不到持仓 EOS\	O O O O O O O O B-subject I-subject stkcode_trade_operator
+BOS 电脑用户转手机操作，下载齐福通后如何登陆 EOS\	O O O O O O O O O O O O O B-subject I-subject I-subject O O O B-action I-action stkcode_trade_operator
+BOS 您好 我还是不能登录自己账户？ EOS\	O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 怎么到股票的操作界面 EOS\	O O O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 专业版在哪里下载啊 EOS\	O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 您好，怎么操作才能登陆啊？ EOS\	O O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 我原来的苹果系统登录账号，怎么换了安卓系统安装咱们的中泰软件不能登陆 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我手机上已下载，怎样登入？ EOS\	O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 齐富通可以网上交易吗 EOS\	O B-subject I-subject I-subject O O O O B-action I-action O stkcode_trade_operator
+BOS 怎样参与股票交易 EOS\	O O O O O B-subject I-subject B-action I-action stkcode_trade_operator
+BOS 账号怎么登陆啊？ EOS\	O O O O O B-action I-action O O stkcode_trade_operator
+BOS 我是齐鲁证券的客户，我想在手机上看，怎么用？ EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action I-action O stkcode_trade_operator
+BOS 换手机后怎样登陆原账号交易 EOS\	O O O O O O O B-action I-action O O O B-action I-action stkcode_trade_operator
+BOS 换手机后怎样登陆原账号交易 EOS\	O O O O O O O B-action I-action O O O B-action I-action stkcode_trade_operator
+BOS 我的资金账号怎么登陆 EOS\	O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我换了新手机，不知道怎么安装帐号进去， EOS\	O O O O O O O O O O O O O B-action I-action I-action I-action O O O stkcode_trade_operator
+BOS 怎么登录账号 EOS\	O O O B-action I-action O O stkcode_trade_operator
+BOS 如何交易 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 如何交易 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 怎么下载交易 EOS\	O O O O O B-action I-action stkcode_trade_operator
+BOS 这个版本怎么买卖？ EOS\	O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 股票这个软件可以买卖吗？ EOS\	O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 账号怎么登陆？ EOS\	O O O O O B-action I-action O stkcode_trade_operator
+BOS 这个软件怎么用 EOS\	O O O O O B-action I-action I-action stkcode_trade_operator
+BOS 那要下载那个版本？ EOS\	O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 怎么登录不上了 EOS\	O O O B-action I-action O O O stkcode_trade_operator
+BOS 怎么登录不上了 EOS\	O O O B-action I-action O O O stkcode_trade_operator
+BOS 不能交易 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 手机升级后重新下载软件找不到股票交易登录? EOS\	O O O O O O O O O O O O O O O O O B-action I-action B-action I-action O stkcode_trade_operator
+BOS 你好，我以前用的掌e通，请问现在下载中泰的软件后，再怎样把我以前的账户转过来 EOS\	O O O O O O O O O O O O O O O O O B-action I-action O O O O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 为何手机安装程序后无法交易 EOS\	O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 掌e通的开户密码？ EOS\	O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 手机如何登陆 EOS\	O O O O O B-action I-action stkcode_trade_operator
+BOS 交易模块在哪里 EOS\	O B-subject I-subject I-subject I-subject O O O stkcode_trade_operator
+BOS 你好，怎样进入交易 EOS\	O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 根本没有登录的页面 EOS\	O O O O O B-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 请问我过去用的是齐鲁的app，这个能一样登陆吗 EOS\	O O O O O O O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 你能不能把咱手机版的炒股这软件儿给我发过来 EOS\	O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 在哪看我的持仓 EOS\	O O O O O O B-subject I-subject stkcode_trade_operator
+BOS 怎么登入呀 EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 刚换了个手机账户号不知道在哪里登录了 EOS\	O O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么没有交易系统 EOS\	O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 普通交易怎么输入 EOS\	O O O B-action I-action O O O O stkcode_trade_operator
+BOS 垃圾软件就是打不开交易 EOS\	O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我的帐户为什么不能交易了 EOS\	O O O B-subject I-subject O O O O O B-action I-action O stkcode_trade_operator
+BOS 这个程序和之前不一样，交易不了！ EOS\	O O O O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 点什么才开通 EOS\	O O O O O B-action I-action stkcode_trade_operator
+BOS 怎么登陆，以前我有齐鲁证券的号 EOS\	O O O B-action I-action O O O O O O O O O O O stkcode_trade_operator
+BOS 如何登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 这个不能登陆股票的账号吗 EOS\	O O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 如何交易 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 我怎么在手机上操股票交易 EOS\	O O O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 新下的软件不知道怎么进行交易 EOS\	O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 找不到交易模块 EOS\	O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 如何交易？ EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 可以在这个软件上买卖股票吗？ EOS\	O O O O O O O O O B-action I-action I-action I-action I-action O stkcode_trade_operator
+BOS 请问怎样登录股票账户 EOS\	O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 太慢了，根本没法用啊 EOS\	O O O O O O O O O B-action O stkcode_trade_operator
+BOS 我怎么登陆 EOS\	O O O O B-action I-action stkcode_trade_operator
+BOS 怎么进入交易界面 EOS\	O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 手机证券交易介面进不去最近升级后 EOS\	O O O O O B-subject I-subject I-subject I-subject O O O O O O O O stkcode_trade_operator
+BOS 为啥没有股票账户登录 EOS\	O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 怎祥开通中泰齐富通 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 请告诉我交易登录软件下载 EOS\	O O O O O B-subject I-subject I-subject I-subject I-subject I-subject B-action I-action stkcode_trade_operator
+BOS 我的帐号应该从哪里登陆，谢谢 EOS\	O O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 你好我要在手机上做炒股票下什么软件 EOS\	O O O O O O O O O O B-action I-action I-action B-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么下载啊 EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 怎么没有交易 EOS\	O O O O O B-action I-action stkcode_trade_operator
+BOS 手机登陆在哪里 EOS\	O O O B-action I-action O O O stkcode_trade_operator
+BOS 就是查看持仓的要用手机登录，还有密码，这个不知道 EOS\	O O O O O O O O O O O O B-action I-action O O O O O O O O O O O stkcode_trade_operator
+BOS 请问，我的掌e通不能用后，现在我下载了齐富通，如何转过来？ EOS\	O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject O O O B-action I-action I-action O stkcode_trade_operator
+BOS 你能给我下截吗？ EOS\	O O O O O B-action I-action O O stkcode_trade_operator
+BOS 中泰怎样登录，查下交割单 EOS\	O O O O O B-action I-action O B-action O B-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么下载手机版的 EOS\	O O O B-action I-action B-subject I-subject I-subject O stkcode_trade_operator
+BOS 怎么找中泰交易板 EOS\	O O O O O O B-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么登不上 EOS\	O O O B-action O O stkcode_trade_operator
+BOS 我想用手机交易，登陆怎么弄 EOS\	O O O O B-action I-action I-action I-action O B-action I-action O O O stkcode_trade_operator
+BOS 我下中泰奇富通，能发个 EOS\	O O B-action B-subject I-subject I-subject I-subject I-subject O O O O stkcode_trade_operator
+BOS 怎样查询我的资金账户？我输的卡号，不对 EOS\	O O O B-action I-action O O B-subject I-subject I-subject I-subject O O O O O O O O O stkcode_trade_operator
+BOS 如何在该软件买卖股票 EOS\	O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 请问我在哪里登录账户 EOS\	O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 股票交易怎么进 EOS\	O B-action I-action I-action I-action O O O stkcode_trade_operator
+BOS 请问下载的齐富通没有登录页？ EOS\	O O O O O O B-subject I-subject I-subject O O B-action I-action O O stkcode_trade_operator
+BOS 从哪里登呀？ EOS\	O O O O B-action O O stkcode_trade_operator
+BOS 换了个手机，下载好了中泰齐富通，怎样登录交易行情 EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 炒股怎么登陆？ EOS\	O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么买股票 EOS\	O O O B-action O O stkcode_trade_operator
+BOS 咋下载中泰齐富通 EOS\	O O B-action I-action B-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 可以在线购买股票吗 EOS\	O O O B-action I-action I-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 升级后，无法登录交易 EOS\	O O O O O O O B-action I-action B-action I-action stkcode_trade_operator
+BOS 如何登入股票交易 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 股票怎么买卖？ EOS\	O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 我换手机了，刚下载上的从哪登陆股票账号 EOS\	O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 我还刚才哪位你让我去哪登陆股票账户 EOS\	O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 中泰证券股票可以用手机交易吗 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么买股票 EOS\	O O O B-action B-subject I-subject stkcode_trade_operator
+BOS 近期软件老是自动终止，怎么了 EOS\	O O O B-subject I-subject O O B-action I-action I-action I-action O O O O stkcode_trade_operator
+BOS 如何登陆呢 EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 换手机了我想交易的话:？ EOS\	O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 怎么我进去自己的户口这么难呢 EOS\	O O O O B-action I-action B-subject I-subject I-subject I-subject I-subject O O O O stkcode_trade_operator
+BOS 我已是客户了，怎么这么不方便去我自己帐号 EOS\	O O O O O O O O O O O O O O O B-action O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 我以前帐号怎么进 EOS\	O O O O B-subject I-subject O O B-action stkcode_trade_operator
+BOS 怎么中泰齐富通手机软件老是，显示停止运行 EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 怎么登陆不了账户 EOS\	O O O B-action I-action O O O O stkcode_trade_operator
+BOS 我换个手机重新下载中泰齐富通怎么登录不上呢 EOS\	O O O O O O O O O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 股票交易密码输入三次错误，被锁了 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 新安装，无法进入买卖界面 EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么交易 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 为什么今天一点买入或卖出就点不动 EOS\	O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 为何这个齐富通软件不能交易股票 EOS\	O O O O O O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 这个是理财版的 EOS\	O O O O B-subject I-subject I-subject O stkcode_trade_operator
+BOS 怎么交易不了，点击买卖股票就卡死了 EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O B-action I-action O stkcode_trade_operator
+BOS 今天点买入或卖出都点不动 EOS\	O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 交易软件叫什么 EOS\	O B-subject I-subject I-subject I-subject B-subject I-subject I-subject stkcode_trade_operator
+BOS 我的界面怎么点击没反应呀 EOS\	O O O O O O O B-action I-action I-action I-action I-action O stkcode_trade_operator
+BOS 我的界面怎么点击没反应呀 EOS\	O O O O O O O B-action I-action I-action I-action I-action O stkcode_trade_operator
+BOS 我的界面怎么点击没反应呀 EOS\	O O O O O O O B-action I-action I-action I-action I-action O stkcode_trade_operator
+BOS 我的界面怎么点击没反应呀 EOS\	O O O O O O O B-action I-action I-action I-action I-action O stkcode_trade_operator
+BOS 我的界面怎么点击没反应呀 EOS\	O O O O O O O B-action I-action I-action I-action I-action O stkcode_trade_operator
+BOS 我已经开通股票账户了啊 EOS\	O O O O B-action I-action I-action I-action I-action I-action O O stkcode_trade_operator
+BOS 请问中泰证券手机炒股客户端是什么%3F_%3F EOS\	O O O O O O O B-action I-action I-action I-action B-subject I-subject I-subject O O O O O O O O O O stkcode_trade_operator
+BOS 从哪里输资金帐号 EOS\	O O O O O B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 怎么登录股票账户 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 不能交易吗，这个版 EOS\	O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 您好：我下载的怎么看不到我的股票呢 EOS\	O O O O O O O O O O O O O O O B-subject I-subject O stkcode_trade_operator
+BOS 这是炒股软件？ EOS\	O O O B-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 这个软件可以买卖股票吗 EOS\	O O O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 怎么卖出 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 怎么在这个软件上进行股票交易？ EOS\	O O O O O O O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 我的软件怎么不能买入 EOS\	O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 怎么买入怎么卖出呢 EOS\	O O O B-action I-action O O B-action I-action O stkcode_trade_operator
+BOS 已开户，登陆不了 EOS\	O O O O O B-action I-action O O stkcode_trade_operator
+BOS 股票在哪登录交易？ EOS\	O O O O O B-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 我怎么不会操作了 EOS\	O O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么买不了股票呢 EOS\	O O O B-action O O B-subject I-subject O stkcode_trade_operator
+BOS 后来换了新手机。我现在要交易股票 EOS\	O O O O O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 怎么登陆个人中心 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 现在新版本我在哪里交易啊 EOS\	O O O B-subject I-subject I-subject O O O O B-action I-action O stkcode_trade_operator
+BOS 把中泰证券的手机安卓版交易客户端网址发我下 EOS\	O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 你好，中泰证劵使用什么炒股软件，（通达信还是同花顺）？我不懂，谢谢给予答复。祝你们端午节快乐！ EOS\	O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 手机客户端无法进入登录页面，是怎么回事？ EOS\	O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O O stkcode_trade_operator
+BOS 怎样进入我的胀号 EOS\	O O O O O O O B-subject I-subject stkcode_trade_operator
+BOS 哪我怎么交易呢 EOS\	O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么进行股票交易 EOS\	O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 从APP上怎么买 EOS\	O O O O O O O O B-action stkcode_trade_operator
+BOS 交易咋么找不到 EOS\	O B-action I-action O O O O O stkcode_trade_operator
+BOS 咋登录卖股票 EOS\	O O B-action I-action B-action I-action I-action stkcode_trade_operator
+BOS 我怎么注册不上去 EOS\	O O O O B-action I-action O O O stkcode_trade_operator
+BOS 不知道在哪登录股票账户 EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 刚下载的不会用 EOS\	O O O O O O O O stkcode_trade_operator
+BOS 我的资产及余额在哪里体现%3F EOS\	O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O O stkcode_trade_operator
+BOS 交易！重新下载的软件怎么有进不去啦！ EOS\	O O O O O O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action I-action O O stkcode_trade_operator
+BOS 你好，请问中泰证卷在哪里登录股票账号 EOS\	O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 我不小心珊除了原来的手机扳炒股软件，又重新下了一个齐富通软件，还需重新登陆吗？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 这个软件不支持股票交易问 EOS\	O O O O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 我换了新手机，登不上交易是怎么回事 EOS\	O O O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 股票怎么交易，.怎么进入股票帐户 EOS\	O B-subject I-subject O O B-action I-action O O O O O O O O O O stkcode_trade_operator
+BOS 我怎么找不到交易 EOS\	O O O O O O O B-action I-action stkcode_trade_operator
+BOS 这个软件能登录股票账户吗？ EOS\	O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O stkcode_trade_operator
+BOS 我是中泰证券的用户，手机怎么登入？ EOS\	O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 买卖通的股票买卖怎么操作 EOS\	O O O O O B-action I-action I-action I-action O O O O stkcode_trade_operator
+BOS 我原来开过这个，齐鲁证券的账户，但是没有手机客户端，现在怎么吧账户转移到手机客户端上 EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject B-action I-action O B-object I-object I-object I-object I-object O stkcode_trade_operator
+BOS 请问换手机以后怎么以前的交易系统登录不上了 EOS\	O O O O O O O O O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 已有中泰账户怎么登录 EOS\	O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 账户怎么登陆啊 EOS\	O O O O O B-action I-action O stkcode_trade_operator
+BOS 帐号密码界面在那儿 EOS\	O B-subject I-subject I-subject I-subject I-subject I-subject O O O stkcode_trade_operator
+BOS 我换手机了，以前手机炒股，现在找不到在哪交易了 EOS\	O O O O O O O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 在这个齐富通上没法用吗 EOS\	O O O O B-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 我已是中泰齐富正常客户。在工作岗位用手机操作。糸统提示首次登录必须输入XZ发送至95538。比较烦。据该公司徐饮勇说:每次登录只输密码知验证码即可。是真的吗？ EOS\	O O O O O O O O O O O O O O O O O O O B-subject I-subject O O O O O O O O O B-action I-action O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 我开的账户，进不去了，是怎么回事？ EOS\	O O O O B-subject I-subject O B-action I-action I-action O O O O O O O O stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 咋无法登录了 EOS\	O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么登录账号？ EOS\	O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 请问一下怎么交易 EOS\	O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我开通了中泰政券用手机可以直接交易不 EOS\	O O O O O O O O O O B-subject I-subject O O O O B-action I-action O stkcode_trade_operator
+BOS 安卓手机系统怎么下载中泰 EOS\	O O O O O O O O O B-action I-action B-subject I-subject stkcode_trade_operator
+BOS 您好！升级后手机没法上线？怎么会事？ EOS\	O O O O O O O B-subject I-subject O O B-action I-action O O O O O O stkcode_trade_operator
+BOS 我换手机了，怎么抄不了股了？ EOS\	O O O O O O O O O B-action I-action I-action I-action O O stkcode_trade_operator
+BOS 我的股票在什么交易 EOS\	O O O B-subject I-subject O O O B-action I-action stkcode_trade_operator
+BOS 换手机怎么上不去账号了 EOS\	O O O O O O B-action I-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 麻烦问下，在哪交易呀 EOS\	O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么下载 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 我怎么登不上 EOS\	O O O O B-action I-action I-action stkcode_trade_operator
+BOS 下载这个股票软件，从哪里下载？谢谢 EOS\	O O O O O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 您好，我已经用手机注册并登录。但是没有页面让我输入证券帐号，怎么回事？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O O O O stkcode_trade_operator
+BOS 如何登录并进行股票交易 EOS\	O O O B-action I-action O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 如何登录并进行股票交易 EOS\	O O O B-action I-action O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 不能交 EOS\	O O O B-action stkcode_trade_operator
+BOS 我有资金账户在哪里登录？ EOS\	O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 手机怎么不能登录掌易通了？ EOS\	O O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 手机怎么不能登录掌易通了？ EOS\	O O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 手机怎么不能登录掌易通了？ EOS\	O O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 手机怎么不能登录掌易通了？ EOS\	O O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 新下载了齐鲁通，找不到交易 EOS\	O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我开的中泰证卷怎么登？ EOS\	O O O O B-subject I-subject I-subject I-subject O O B-action O stkcode_trade_operator
+BOS 您好！为什么现在登录不上齐富通客户端？ EOS\	O O O O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 我现在这个版本怎么登不了 EOS\	O O O O O O O O O O B-action O O stkcode_trade_operator
+BOS 我怎么登入帐号买卖 EOS\	O O O O B-action I-action B-action I-action I-action I-action stkcode_trade_operator
+BOS 我已经开了户，怎么在手机上开户 EOS\	O O O O O O O O O O O B-subject I-subject O B-action I-action stkcode_trade_operator
+BOS 你好，我刚下载的中泰齐富通软件，理财版的，不能进行交易？ EOS\	O O O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 我刚下载的软件，怎么登陆不上啊？ EOS\	O O O O O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 以前版本没有暂停使用，安装软件找不到了，怎么能获得安装软件？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 以前版本没有暂停使用，安装软件找不到了，怎么能获得安装软件？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O stkcode_trade_operator
+BOS 我原来的是齐鲁证券，怎登陆呀 EOS\	O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 用齐富通可以在手机上交易股票吗？ EOS\	O O B-subject I-subject I-subject O O O O O O B-action I-action I-action I-action O O stkcode_trade_operator
+BOS 怎么下载股票交易版本 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 我怎么登不上股票帐户 EOS\	O O O O B-action I-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 如何进入交易界面进行股票交易 EOS\	O O O O O B-subject I-subject I-subject I-subject O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 我换了个手机，重新下载了中泰齐富通，怎么找不到登录资金账号呢？ EOS\	O O O O O O O O O O B-action I-action O B-subject I-subject I-subject I-subject I-subject O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O stkcode_trade_operator
+BOS 我新安装了融易汇，现在登录不了，怎么办？ EOS\	O O O O O O O O O O O O B-action I-action O O O O O O O stkcode_trade_operator
+BOS 我原来在齐鲁证券开户的账户怎么登录不到系统里？ EOS\	O O O O O O O O O O O O O O O O B-action I-action O O O O O O stkcode_trade_operator
+BOS 买股票怎样操作 EOS\	O B-action I-action I-action O O O O stkcode_trade_operator
+BOS 你好，我在电脑上的帐号，在手机上怎么登不上呢？ EOS\	O O O O O O O O O O O O O O O O O O O B-action I-action I-action O O stkcode_trade_operator
+BOS 我手机登录不了我的账号 EOS\	O O O O B-action I-action O O O O O O stkcode_trade_operator
+BOS 手机怎么下载交易软件 EOS\	O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 交易帐户打不开 EOS\	O B-subject I-subject I-subject I-subject B-action I-action I-action stkcode_trade_operator
+BOS 怎么登陆？ EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 为什么打不开交易？ EOS\	O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 我的手机页面交易无法连接呢 EOS\	O O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 换了手机，怎么上不去啊！请问？谢谢 EOS\	O B-subject I-subject I-subject I-subject O O O B-action I-action I-action O O O O O O O stkcode_trade_operator
+BOS 怎样使用软件 EOS\	O O O B-action I-action O O stkcode_trade_operator
+BOS 不能买卖股票吗 EOS\	O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 手机版不能登录 EOS\	O O O O O O B-action I-action stkcode_trade_operator
+BOS 你好系统我怎么进不去呢 EOS\	O O O B-subject I-subject O O O B-action I-action I-action O stkcode_trade_operator
+BOS 你好，我重装齐富通怎么登陆不上 EOS\	O O O O O O O B-subject I-subject I-subject O O B-action I-action O O stkcode_trade_operator
+BOS 现在这个版本不能炒股了吗 EOS\	O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 怎样登陆？ EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 炒股票软件怎么进去 EOS\	O B-subject I-subject I-subject I-subject I-subject O O B-action I-action stkcode_trade_operator
+BOS 我下载的中泰齐富通，为何没有交易项%3F EOS\	O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O B-action I-action I-action O O O stkcode_trade_operator
+BOS 如和交易 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 怎样下软件 EOS\	O O O B-action I-action I-action stkcode_trade_operator
+BOS 怎么登 EOS\	O O O B-action stkcode_trade_operator
+BOS 我下载了你们的新软件怎么上不去！说账号不对 EOS\	O O B-action I-action O O O O B-subject I-subject I-subject O O B-action I-action I-action O O O O O O stkcode_trade_operator
+BOS 这个软件从哪登陆资金后台 EOS\	O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 我想问一下，我想用手机炒股，请问一下能不能用原来在电脑上炒股的账号 EOS\	O O O O O O O O O O O O B-action I-action O O O O O O O O O O O O O O O O O O B-subject I-subject stkcode_trade_operator
+BOS 手机怎么才能查询到我的oTC产品%3F谢谢 EOS\	O O O O O O O B-action I-action O O O B-subject I-subject I-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 我要交易，怎么上不了 EOS\	O O O B-action I-action O O O O O O stkcode_trade_operator
+BOS 但不知如何进行买卖 EOS\	O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我已经开户了，怎么还登录不了 EOS\	O O O O O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 齐福通是分交易版和理财版是吗？ EOS\	O B-subject I-subject I-subject O O B-object I-object I-object O B-object I-object I-object O O O stkcode_trade_operator
+BOS 我怎么登录证券？不会操作 EOS\	O O O O B-action I-action B-subject I-subject O O O O O stkcode_trade_operator
+BOS 我问交易问题。 EOS\	O O O B-action I-action O O O stkcode_trade_operator
+BOS 登录不上怎么办，？ EOS\	O B-action I-action O O O O O O O stkcode_trade_operator
+BOS 请问股票怎么没法交易 EOS\	O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 为什么我就进不去 EOS\	O O O O O O B-action I-action I-action stkcode_trade_operator
+BOS 软件怎么没见有股票交易 EOS\	O O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 打不ke EOS\	O O O O O stkcode_trade_operator
+BOS 换了新版，怎样使用 EOS\	O O O B-subject I-subject O O O B-action I-action stkcode_trade_operator
+BOS 我更换手机下载软件怎么没帐户、的信息？ EOS\	O O O O O O B-action I-action B-subject I-subject O O B-object I-object I-object I-object I-object I-object I-object O stkcode_trade_operator
+BOS 还是理财版!愁死了! EOS\	O O O B-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 为什么登陆不上去 EOS\	O O O O B-action I-action O O O stkcode_trade_operator
+BOS 怎么登录交易 EOS\	O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 我刚下载的齐富通，股票交易从哪里登入 EOS\	O O O O O O B-subject I-subject I-subject O B-action I-action I-action I-action O O O O O stkcode_trade_operator
+BOS 如何买入 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 我是在同花顺上炒股的，开的中泰证券，怎么在这上面登陆 EOS\	O O O O O O O O B-subject I-subject O O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 怎么操作股票啊 EOS\	O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 本软件能操作股票吗 EOS\	O O O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 股票账户怎么进啊，只有理财登陆啊 EOS\	O B-subject I-subject I-subject I-subject O O B-action O O O O O O O O O stkcode_trade_operator
+BOS 无法登陆 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 怎么下载的这个没有怎么登录啊？我下载错了吗 EOS\	O O O B-action I-action O O O O O O O B-action I-action O O O O O O O O stkcode_trade_operator
+BOS 我在电脑上的齐鲁证劵可以直接登陆 怎么在手机上登陆不上 EOS\	O O O O O O O O O O O O O O O B-action I-action O O O O O O O O O O O stkcode_trade_operator
+BOS 如何登录资金帐号 EOS\	O O O B-action I-action B-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 我重新下载的齐富通没发法用了 EOS\	O O O O B-action I-action O B-subject I-subject I-subject O O O O O stkcode_trade_operator
+BOS 软件升级后怎么不能用资金账户登陆，也看不到自己买的股票了 EOS\	O O O O O O O O O O O B-subject I-subject I-subject I-subject B-action I-action O O O O O O O O O O O O stkcode_trade_operator
+BOS 我有持仓股票的，现在都找不到了 EOS\	O O O B-subject I-subject I-subject I-subject O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 中泰齐富通手机软件升级后怎么不能用以前的账户登陆，还要重新注册，以前买的股票也看不到了 EOS\	O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O O O O O O O O O O O O B-subject I-subject O O O O O stkcode_trade_operator
+BOS 我是齐鲁证券的老客户，请问如何在齐富通登陆？ EOS\	O O O O O O O O O O O O O O O O O B-subject I-subject I-subject B-action I-action O stkcode_trade_operator
+BOS 我已开户如何交易登录 EOS\	O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 我原来手机使用的是掌e通，现在下载了你们的怎样登陆？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么没有显示交易登录 EOS\	O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 怎么没有显示交易登录 EOS\	O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 怎么登陆 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 为什么登不上去 EOS\	O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 我这没有交易版面呢 EOS\	O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 为什么换了手机，找不到登录的地方了 EOS\	O O O O O O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 为什么换了手机，找不到登录的地方了 EOS\	O O O O O O O O O O O O B-action I-action O O O O stkcode_trade_operator
+BOS 已开户手机上怎么操作 EOS\	O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action stkcode_trade_operator
+BOS 手机炒股如何下载中泰齐富通，我下了好多次全是理财版，无法使用。 EOS\	O B-subject I-subject I-subject I-subject O O B-action I-action B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 怎样查持仓 EOS\	O O O B-action I-action I-action stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 我换手机上登录不会下载了 EOS\	O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 齐鲁证券掌一通升级成我们的软件 EOS\	O O O O O O O O B-action I-action O O O O B-subject I-subject stkcode_trade_operator
+BOS 查看股票交易软件要下载什么 EOS\	O O O B-action I-action I-action I-action O O O B-action I-action O O stkcode_trade_operator
+BOS 新的app在哪里下载 EOS\	O B-subject I-subject I-subject I-subject I-subject O O O B-action I-action stkcode_trade_operator
+BOS 您好，这个软件可以买卖股票么 EOS\	O O O O O O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 请问我们的中泰正拳推出的股票交易软件，手机版怎样下载呀 EOS\	O O O O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O B-action I-action O stkcode_trade_operator
+BOS 怎么买股？ EOS\	O O O B-action I-action O stkcode_trade_operator
+BOS 我刚刚下载了中泰齐富通，怎么没有交易啊？ EOS\	O O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O B-action I-action O O stkcode_trade_operator
+BOS 在手机上怎么登录 EOS\	O O O O O O O B-action I-action stkcode_trade_operator
+BOS 我重新装了，手机软件没法登陆了，怎么办 EOS\	O O O O O O O O O O O O O B-action I-action O O O O O stkcode_trade_operator
+BOS 这软件不能交易？ EOS\	O O O O O O B-action I-action O stkcode_trade_operator
+BOS 这软件不能交易？ EOS\	O O O O O O B-action I-action O stkcode_trade_operator
+BOS 你好，请问原有的融易汇账号怎么登陆 EOS\	O O O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 交易不了 EOS\	O B-action I-action I-action I-action stkcode_trade_operator
+BOS 你好换新手机了新下的软件，请问如何登录 EOS\	O O O O O O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 你好！我刚下载的这个版本怎么找不到登陆的地方 EOS\	O O O O O O O O O O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 如何 如何买股票？ EOS\	O O O O O O B-action I-action I-action O stkcode_trade_operator
+BOS 自己的賬戶怎麼登陸不上啊，怎麼回事 EOS\	O O O O O O O O B-action I-action O O O O O O O O stkcode_trade_operator
+BOS 咋登录 EOS\	O O B-action I-action stkcode_trade_operator
+BOS 能用来交易股票吗 EOS\	O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 我新下载的这款软件，但是用户名密码以前不是用手机号登录的 EOS\	O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 怎么登录 EOS\	O O O B-action I-action stkcode_trade_operator
+BOS 现在用这个app怎么登陆不了呢 EOS\	O O O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 我有股票账户，怎样登入 EOS\	O O O B-subject I-subject I-subject I-subject O O O B-action I-action stkcode_trade_operator
+BOS 我怎么不能交易呀 EOS\	O O O O O O B-action I-action O stkcode_trade_operator
+BOS 登不上帐号 EOS\	O B-action I-action I-action I-action I-action stkcode_trade_operator
+BOS 我下载的炒股软件为什么不能用阿 EOS\	O O O O O B-action I-action O O O O O O O O O stkcode_trade_operator
+BOS 这个软件没法交易吗？ EOS\	O O O O O O O B-action I-action O O stkcode_trade_operator
+BOS 不是看理财产品，而是登录我的股票持仓账户 EOS\	O O O O O O O O O O O B-action I-action O O B-subject I-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 为何我的这个软件无法买卖股票 EOS\	O O O O O O O O O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 如何使用交易 EOS\	O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 怎么没法查询了！ EOS\	O O O O O B-action I-action O O stkcode_trade_operator
+BOS 无法登录账户 EOS\	O O O B-action I-action I-action I-action stkcode_trade_operator
+BOS 你好，新手如何买股 EOS\	O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 您好,我要进入我的股票账户怎么没发进啊 EOS\	O O O O O O B-action I-action I-action I-action I-action I-action I-action I-action O O O O O O stkcode_trade_operator
+BOS 我需要手机版登录股票的网址 EOS\	O O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject I-subject stkcode_trade_operator
+BOS 我的帐户不能登录怎么办 EOS\	O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 换了手机:，新软件下载登录不上 EOS\	O O O O O O O O O O B-action I-action B-action I-action O O stkcode_trade_operator
+BOS 原APP不能用了，刚下了这个。需要怎么操作？ EOS\	O O O O O O O O O O O O O O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 我有证券资金台账号，由于换手机新下载的齐富通软件，请问在哪个界面上能把帐号登上 EOS\	O O O B-subject I-subject I-subject I-subject I-subject I-subject I-subject O O O O O O O O O O B-subject I-subject I-subject I-subject I-subject O O O O O O O O O O O O O B-action I-action stkcode_trade_operator
+BOS 怎么股票交易啊 EOS\	O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 我的帳號怎麼還是登陸不上啊 EOS\	O O O O O O O O O B-action I-action O O O stkcode_trade_operator
+BOS 交易模块在哪 EOS\	O B-subject I-subject I-subject I-subject O O stkcode_trade_operator
+BOS 可以在电脑上登录么 EOS\	O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 我想问一下不能进行交易 EOS\	O O O O O O O O O O O O stkcode_trade_operator
+BOS 怎样买卖股票 EOS\	O O O O O O O stkcode_trade_operator
+BOS 我下载齐富通以后，找不到输入资金账号的地方 EOS\	O O B-action I-action B-subject I-subject I-subject O O O O O O B-action I-action B-subject I-subject I-subject I-subject O O O stkcode_trade_operator
+BOS 请问手机下载股票交易，怎么操作？谢谢 EOS\	O O O O O O O B-subject I-subject B-action I-action O O O O O O O O stkcode_trade_operator
+BOS 找不到买卖按钮 EOS\	O O O O B-action I-action B-subject I-subject stkcode_trade_operator
+BOS 我从买手机不会下载股票交易所 EOS\	O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 如何注册 EOS\	O O O O O stkcode_trade_operator
+BOS 你好！请问怎么在手机上下载股票交易 EOS\	O O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 怎么交易 EOS\	O O O O O stkcode_trade_operator
+BOS 用这个如何进行股票交易？ EOS\	O O O O O O O O O O O O O stkcode_trade_operator
+BOS 我换了新手机，怎样登录我帐号 EOS\	O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 我咋找不到我的自选软件了 EOS\	O O O O O O O O O O O O O stkcode_trade_operator
+BOS 齐富通能交易吗？ EOS\	O B-subject I-subject I-subject O B-action I-action O O stkcode_trade_operator
+BOS 股票用哪个软件 EOS\	O O O O O O O O stkcode_trade_operator
+BOS 怎么进行交易？ EOS\	O O O O O O O O stkcode_trade_operator
+BOS 你好，请问这软件能否交易股票，？ EOS\	O O O O O O O B-subject I-subject O O B-action I-action B-subject I-subject O O stkcode_trade_operator
+BOS 这么软件可以炒股吗 EOS\	O O O B-subject I-subject O O B-action I-action O stkcode_trade_operator
+BOS 怎么不能交易 EOS\	O O O O O O O stkcode_trade_operator
+BOS 齐富通怎么买不了股票了 EOS\	O B-subject I-subject I-subject O O O O O B-subject I-subject O stkcode_trade_operator
+BOS 你好，下了齐富通就能交易吗 EOS\	O O O O O O B-subject I-subject I-subject O O B-action I-action O stkcode_trade_operator
+BOS 在哪里手机扫一扫注册号 EOS\	O O O O O O O O O O O O stkcode_trade_operator
+BOS 我要中泰融易开户 EOS\	O O O O O O O O O stkcode_trade_operator
+BOS 我己开户，想下载炒股软件。 EOS\	O O O O O O O O O B-action I-action B-subject I-subject O stkcode_trade_operator
+BOS 你好，我的股票买了两年多了，记不清当时买的啥产品了，怎么查询啊？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 怎么进入委托 EOS\	O O O O O O O stkcode_trade_operator
+BOS 你好，刚才我在网上申请开户，没有要我的身份证，是不是我以前开过就不需要了？ EOS\	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O stkcode_trade_operator
+BOS 如何添加自选股 EOS\	O O O B-action I-action B-subject I-subject I-subject stkcode_trade_operator
+BOS 这个是中泰证券官方的app吗 EOS\	O O O O B-subject I-subject I-subject I-subject O O O B-subject I-subject I-subject O stkcode_trade_operator
+BOS 你好，我怎么下载的专业版，能看到股票信息，怎么找不到交易提示呀 EOS\	O O O O O O O O O O O O O O O O O B-subject I-subject I-subject I-subject O O O O O O B-action I-action I-action I-action O stkcode_trade_operator
+BOS 这个软件是理财的、还是登陆后炒股的 EOS\	O O O B-subject I-subject O B-action I-action O O O O O O O B-action I-action O stkcode_trade_operator
+BOS 交易系统在哪里进入 EOS\	O B-subject I-subject I-subject I-subject O O O O O stkcode_trade_operator
