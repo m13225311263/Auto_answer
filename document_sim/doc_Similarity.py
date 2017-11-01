@@ -48,7 +48,9 @@ class doc_Similarity:
 
         #establish TF-idf model for every docs
         tfidf = models.TfidfModel(doc_vectors)
-        tfidf_vectors = tfidf[doc_vectors]
+        tfidf_vectors=[]
+        for tf_item in doc_vectors:
+            tfidf_vectors.append(tfidf[tf_item])
         print("Establish TF-IDF model")
 
     # Establish LSI Model
