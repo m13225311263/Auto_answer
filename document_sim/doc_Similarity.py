@@ -54,9 +54,9 @@ class doc_Similarity:
         print("Establish TF-IDF model")
 
     # Establish LSI Model
-        lsi=models.LsiModel(tfidf_vectors,id2word=dictionary,num_topics=self.topicNum)
+        lsi=models.LsiModel(doc_vectors,id2word=dictionary,num_topics=self.topicNum)
         lsi_vector = lsi[tfidf_vectors]
-        index = similarities.MatrixSimilarity(lsi_vector)
+        index = similarities.MatrixSimilarity(lsi_vector) #cosine距离
         simi_list=[]
         for num in xrange(self.topicNum):
             '''
