@@ -24,18 +24,17 @@ class csv2txt:
                 temp=[]
                 temp.append(row[0]) #BOS
                 temp.append(row[1].decode('utf-8')) #question
-                temp.append('\t') # \t
-                temp.append('o') # loal
+                temp.append('EOS\t') # loal
                 temp.append(row[-1]) #tag
-                temp.append('\n')
                 self.data.append(temp)
 
-    def write(self, writename, data_list):
+    def write(self, data_list):
+        writename = self.saveDir + '/' + 'result.csv'
+        data=[' '.join(item) for item in data_list]
         fo = open(writename, 'w')
-        for item in data_list:
-            for w in item:
-                str = w + ""
-                fo.write(str)
+        for sen in data:
+            fo.write(sen+'\n')
+        print('Finish writing')
         fo.close()
 
 
